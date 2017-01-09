@@ -1,0 +1,2106 @@
+movieid;moviename;year;director;genre;budget;rate;moviefound
+1;L'outsider;2016;Christophe Barratier;(Thriller); ;7.0;L'outsider
+2;Moonwalkers;2016;Antoine Bardou-Jacquet;(Comedy); ;6.1;Moonwalkers
+3;Deadpool;2016;Tim Miller;(Action,Adventure,Comedy,Romance,Sci-Fi);58000000;8.1;Deadpool
+4;Nerve;2016;Henry Joost;(Adventure,Crime,Thriller);20000000;6.8;Nerve
+5;Ruroni Kenshin : Kyoto Inferno;2016; ;(Talk-Show); ;-1.0;Rurouni Kenshin: Kyoto Inferno & the Legend Ends Review
+6;Don't Grow Up;2016;Thierry Poiraud;(Drama,Horror);€2000000;4.5;Don't Grow Up
+7;Return To Sender;2016;Fouad Mikati;(Drama,Thriller); ;5.0;Return to Sender
+8;Everybody Wants Some !!;2016;Richard Linklater;(Comedy);10000000;7.1;Everybody Wants Some!!
+9;Conjuring 2 : Le Cas Enfield;2016;James Wan;(Horror,Mystery,Thriller);40000000;7.6;The Conjuring 2
+10;Ma Loute;2016;Bruno Dumont;(Comedy);€7000000;6.5;Ma Loute
+11;Andron;2016;Francesco Cinquemani;(Action,Sci-Fi); ;2.7;Andròn: The Black Labyrinth
+12;Boulevard;2016;Dito Montiel;(Drama); ;5.8;Boulevard
+13;Nie yin niang;2016; ; ; ;-1.0; 
+14;En chance til;2016;Susanne Bier;(Drama,Thriller);DKK 35000000;6.8;En chance til
+15;Kenshin : La Fin De La Legende;2016;Keishi Ohtomo;(Action,Adventure,Drama); ;7.6;Rurôni Kenshin: Densetsu no saigo-hen
+16;La Taularde;2016;Audrey Estrougo;(Drama); ;6.9;La taularde
+17;Ma Vie de Chat;2016;Barry Sonnenfeld;(Comedy,Family,Fantasy);30000000;4.5;Nine Lives
+18;Zootopia;2016;Byron Howard;(Animation,Adventure,Comedy,Crime,Family,Mystery);150000000;8.1;Zootopia
+19;Bastille Day;2016;James Watkins;(Action,Drama); ;6.3;Bastille Day
+20;Freeheld;2016;Peter Sollett;(Biography,Drama,Romance);7000000;6.5;Freeheld
+21;Man on High Heels;2016;Jin Jang;(Action,Comedy); ;6.6;Hai-hil
+22;The Strangers;2016;Hong-jin Na;(Drama,Fantasy,Horror,Mystery,Thriller); ;7.5;Goksung
+23;We Are Still Here;2016;Ted Geoghegan;(Horror); ;5.7;We Are Still Here
+24;Cigognes et Compagnie;2016;Nicholas Stoller;(Animation,Adventure,Comedy,Family,Fantasy);70000000;7.1;Storks
+25;Elle;2016;Paul Verhoeven;(Drama,Thriller); ;7.4;Elle
+26;Spotlight;2016;Tom McCarthy;(Biography,Crime,Drama,History);20000000;8.1;Spotlight
+27;La Casa del fin de los tiempos;2016;Alejandro Hidalgo;(Drama,Horror,Mystery,Thriller);300000;6.9;La casa del fin de los tiempos
+28;Bang Gang;2016;Eva Husson;(Drama); ;5.6;Bang Gang (une histoire d'amour moderne)
+29;10 Cloverfield Lane;2016;Dan Trachtenberg;(Drama,Horror,Mystery,Sci-Fi,Thriller);15000000;7.3;10 Cloverfield Lane
+30;Le Bon Gros Geant;2016;Steven Spielberg;(Adventure,Family,Fantasy);140000000;6.7;The BFG
+31;Legend;2016;Brian Helgeland;(Biography,Crime,Drama,History,Thriller);30000000;7.0;Legend
+32;Life On The Line;2016;David Hackl;(Action,Drama);12000000;5.2;Life on the Line
+33;Malgre La Nuit;2016;Philippe Grandrieux;(Drama); ;6.2;Malgré la nuit
+34;Florence Foster Jenkins;2016;Stephen Frears;(Biography,Comedy,Drama,Music,Romance);19000000;7.1;Florence Foster Jenkins
+35;La loi de la jungle;2016;Antonin Peretjatko;(Comedy); ;6.9;La loi de la jungle
+36;Cirkeln;2016;Levan Akin;(Drama,Fantasy,Horror,Mystery,Thriller); ;6.0;Cirkeln
+37;Sky;2016;Fabienne Berthaud;(Drama); ;6.0;Sky
+38;Heist;2016;Scott Mann;(Action,Crime,Thriller);19000000;6.1;Heist
+39;Julieta;2016;Pedro Almodóvar;(Drama,Romance);€1350000;7.2;Julieta
+40;Braqueurs;2016;Julien Leclercq;(Crime,Drama,Thriller); ;6.3;Braqueurs
+41;Freaks of Nature;2016;Robbie Pickering;(Comedy,Horror,Sci-Fi); ;5.9;Freaks of Nature
+42;Exte : Hair Extension;2016;Sion Sono;(Comedy,Horror); ;6.4;Ekusute
+43;Hors Controle;2016;Jake Szymanski;(Adventure,Comedy,Romance);33000000;6.1;Mike and Dave Need Wedding Dates
+44;Iceman;2016;Ariel Vromen;(Biography,Crime,Drama);10000000;6.9;The Iceman
+45;Truth;2016;James Vanderbilt;(Biography,Drama);9600000;6.8;Truth
+46;Debug;2016;David Hewlett;(Horror,Sci-Fi); ;4.4;Debug
+47;Dofus  Livre 1 : Julith;2016;Jean-Jacques Denis;(Animation,Adventure,Comedy,Fantasy); ;7.5;Dofus - Livre 1: Julith
+48;American Nightmare 3 : Elections;2016;James DeMonaco;(Action,Horror,Sci-Fi,Thriller);10000000;6.0;The Purge: Election Year
+49;Anomalisa;2016;Duke Johnson;(Animation,Comedy,Drama,Romance);8000000;7.3;Anomalisa
+50;evolution;2016;Lucile Hadzihalilovic;(Horror,Mystery,Sci-Fi); ;6.2;Évolution
+51;Batman v Superman : Dawn Of Justice;2016;Zack Snyder;(Action,Adventure,Sci-Fi);250000000;6.8;Batman v Superman: Dawn of Justice
+52;Exposed;2016;Gee Malik Linton;(Crime,Drama,Mystery,Thriller); ;4.2;Exposed
+53;Creed;2016;Ryan Coogler;(Drama,Sport);35000000;7.7;Creed
+54;The Stanford Prison Experiment;2016;Kyle Patrick Alvarez;(Biography,Drama,History,Thriller); ;6.9;The Stanford Prison Experiment
+55;The Huntsman : Winter's War;2016;Cedric Nicolas-Troyan;(Action,Adventure,Drama,Fantasy);115000000;6.1;The Huntsman: Winter's War
+56;Mistress America;2016;Noah Baumbach;(Comedy); ;6.7;Mistress America
+57;Ruroni Kenshin : Meiji kenkaku roman tan;2016;Keishi Ohtomo;(Action,Drama,History); ;7.6;Rurôni Kenshin: Meiji kenkaku roman tan
+58;The Ardennes;2016;Robin Pront;(Drama);€2200000;6.9;D'Ardennen
+59;Tremors 5 : Bloodlines;2016;Don Michael Paul;(Action,Horror,Sci-Fi,Western); ;5.3;Tremors 5: Bloodlines
+60;Bailout : The Age of Greed;2016;Evan Chan;(Short); ;-1.0;The Making of 'Bailout: The Age of Greed'
+61;Jodorowsky's Dune;2016;Frank Pavich;(Documentary); ;8.1;Jodorowsky's Dune
+62;Trumbo;2016;Jay Roach;(Biography,Crime,Drama);15000000;7.5;Trumbo
+63;The Divergent Series : Allegiant;2016; ;(Comedy,Talk-Show); ;5.4;The Divergent Series: Allegiant
+64;Whiskey Tango Foxtrot;2016;Glenn Ficarra;(Biography,Comedy,Drama,War);35000000;6.6;Whiskey Tango Foxtrot
+65;Instinct De Survie;2016;Jaume Collet-Serra;(Drama,Horror,Thriller);17000000;6.4;The Shallows
+66;Krampus;2016;Michael Dougherty;(Comedy,Fantasy,Horror);15000000;6.2;Krampus
+67;Robot Overlords;2016;Jon Wright;(Action,Adventure,Sci-Fi);21000000;4.6;Robot Overlords
+68;Le Casse;2016;Alex Brewer;(Crime,Thriller);9000000;5.4;The Trust
+69;La Couleur de la Victoire;2016;Stephen Hopkins;(Biography,Drama,Sport);5000000;7.1;Race
+70;Peter et Elliot Le Dragon;2016;David Lowery;(Adventure,Family,Fantasy);65000000;7.2;Pete's Dragon
+71;Broken Horses;2016;Vidhu Vinod Chopra;(Action,Crime,Drama,Mystery,Thriller);15000000;5.7;Broken Horses
+72;Manipulations;2016;Shintaro Shimosawa;(Drama,Thriller);11000000;5.3;Misconduct
+73;Flaskepost fra P;2016;Hans Petter Moland;(Drama,Thriller);DKK 39500000;7.0;Flaskepost fra P
+74;Infiltrator;2016;Brad Furman;(Biography,Crime,Drama,Thriller);28000000;7.1;The Infiltrator
+75;Le Fantome de Canterville;2016;Yann Samuell;(Comedy); ;4.7;Le fantôme de Canterville
+76;Criminal;2016;Ariel Vromen;(Action,Crime,Drama,Mystery,Sci-Fi,Thriller);31500000;6.3;Criminal
+77;Emelie;2016;Michael Thelin;(Horror,Thriller); ;5.4;Emelie
+78;Momentum;2016;Stephen S. Campanelli;(Action,Crime,Thriller);5000000;5.5;Momentum
+79;London Has Fallen;2016;Babak Najafi;(Action,Crime,Drama,Thriller);60000000;5.9;London Has Fallen
+80;Lea;2016;Bruno Rolland;(Drama);€1072862;4.8;Léa
+81;The Monkey King 2;2016;Pou-Soi Cheang;(Action,Adventure,Fantasy);68005000;6.0;Xi you ji zhi: Sun Wukong san da Baigu Jing
+82;Don't Breathe  La Maison Des Tenebres;2016;Fede Alvarez;(Crime,Horror,Thriller);9900000;7.4;Don't Breathe
+83;Frantz;2016;François Ozon;(Drama); ;7.5;Frantz
+84;The Runner;2016;Austin Stark;(Drama);6000000;4.6;The Runner
+85;Insaisissables 2;2016;Jon M. Chu;(Action,Adventure,Comedy,Crime,Mystery,Thriller);90000000;6.6;Now You See Me 2
+86;Goosebumps;2016;Rob Letterman;(Adventure,Comedy,Family,Fantasy,Horror);58000000;6.4;Goosebumps
+87;Bakemono no ko;2016;Mamoru Hosoda;(Animation,Action,Adventure,Fantasy); ;7.7;Bakemono no ko
+88;Kill Command;2016;Steven Gomez;(Action,Horror,Sci-Fi); ;5.7;Kill Command
+89;Eddie The Eagle;2016;Dexter Fletcher;(Biography,Comedy,Drama,Sport);23000000;7.4;Eddie the Eagle
+90;Tarzan;2016;David Yates;(Action,Adventure,Drama,Romance);180000000;6.4;The Legend of Tarzan
+91;Let Us Prey;2016;Brian O'Malley;(Horror,Thriller); ;5.7;Let Us Prey
+92;Frankenstein;2016;Paul McGuigan;(Drama,Horror,Sci-Fi,Thriller);40000000;6.0;Victor Frankenstein
+93;Warcraft;2016;Duncan Jones;(Action,Adventure,Fantasy);160000000;7.1;Warcraft
+94;Morgane;2016;Luke Scott;(Horror,Mystery,Sci-Fi,Thriller);8000000;6.0;Morgan
+95;Nos Pires Voisins 2;2016;Nicholas Stoller;(Comedy);35000000;5.8;Neighbors 2: Sorority Rising
+96;Navy Seals vs Zombies;2016;Stanton Barrett;(Action,Horror); ;3.4;Navy Seals vs. Zombies
+97;The Jungle Book;2016;Jon Favreau;(Adventure,Drama,Family,Fantasy);175000000;7.6;The Jungle Book
+98;L'odyssee;2016;Jérôme Salle;(Adventure,Biography); ;6.8;L'odyssée
+99;Money Monster;2016;Jodie Foster;(Crime,Drama,Thriller);27000000;6.6;Money Monster
+100;Nocturama;2016;Bertrand Bonello;(Thriller); ;6.8;Nocturama
+101;PsychoPass;2016;Naoyoshi Shiotani;(Animation,Action,Crime,Mystery,Sci-Fi,Thriller); ;8.3;Psycho-Pass
+102;War Dogs;2016;Todd Phillips;(Comedy,Crime,Drama,War);40000000;7.2;War Dogs
+103;A Perfect Day;2016;Fernando León de Aranoa;(Comedy,Drama,War); ;6.8;A Perfect Day
+104;The Guvnors;2016;Gabe Turner;(Thriller); ;5.8;The Guvnors
+105;Zoom;2016;Peter Hewitt;(Action,Adventure,Family,Sci-Fi);35000000;4.2;Zoom
+106;Bridget Jones Baby;2016;Sharon Maguire;(Comedy,Romance);35000000;7.4;Bridget Jones's Baby
+107;Daddy's Home;2016;Sean Anders;(Comedy,Family);50000000;6.1;Daddy's Home
+108;Narcopolis;2016;Justin Trefgarne;(Mystery,Sci-Fi,Thriller);£1000000;4.4;Narcopolis
+109;Star Trek : Sans Limites;2016;Justin Lin;(Action,Adventure,Sci-Fi,Thriller);185000000;7.3;Star Trek Beyond
+110;Mal De Pierres;2016;Nicole Garcia;(Drama,Romance);€10300000;6.8;Mal de pierres
+111;Sharknado 3 : Oh Hell No !;2016;Anthony C. Ferrante;(Horror,Sci-Fi); ;4.2;Sharknado 3: Oh Hell No!
+112;Zoolander 2;2016;Ben Stiller;(Comedy);50000000;4.8;Zoolander 2
+113;Les 7 Mercenaires;2016;John Sturges;(Action,Adventure,Western);2000000;7.8;The Magnificent Seven
+114;Triple 9;2016;John Hillcoat;(Action,Crime,Drama,Thriller);20000000;6.3;Triple 9
+115;Sleeping Giant;2016;Andrew Cividino;(Adventure,Drama); ;6.7;Sleeping Giant
+116;I Am Wrath;2016;Chuck Russell;(Action,Crime,Drama,Thriller);18000000;5.3;I Am Wrath
+117;The Sea Of Trees;2016;Gus Van Sant;(Drama);25000000;5.7;The Sea of Trees
+118;Mechanic Resurrection;2016;Dennis Gansel;(Action,Crime,Thriller);40000000;5.7;Mechanic: Resurrection
+119;S.O.S. Fantomes;2016;Ivan Reitman;(Action,Adventure,Comedy,Fantasy);30000000;7.8;Ghostbusters
+120;The Admiral;2016;Roel Reiné;(Action,Adventure,Biography,Drama,History);€8000000;7.1;Michiel de Ruyter
+121;Eichmann Show;2016;Paul Andrew Williams;(Drama); ;6.6;The Eichmann Show
+122;Mr. Holmes;2016;Bill Condon;(Drama,Mystery); ;6.9;Mr. Holmes
+123;The Danish Girl;2016;Tom Hooper;(Biography,Drama,Romance);15000000;7.0;The Danish Girl
+124;Hush;2016;Jamie Travis;(Crime,Drama,Horror,Mystery,Thriller); ;7.3;Scream: The TV Series
+125;The Neon Demon;2016;Nicolas Winding Refn;(Horror,Thriller);7000000;6.4;The Neon Demon
+126;BenHur;2016;Timur Bekmambetov;(Action,Adventure,Drama);100000000;5.7;Ben-Hur
+127;La Tortue Rouge;2016;Michael Dudok de Wit;(Animation,Fantasy); ;7.7;La tortue rouge
+128;The Rezort;2016;Steve Barker;(Horror); ;5.1;The Rezort
+129;Un Petit Boulot;2016;Pascal Chaumeil;(Comedy); ;6.7;Un petit boulot
+130;Bad Moms;2016;Jon Lucas;(Comedy);20000000;6.5;Bad Moms
+131;Demolition;2016;Jean-Marc Vallée;(Drama); ;7.0;Demolition
+132;Agents Presque Secrets;2016;Rawson Marshall Thurber;(Action,Comedy,Crime);50000000;6.4;Central Intelligence
+133;La Danseuse;2016;Stéphanie Di Giusto;(Biography,Drama,Music); ;6.2;La danseuse
+134;Jason Bourne;2016;Paul Greengrass;(Action,Thriller);120000000;6.9;Jason Bourne
+135;Tian jiang xiong shi;2016;Daniel Lee;(Action,Adventure,Drama,History);65000000;6.1;Tian jiang xiong shi
+136;HighRise;2016;Robbie Norris;(Short,Comedy,Drama); ;7.8;Highrise
+137;Age of Tomorrow;2016;James Kondelik;(Action,Sci-Fi,Thriller); ;2.0;Age of Tomorrow
+138;Green Room;2016;Jeremy Saulnier;(Crime,Horror,Music,Thriller);5000000;7.1;Green Room
+139;Bone Tomahawk;2016;S. Craig Zahler;(Adventure,Drama,Horror,Western);1800000;7.1;Bone Tomahawk
+140;Kubo et l'Armure Magique;2016;Travis Knight;(Animation,Adventure,Family,Fantasy);60000000;8.3;Kubo and the Two Strings
+141;Blair Witch;2016;Adam Wingard;(Horror,Thriller);5000000;5.4;Blair Witch
+142;Genius;2016;Michael Grandage;(Biography,Drama); ;6.6;Genius
+143;Cut Bank;2016;Matt Shakman;(Thriller);5000000;6.0;Cut Bank
+144;Le Correspondant;2016;Jean-Michel Ben Soussan;(Comedy); ;3.8;Le correspondant
+145;The Face of an Angel;2016;Michael Winterbottom;(Drama); ;4.6;The Face of an Angel
+146;The Veil;2016;Phil Joanou;(Drama,Horror,Thriller);4000000;4.7;The Veil
+147;Hardcore Henry;2016;Ilya Naishuller;(Action,Adventure,Sci-Fi,Thriller);2000000;6.8;Hardcore Henry
+148;Jane Got a Gun;2016;Gavin O'Connor;(Action,Drama,Western);25000000;5.8;Jane Got a Gun
+149;The Forest;2016;Jason Zada;(Horror,Mystery,Thriller);10000000;4.8;The Forest
+150;Mafiya : Igra na vyzhivanie;2016;Sarik Andreasyan;(Action,Sci-Fi,Thriller); ;4.9;Mafiya: Igra na vyzhivanie
+151;Cop Car;2016;Jon Watts;(Crime,Thriller); ;6.2;Cop Car
+152;Les Visiteurs  La Revolution;2016;Jean-Marie Poiré;(Comedy);€25000000;4.4;Les Visiteurs: La Révolution
+153;Suicide Squad;2016;David Ayer;(Action,Adventure,Fantasy,Sci-Fi);175000000;6.6;Suicide Squad
+154;Gods of Egypt;2016;Alex Proyas;(Action,Adventure,Fantasy);140000000;5.5;Gods of Egypt
+155;Le Dernier Train Pour Busan;2016; ; ; ;-1.0; 
+156;El Desconocido;2016;George Stevens;(Drama,Romance,Western);3100000;7.7;Shane
+157;Ride Along 2;2016;Tim Story;(Action,Comedy);40000000;5.9;Ride Along 2
+158;Night Fare;2016;Julien Seri;(Thriller); ;5.2;Night Fare
+159;American Hero;2016;Nick Love;(Action,Comedy,Drama,Sci-Fi);990000;4.9;American Hero
+160;Diamant Noir;2016;Arthur Harari;(Drama); ;6.8;Diamant noir
+161;Secret In Their Eyes;2016;Billy Ray;(Crime,Drama,Mystery,Thriller);19500000;6.2;Secret in Their Eyes
+162;Cell Phone;2016;Tod Williams;(Horror,Sci-Fi,Thriller); ;4.3;Cell
+163;Jack Reacher : Never Go Back;2016;Edward Zwick;(Action,Adventure,Crime,Mystery,Thriller);68000000;7.3;Jack Reacher: Never Go Back
+164;The Brothers Grimsby;2016;Louis Leterrier;(Action,Adventure,Comedy);35000000;6.2;Grimsby
+165;Pay The Ghost;2016;Uli Edel;(Drama,Horror,Mystery,Thriller); ;5.2;Pay the Ghost
+166;Musaranas;2016;Juanfer Andrés;(Drama,Horror,Thriller); ;6.7;Musarañas
+167;600 Miles;2016;Gabriel Ripstein;(Drama,Thriller); ;5.5;600 Millas
+168;Sweet Home;2016;Rafa Martínez;(Horror); ;5.1;Sweet Home
+169;Le Convoi;2016;Sam Peckinpah;(Action,Drama);12000000;6.3;Convoy
+170;Remember;2016;Atom Egoyan;(Drama,Thriller);CAD13000000;7.4;Remember
+171;Vice;2016;Chris Addison;(Comedy); ;8.1;Veep
+172;Time Lapse;2016;Bradley King;(Sci-Fi,Thriller); ;6.5;Time Lapse
+173;XMen : Apocalypse;2016;Bryan Singer;(Action,Adventure,Sci-Fi);178000000;7.2;X-Men: Apocalypse
+174;The Hallow;2016;Corin Hardy;(Horror); ;5.7;The Hallow
+175;Intruders;2016;Adam Schindler;(Drama,Horror,Thriller); ;5.7;Shut In
+176;Close Range;2016;Isaac Florentine;(Action,Crime);3000000;4.9;Close Range
+177;The Angry Birds Movie;2016;Clay Kaytis;(Animation,Action,Comedy,Family);73000000;6.3;Angry Birds
+178;Ghost In The Shell : The New Movie;2016;Kazuchika Kise;(Animation,Action,Sci-Fi); ;6.8;Kôkaku Kidôtai
+179;Crouching Tiger, Hidden Dragon : Sword Of Destiny;2016;Woo-Ping Yuen;(Action,Adventure,Drama,Fantasy);20000000;6.1;Crouching Tiger, Hidden Dragon: Sword of Destiny
+180;Juste La Fin Du Monde;2016;Xavier Dolan;(Drama); ;7.2;Juste la fin du monde
+181;Comancheria;2016;David Mackenzie;(Crime,Drama);12000000;8.2;Hell or High Water
+182;Jarhead 3 : Le Siege;2016;William Kaufman;(Action,Drama,War); ;5.2;Jarhead 3: The Siege
+183;These Final Hours;2016;Zak Hilditch;(Drama,Sci-Fi,Thriller);AUD 2500000;6.6;These Final Hours
+184;L'ideal;2016;Frédéric Beigbeder; ; ;5.5;L'idéal
+185;Deepwater;2016;Peter Berg;(Action,Drama,Thriller);110000000;7.5;Deepwater Horizon
+186;La Chanson de;2016;Pascal Duchène;(Music); ;-1.0;La chanson de l'année
+187;Yip Man 3;2016;Wilson Yip;(Action,Biography,Drama,History);36000000;7.1;Yip Man 3
+188;Backtrack;2016;Michael Petroni;(Drama,Horror,Mystery,Thriller); ;5.9;Backtrack
+189;The Other Side Of The Door;2016;Johannes Roberts;(Horror); ;5.3;The Other Side of the Door
+190;Les Tortues Ninjas 2;2016;Michael Pressman;(Action,Adventure,Comedy,Family,Sci-Fi);25000000;6.0;Teenage Mutant Ninja Turtles II: The Secret of the Ooze
+191;Virtual Revolution;2016;Guy-Roger Duvert;(Sci-Fi);3200000;7.6;Virtual Revolution
+192;The Human Centipede 3 : Final Sequence;2016; ;(Comedy,Horror,Talk-Show); ;-1.0;The Human Centipede 3 (Final Sequence)
+193;Last Knights;2016;Kazuaki Kiriya;(Action,Adventure); ;6.2;Last Knights
+194;The Finest Hours;2016;Craig Gillespie;(Action,Drama,History,Thriller);80000000;6.8;The Finest Hours
+195;The Hateful Eight;2016;Quentin Tarantino;(Crime,Drama,Mystery,Thriller,Western);44000000;7.9;The Hateful Eight
+196;Blood Father;2016;Jean-François Richet;(Action,Crime,Thriller); ;6.5;Blood Father
+197;The 5th Wave;2016;J Blakeson;(Action,Adventure,Sci-Fi,Thriller);38000000;5.2;The 5th Wave
+198;Point Break;2016;Ericson Core;(Action,Crime,Sport,Thriller);105000000;5.3;Point Break
+199;Captain Fantastic;2016;Matt Ross;(Comedy,Drama,Romance); ;8.0;Captain Fantastic
+200;Extinction;2016;Miguel Ángel Vivas;(Drama,Horror,Sci-Fi);€7000000;5.8;Extinction
+201;L'Age de Glace 5 : Les Lois de l'Univers;2016;Mike Thurmeier;(Animation,Adventure,Comedy,Family,Sci-Fi);105000000;5.7;Ice Age: Collision Course
+202;The Night Before;2016;Jonathan Levine;(Comedy);25000000;6.5;The Night Before
+203;Closer to God;2016;Billy Senese;(Horror,Sci-Fi,Thriller); ;4.6;Closer to God
+204;JeruZalem;2016;Doron Paz;(Horror,Thriller,War); ;4.7;Jeruzalem
+205;Cosmodrama;2016;Philippe Fernandez;(Comedy,Drama,Sci-Fi); ;5.9;Cosmodrama
+206;Elvis and Nixon;2016;Liza Johnson;(Comedy,History); ;6.5;Elvis & Nixon
+207;Colonia;2016;Florian Gallenberger;(Drama,Romance,Thriller);14000000;7.1;Colonia
+208;Concussion;2016;Peter Landesman;(Biography,Drama,Sport);35000000;7.1;Concussion
+209;Kung Fu Panda 3;2016;Alessandro Carloni;(Animation,Action,Adventure,Comedy,Family,Fantasy);145000000;7.2;Kung Fu Panda 3
+210;Steve Jobs;2016;Danny Boyle;(Biography,Drama);30000000;7.2;Steve Jobs
+211;The Revenant;2016;Alejandro G. Iñárritu;(Adventure,Drama,Thriller,Western);135000000;8.1;The Revenant
+212;13 Hours : The Secret Soldiers of Benghazi;2016; ;(Comedy,Talk-Show); ;5.8;13 Hours: The Secret Soldiers of Benghazi/Ride Along 2
+213;The Physician;2016;Philipp Stölzl;(Adventure,Drama,History);36000000;7.2;The Physician
+214;The Witch;2016;Robert Eggers;(Horror,Mystery);3500000;6.7;The VVitch: A New-England Folktale
+215;Belgica;2016;Felix van Groeningen;(Drama); ;6.9;Belgica
+216;Hail, Caesar !;2016;Ethan Coen;(Comedy,Mystery);22000000;6.4;Hail, Caesar!
+217;Independence Day : Resurgence;2016;Roland Emmerich;(Action,Adventure,Sci-Fi);165000000;5.4;Independence Day: Resurgence
+218;Burying the Ex;2016;Joe Dante;(Comedy,Horror,Romance); ;5.4;Burying the Ex
+219;Ratchet and Clank;2016;Max Song; ; ;6.8;Ratchet and Clank
+220;Le Monde de Dory;2016;Andrew Stanton;(Animation,Adventure,Comedy,Family);200000000;7.7;Finding Dory
+221;Blunt Force Trauma;2016;Ken Sanzel;(Action);1000000;4.6;Blunt Force Trauma
+222;Un Monstre a Mille Tetes;2016;Rodrigo Plá;(Drama,Thriller); ;6.5;Un monstruo de mil cabezas
+223;Risen;2016;Kevin Reynolds;(Action,Adventure,Drama,Mystery);20000000;6.3;Risen
+224;L'etrange cas de Deborah Logan;2016;Adam Robitel;(Horror,Mystery,Thriller);1500000;6.0;The Taking
+225;Cafe Society;2016;Woody Allen;(Comedy,Drama,Romance);30000000;6.8;Café Society
+226;Irreprochable;2016;Sébastien Marnier;(Thriller);€2300000;6.5;Irréprochable
+227;Miss Peregrine Et Les Enfants Particuliers;2016;Tim Burton;(Adventure,Drama,Family,Fantasy);110000000;7.1;Miss Peregrine's Home for Peculiar Children
+228;Skin Trade;2016;Ekachai Uekrongtham;(Action,Crime,Thriller);9000000;5.7;Skin Trade
+229;Sons of Liberty;2016;Kari Skogland;(Drama,History); ;7.6;Sons of Liberty
+230;Kingsglaive : Final Fantasy XV;2016;Takeshi Nozue;(Animation,Action,Adventure,Drama,Fantasy,Sci-Fi); ;7.0;Kingsglaive: Final Fantasy XV
+231;Criminal Activities;2016;Jackie Earle Haley;(Crime,Drama,Thriller);7000000;5.8;Criminal Activities
+232;Sisters;2016;Jason Moore;(Comedy);30000000;6.0;Sisters
+233;Carol;2016;Todd Haynes;(Drama,Romance);11800000;7.2;Carol
+234;Midnight Special;2016;Jeff Nichols;(Adventure,Drama,Sci-Fi,Thriller);18000000;6.7;Midnight Special
+235;House of Time;2016;Jonathan Helpert;(Comedy,Mystery,Sci-Fi,Thriller); ;6.0;House of Time
+236;Wild Horses;2016;Robert Duvall;(Crime,Drama); ;4.8;Wild Horses
+237;Les Premiers, les Derniers;2016;Bouli Lanners;(Comedy,Crime,Romance); ;6.7;Les premiers les derniers
+238;Batman : The Killing Joke;2016;Sam Liu;(Animation,Action,Crime,Drama,Sci-Fi,Thriller);3500000;6.6;Batman: The Killing Joke
+239;Room;2016;Lenny Abrahamson;(Drama);13000000;8.2;Room
+240;Free State of Jones;2016;Gary Ross;(Action,Biography,Drama,History,War);50000000;6.9;Free State of Jones
+241;The Himalayas;2016;Seok-hoon Lee;(Drama); ;6.2;Himalaya
+242;Spooks : The Greater;2016;Mathew Buck; ; ;-1.0;San Andreas/Spooks: The Greater Good
+243;119 Jours : Les Survivants de l'Ocean;2016;John Laing;(Drama); ;6.4;Abandoned
+244;Made in France;2016;Nicolas Boukhrief;(Crime,Drama,Thriller); ;6.2;Made in France
+245;The Boy;2016;William Brent Bell;(Horror,Mystery,Thriller);10000000;6.0;The Boy
+246;The Human Centipede 2;2016;Tom Six;(Horror);€1500000;4.4;The Human Centipede (First Sequence)
+247;Captain America : Civil War;2016;Anthony Russo;(Action,Adventure,Sci-Fi);250000000;8.0;Captain America: Civil War
+248;Pandemic;2016;John Suits;(Action,Horror,Sci-Fi,Thriller); ;4.6;Pandemic
+249;Une Vie Entre Deux Oceans;2016;Derek Cianfrance;(Drama,Romance);20000000;7.3;The Light Between Oceans
+250;Dans Le Noir;2016;David F. Sandberg;(Horror,Thriller);4900000;6.5;Lights Out
+251;El Clan;2016;Pablo Trapero;(Biography,Crime,Drama,Thriller); ;7.0;El Clan
+252;Grave Encounters : 2,84;2016;John Poliquin;(Horror); ;5.2;Grave Encounters 2
+253;Falcon Rising;2016;Ernie Barbarash;(Action,Adventure);4500000;5.8;Falcon Rising
+254;Love and Friendship :;2016;Whit Stillman;(Comedy,Drama,Romance);3000000;6.7;Love & Friendship
+255;Comme Des Betes;2016;Yarrow Cheney;(Animation,Adventure,Comedy,Family);75000000;6.7;The Secret Life of Pets
+256;Alice in Wonderland 2 : Through the Looking Glass;2016; ;(Drama,Musical); ;-1.0;Alice's Adventures in Wonderland and Through the Looking-Glass
+257;Desierto;2016;Jonás Cuarón;(Drama,Thriller);3000000;5.7;Desierto
+258;The Nice Guys;2016;Shane Black;(Action,Comedy,Crime,Mystery,Thriller);50000000;7.4;The Nice Guys
+259;Un Traite Ideal;2016; ; ; ;-1.0; 
+260;La Prophetie De L'anneau;2016;Roland Joffé;(Action,Adventure,Romance,Sci-Fi); ;4.5;The Lovers
+261;The Boss;2016;Ben Falcone;(Comedy);29000000;5.4;The Boss
+262;La legende de Baahubali : 1ere partie;2016;S.S. Rajamouli;(Action,Adventure,Drama,Fantasy,War);18026148;8.4;Baahubali: The Beginning
+263;Maend and høns;2016;Anders Thomas Jensen;(Comedy,Drama,Mystery,Sci-Fi); ;6.7;Mænd & høns
+264;Hacker;2015;Michael Mann;(Action,Crime,Drama,Mystery,Thriller);70000000;5.4;Blackhat
+265;Sinister 2;2015;Ciarán Foy;(Horror,Mystery,Thriller);10000000;5.3;Sinister 2
+266;Une merveilleuse histoire du temps;2015;James Marsh;(Biography,Drama,Romance);15000000;7.7;The Theory of Everything
+267;Der Samurai;2015;Till Kleinert;(Fantasy,Horror,Thriller); ;5.7;Der Samurai
+268;Hitman: Agent 47;2015;Aleksander Bach;(Action,Crime,Thriller);35000000;5.7;Hitman: Agent 47
+269;Knock Knock;2015;Eli Roth;(Drama,Horror,Thriller);2500000;4.9;Knock Knock
+270;Crimson Peak;2015;Guillermo del Toro;(Drama,Fantasy,Horror,Mystery,Romance,Thriller);55000000;6.6;Crimson Peak
+271;Les Dossiers secrets du Vatican;2015;Mark Neveldine;(Horror,Thriller);8000000;4.6;The Vatican Tapes
+272;The Visit;2015;M. Night Shyamalan;(Horror,Thriller);5000000;6.2;The Visit
+273;Visions;2015;Kevin Greutert;(Drama,Horror,Mystery); ;5.3;Visions
+274;Divergente 2 : l insurrection;2015; ; ; ;-1.0; 
+275;At the Devil's Door;2015;Nicholas McCarthy;(Horror); ;4.8;Home
+276;Horsehead;2015;Romain Basset;(Fantasy,Horror); ;4.9;Horsehead
+277;Almost Human;2015;Sam Hill;(Action,Crime,Drama,Sci-Fi); ;8.1;Almost Human
+278;Stung;2015;Benni Diez;(Comedy,Horror);2500000;5.0;Stung
+279;Kill Your Friends;2015;Owen Harris;(Comedy,Crime,Thriller); ;6.1;Kill Your Friends
+280;L'Homme aux poings de fer 2;2015;Roel Reiné;(Action); ;4.4;The Man with the Iron Fists 2
+281;Charlie Mortdecai;2015;David Koepp;(Action,Comedy,Mystery,Romance);60000000;5.5;Mortdecai
+282;American Sniper;2015;Clint Eastwood;(Action,Biography,Drama,History,Thriller,War);58800000;7.3;American Sniper
+283;Jupiter : Le destin de l'Univers;2015;Lana Wachowski;(Action,Adventure,Sci-Fi);176000000;5.4;Jupiter Ascending
+284;Housebound;2015;Gerard Johnstone;(Comedy,Horror,Mystery);NZD 350000;6.8;Housebound
+285;Life;2015;Daniel Espinosa;(Sci-Fi,Thriller); ;-1.0;Life
+286;7 Boxes;2015;Juan Carlos Maneglia;(Thriller); ;7.2;7 cajas
+287;Pixels;2015;Chris Columbus;(Animation,Action,Comedy,Sci-Fi);88000000;5.6;Pixels
+288;Les Nouveaux sauvages;2015;Damián Szifrón;(Comedy,Drama,Thriller);3300000;8.1;Relatos salvajes
+289;Mercy;2015;Andrew Bernstein;(Drama); ;7.2;Mercy
+290;Dead Rising : Watchtower;2015;Zach Lipovsky;(Action,Horror); ;5.2;Dead Rising
+291;Le Voyage d'Arlo;2015;Peter Sohn;(Animation,Adventure,Comedy,Drama,Family,Fantasy);175000000;6.8;The Good Dinosaur
+292;Survivor;2015;Michael Simon;(Adventure,Game-Show,Reality-TV);1000000;7.0;Survivor
+293;Entourage;2015;Julian Farino;(Comedy,Drama); ;8.5;Entourage
+294;Pas de repit pour les salauds;2015; ; ; ;-1.0; 
+295;Getaway;2015;Courtney Solomon;(Action,Crime,Thriller);18000000;4.4;Getaway
+296;Projet 666;2015;Marcus Nispel;(Horror,Mystery,Thriller); ;4.6;Exeter
+297;The Devil's Pact;2015;Dallas Richard Hallam;(Horror,Mystery,Thriller); ;4.4;The Pact II
+298;Joker;2015;Simon West;(Action,Crime,Drama,Thriller);30000000;5.6;Wild Card
+299;Suburra;2015;Stefano Sollima;(Crime,Drama,Thriller);€7000000;7.4;Suburra
+300;Black Sea;2015;Kevin Macdonald;(Adventure,Thriller); ;6.4;Black Sea
+301;Enfant 44;2015;Daniel Espinosa;(Crime,Drama,Thriller);50000000;6.5;Child 44
+302;Kingsman : Services secrets;2015;Matthew Vaughn;(Action,Adventure,Comedy,Crime,Thriller);81000000;7.8;Kingsman: The Secret Service
+303;The Big Short : le Casse du siecle;2015;Adam McKay;(Biography,Comedy,Drama,History);28000000;7.8;The Big Short
+304;Lost River;2015;Ryan Gosling;(Drama,Fantasy,Mystery,Thriller);2000000;5.8;Lost River
+305;The White Storm  Narcotic;2015;Benny Chan;(Action,Crime,Thriller); ;6.7;Sao du
+306;The Mirror;2015;Mike Flanagan;(Horror,Mystery);5000000;6.5;Oculus
+307;Spy;2015;Paul Feig;(Action,Comedy,Crime);65000000;7.1;Spy
+308;La Resistance de l'air;2015;Fred Grivois;(Drama); ;5.8;La résistance de l'air
+309;Ni le ciel ni la terre;2015;Clément Cogitore;(Drama,Fantasy,Mystery,Thriller,War); ;6.5;Ni le ciel ni la terre
+310;Goodnight Mommy;2015;Severin Fiala;(Drama,Horror,Mystery,Thriller); ;6.7;Ich seh ich seh
+311;The Voices;2015;Marjane Satrapi;(Comedy,Crime,Horror,Thriller); ;6.3;The Voices
+312;La Nina de Fuego;2015;Carlos Vermut;(Drama,Thriller); ;7.2;Magical Girl
+313;Macbeth;2015;Justin Kurzel;(Drama,War);15000000;6.7;Macbeth
+314;Fast and Furious 7;2015;James Wan;(Action,Crime,Thriller);190000000;7.2;Furious Seven
+315;Everly;2015;Joe Lynch;(Action,Thriller); ;5.1;Everly
+316;Mockingbird;2015; ;(Action,Drama,Sci-Fi); ;-1.0;Marvel's Most Wanted
+317;Crazy Amy;2015;Judd Apatow;(Comedy,Drama,Romance);35000000;6.3;Trainwreck
+318;KonTiki;2015; ;(Family); ;8.1;Kontiki
+319;American Ultra;2015;Nima Nourizadeh;(Action,Comedy,Sci-Fi,Thriller);28000000;6.1;American Ultra
+320;Jamais de la vie;2015;Pierre Jolivet;(Drama); ;6.0;Jamais de la vie
+321;San Andreas;2015;Brad Peyton;(Action,Adventure,Drama,Thriller);110000000;6.1;San Andreas
+322;Premonitions;2015;Afonso Poyart;(Crime,Drama,Mystery,Thriller); ;6.4;Solace
+323;Hard Day;2015;Seong-hun Kim;(Comedy,Crime,Thriller); ;7.2;Kkeut-kka-ji-gan-da
+324;a la poursuite de demain;2015;Brad Bird;(Action,Adventure,Family,Mystery,Sci-Fi);190000000;6.5;Tomorrowland
+325;Hors de portee;2015;Jean-Baptiste Léonetti;(Thriller); ;5.6;Beyond the Reach
+326;Final Girl : La derniere proie;2015;Tyler Shields;(Action,Drama,Horror,Thriller);8000000;4.7;Final Girl
+327;La Sentinelle;2015;Paul Schrader;(Drama,Thriller);5000000;4.4;Dying of the Light
+328;Dheepan;2015;Jacques Audiard;(Crime,Drama); ;7.2;Dheepan
+329;Star Wars  Le Reveil de la Force;2015;Benjamin Daniel;(Comedy); ;-1.0;Star Wars VII - Le Réveil de la Force
+330;Pension complete;2015;Florent-Emilio Siri;(Comedy); ;4.2;Pension complète
+331;Captives;2015;Atom Egoyan;(Crime,Drama,Mystery,Thriller); ;5.9;The Captive
+332;Dangerous People;2015;Henrik Ruben Genz;(Action,Crime,Thriller); ;5.5;Good People
+333;Open Windows;2015;Nacho Vigalondo;(Crime,Thriller);€3000000;5.2;Open Windows
+334;The Lobster;2015;Yorgos Lanthimos;(Comedy,Drama,Romance,Sci-Fi);€4000000;7.1;The Lobster
+335;A Most Violent Year;2015;J.C. Chandor;(Action,Crime,Drama,Thriller);20000000;7.0;A Most Violent Year
+336;La Revanche des Dragons Verts;2015;Wai-Keung Lau;(Action,Crime,Drama);5000000;5.3;Revenge of the Green Dragons
+337;Vers l'autre rive;2015;Kiyoshi Kurosawa;(Drama,Fantasy,Romance); ;6.3;Kishibe no tabi
+338;Le Labyrinthe : La Terre brulee;2015;Wes Ball;(Action,Sci-Fi,Thriller);61000000;6.4;Maze Runner: The Scorch Trials
+339;Au coeur de l'Ocean;2015;Ron Howard;(Action,Adventure,Biography,Drama,History,Thriller);100000000;6.9;In the Heart of the Sea
+340;Le Transporteur : heritage;2015;Camille Delamarre;(Action,Crime,Thriller);25000000;5.1;The Transporter Refueled
+341;Frank;2015;Lenny Abrahamson;(Comedy,Drama,Music); ;7.0;Frank
+342;Les ames silencieuses;2015;John Pogue;(Horror);200000;5.1;The Quiet Ones
+343;Everest;2015;Baltasar Kormákur;(Adventure,Biography,Drama,History,Sport,Thriller);55000000;7.1;Everest
+344;Les Enquetes du Departement V : Profanation;2015;Mikkel Nørgaard;(Crime,Mystery,Thriller);€5200000;7.1;Fasandræberne
+345;Still Alice;2015;Richard Glatzer;(Drama);5000000;7.5;Still Alice
+346;Le Tout Nouveau Testament;2015;Jaco Van Dormael;(Comedy,Fantasy);€8555500;7.2;Le tout nouveau testament
+347;Waste Land;2015;Lucy Walker;(Documentary);1500000;7.9;Waste Land
+348;The Green Inferno;2015;Eli Roth;(Adventure,Horror);6000000;5.4;The Green Inferno
+349;Dragon Ball Z  Le Film : La resurrection de F;2015; ; ; ;-1.0; 
+350;Poltergeist;2015;Tobe Hooper;(Fantasy,Horror);10700000;7.4;Poltergeist
+351;Infini;2015;Shane Abbess;(Horror,Sci-Fi,Thriller);800000;5.4;Infini
+352;The Dead Lands, La terre des guerriers;2015;Toa Fraser;(Action); ;6.3;The Dead Lands
+353;Antigang;2015;Benjamin Rocher;(Drama,Action); ;5.7;Antigang
+354;N.W.A  Straight Outta Compton;2015;F. Gary Gray;(Biography,Crime,Drama,History,Music);28000000;7.9;Straight Outta Compton
+355;Croisades;2015;Nick Powell;(Action,Adventure,Thriller);25000000;4.6;Outcast
+356;Taken 3;2015;Olivier Megaton;(Action,Thriller);48000000;6.0;Taken 3
+357;Les Nouveaux Heros;2015;Don Hall;(Animation,Action,Adventure,Comedy,Drama,Family,Sci-Fi);165000000;7.9;Big Hero 6
+358;Le Dernier loup;2015;Jean-Jacques Annaud;(Adventure);38000000;6.7;Le dernier loup
+359;Boruto : Naruto, le film;2015; ; ; ;-1.0; 
+360;Maggie;2015;Henry Hobson;(Drama,Horror);8500000;5.6;Maggie
+361;Les Minions;2015;Kyle Balda;(Animation,Action,Adventure,Comedy,Family);74000000;6.4;Minions
+362;Mon Roi;2015;Maïwenn;(Drama,Romance); ;7.0;Mon roi
+363;Exists;2015;Eduardo Sánchez;(Action,Adventure,Horror); ;5.2;Exists
+364;Renaissances;2015;Tarsem Singh;(Action,Mystery,Sci-Fi,Thriller);26000000;6.5;Self/less
+365;Queen and Country;2015;John Boorman;(Drama); ;6.3;Queen & Country
+366;The Terror Live;2015;Byung-woo Kim;(Action,Crime,Thriller); ;7.2;Deu tae-ro ra-i-beu
+367;Le Prodige;2015;Edward Zwick;(Biography,Drama,Sport);19000000;7.0;Pawn Sacrifice
+368;True Story;2015;Rupert Goold;(Crime,Drama,Mystery,Thriller); ;6.3;True Story
+369;Les Enquetes du Departement V : Misericorde;2015;Mikkel Nørgaard;(Crime,Mystery,Thriller);€5000000;7.2;Dept. Q: The Keeper of Lost Causes
+370;Open Grave;2015;Gonzalo López-Gallego;(Horror,Mystery,Thriller); ;6.3;Open Grave
+371;Life After Beth;2015;Jeff Baena;(Comedy,Horror,Romance);2400000;5.6;Life After Beth
+372;Les Fant4stiques;2015;Michaël Flamand;(Short,Comedy);CAD311;-1.0;Les Pas-Très-Fant4stiques
+373;Viceversa;2015;Brian Gilbert;(Comedy,Fantasy); ;5.7;Vice Versa
+374;Un voisin trop parfait;2015;Rob Cohen;(Mystery,Thriller);4000000;4.6;The Boy Next Door
+375;Magic Mike XXL;2015;Gregory Jacobs;(Comedy,Drama,Music);14800000;5.7;Magic Mike XXL
+376;Le Pont des Espions;2015;Steven Spielberg;(Drama,History,Thriller);40000000;7.6;Bridge of Spies
+377;The Signal;2015;William Eubank;(Sci-Fi,Thriller);4000000;6.1;The Signal
+378;Foxcatcher;2015;Bennett Miller;(Biography,Drama,Sport);24000000;7.0;Foxcatcher
+379;Cendrillon;2015;Kenneth Branagh;(Drama,Family,Fantasy,Romance);95000000;7.0;Cinderella
+380;Son of a Gun;2015;Julius Avery;(Action,Crime,Drama,Thriller); ;6.5;Son of a Gun
+381;Jurassic World;2015;Colin Trevorrow;(Action,Adventure,Sci-Fi);150000000;7.0;Jurassic World
+382;Cinquante Nuances de Grey;2015;Sam Taylor-Johnson;(Drama,Romance,Thriller);40000000;4.1;Fifty Shades of Grey
+383;Le Dernier chasseur de sorcieres;2015;Breck Eisner;(Action,Adventure,Fantasy);90000000;6.0;The Last Witch Hunter
+384;400 Days;2015;Matt Osterman;(Mystery,Sci-Fi,Thriller); ;4.5;400 Days
+385;Shaun le mouton, le film;2015;Mark Burton;(Animation,Adventure,Comedy,Family,Fantasy);25000000;7.4;Shaun the Sheep Movie
+386;Victoria;2015;Oliver Blackburn;(Biography,Drama,History); ;-1.0;Victoria
+387;Kundo;2015;Jong-bin Yun;(Action,Drama); ;6.8;Kundo: Min-ran-eui si-dae
+388;Taj Mahal;2015;M. Sadiq;(Drama,Romance,Musical); ;7.6;Taj Mahal
+389;Inherent Vice;2015;Paul Thomas Anderson;(Comedy,Crime,Drama,Mystery,Romance);20000000;6.7;Inherent Vice
+390;Mad Max: Fury Road;2015;George Miller;(Action,Adventure,Sci-Fi,Thriller);150000000;8.1;Mad Max: Fury Road
+391;Tokyo Tribe;2015;Sion Sono;(Crime,Musical); ;6.4;Tokyo Tribe
+392;Paranormal Activity 5 Ghost Dimension;2015;Gregory Plotkin;(Horror);10000000;4.6;Paranormal Activity: The Ghost Dimension
+393;Night Run;2015;Jaume Collet-Serra;(Action,Crime,Drama,Thriller);50000000;6.6;Run All Night
+394;Le Chaos;2015;Vic Armstrong;(Action,Drama,Fantasy,Mystery,Thriller);16000000;3.1;Left Behind
+395;Selma;2015;Ava DuVernay;(Biography,Drama,History);20000000;7.5;Selma
+396;Wolf Creek 2;2015;Greg McLean;(Action,Horror,Thriller);7200000;6.1;Wolf Creek 2
+397;La Isla Minima;2015;Alberto Rodríguez;(Crime,Thriller);€4000000;7.3;La isla mínima
+398;Agents tres speciaux  Code U.N.C.L.E;2015;Guy Ritchie;(Action,Adventure,Comedy);75000000;7.3;The Man from U.N.C.L.E.
+399;Le Projet Atticus;2015;Chris Sparling;(Horror); ;5.5;The Atticus Institute
+400;Pyramide;2015;Grégory Levasseur;(Action,Adventure,Horror,Thriller);6500000;4.6;The Pyramid
+401;Sea Fog  Les Clandestins;2015;Sung-bo Shim;(Drama); ;6.9;Haemoo
+402;Special ID;2015;Clarence Yiu-leung Fok;(Action,Crime,Drama); ;5.5;Te shu shen fen
+403;Gallows;2015;Travis Cluff;(Horror,Thriller);100000;4.2;The Gallows
+404;Patrick;2015;Mark Hartley;(Horror,Sci-Fi,Thriller); ;4.9;Patrick
+405;Naruto the Last  Le film;2015;Tsuneo Kobayashi;(Animation,Action,Adventure,Comedy,Romance);¥120000000;7.8;The Last: Naruto the Movie
+406;The Gambler;2015;Rupert Wyatt;(Crime,Drama,Thriller);25000000;6.0;The Gambler
+407;Vampires en toute intimite;2015;Jemaine Clement;(Comedy,Fantasy,Horror); ;7.6;What We Do in the Shadows
+408;It Follows;2015;David Robert Mitchell;(Horror,Mystery);2000000;6.9;It Follows
+409;Wolves;2015;David Hayter;(Action,Horror);18000000;5.3;Wolves
+410;La Promesse d'une vie;2015;Russell Crowe;(Drama,War);22500000;7.1;The Water Diviner
+411;Enrages;2015;Éric Hannezo;(Action,Drama,Thriller); ;5.7;Enragés
+412;Microbe et Gasoil;2015;Michel Gondry;(Adventure,Comedy,Drama); ;6.8;Microbe et Gasoil
+413;Why Don't You Play in Hell?;2015;Sion Sono;(Action,Comedy,Drama,Horror); ;7.2;Jigoku de naze warui
+414;Absolutely Anything;2015;Terry Jones;(Comedy,Sci-Fi); ;6.0;Absolutely Anything
+415;Love;2015;Gaspar Noé;(Drama,Romance);3000000;6.0;Love
+416;All Cheerleaders Die;2015;Lucky McKee;(Fantasy,Horror); ;5.1;All Cheerleaders Die
+417;The Walk  Rever Plus Haut;2015;Robert Zemeckis;(Adventure,Biography,Drama,Thriller);35000000;7.4;The Walk
+418;No Escape;2015;John Erick Dowdle;(Action,Thriller);5000000;6.8;No Escape
+419;Miss Hokusai;2015;Keiichi Hara;(Animation,Biography,Drama,History); ;6.7;Sarusuberi: Miss Hokusai
+420;Automata;2015;Gabe Ibáñez;(Action,Sci-Fi,Thriller);7000000;6.1;Autómata
+421;Into the Woods, Promenonsnous dans les bois;2015; ; ; ;-1.0; 
+422;Tokarev;2015;Paco Cabezas;(Action,Crime,Thriller);21000000;5.0;Tokarev
+423;Pieges;2015;David Hackl;(Action,Horror,Thriller);10000000;5.3;Into the Grizzly Maze
+424;Gunman;2015;Pierre Morel;(Action,Crime,Drama,Mystery,Thriller);40000000;5.8;The Gunman
+425;Pan;2015;Joe Wright;(Adventure,Family,Fantasy);150000000;5.8;Pan
+426;Le Petit Prince;2015;Mark Osborne;(Animation,Adventure,Drama,Family,Fantasy);81200000;7.8;The Little Prince
+427;Souvenirs de Marnie;2015;Hiromasa Yonebayashi;(Animation,Drama,Family,Mystery); ;7.8;Omoide no Mânî
+428;Chappie;2015;Neill Blomkamp;(Action,Crime,Drama,Sci-Fi,Thriller);49000000;6.9;Chappie
+429;007 Spectre;2015;Sam Mendes;(Action,Adventure,Thriller);245000000;6.8;Spectre
+430;American Mary;2015;Jen Soska;(Crime,Drama,Horror); ;6.3;American Mary
+431;AntMan;2015;Peyton Reed;(Action,Adventure,Comedy,Sci-Fi);130000000;7.4;Ant-Man
+432;Mission: Impossible  Rogue Nation;2015;Christopher McQuarrie;(Action,Adventure,Thriller);150000000;7.4;Mission: Impossible - Rogue Nation
+433;L Interview qui tue !;2015; ;(News); ;-1.0;Power Rangers Time Force Cast Interview & Quiz from Power Morphicon 2014
+434;La Dame en Noir 2 : L Ange de la Mort;2015; ; ; ;-1.0; 
+435;Unfriended;2015;Levan Gabriadze;(Horror,Mystery,Thriller);1000000;5.7;Cybernatural
+436;Strictly Criminal;2015;Scott Cooper;(Biography,Crime,Drama);53000000;7.0;Black Mass
+437;La Dame dans l'auto avec des lunettes et un fusil;2015;Joann Sfar;(Thriller); ;5.5;La dame dans l'auto avec des lunettes et un fusil
+438;Tale of Tales;2015;Matteo Garrone;(Drama,Fantasy);€12000000;6.4;Il racconto dei racconti - Tale of Tales
+439;Cops  Les Forces du desordre;2015;Luke Greenfield;(Comedy);17000000;6.5;Let's Be Cops
+440;Pioneer;2015;Erik Skjoldbjærg;(Thriller);€5555559;6.0;Pionér
+441;Hotel Transylvanie 2;2015;Genndy Tartakovsky;(Animation,Comedy,Family,Fantasy);80000000;6.7;Hotel Transylvania 2
+442;Realite;2015;Quentin Dupieux;(Comedy); ;6.9;Réalité
+443;Tusk;2015;Kevin Smith;(Comedy,Drama,Horror);3000000;5.4;Tusk
+444;The Dead 2;2015;Howard J. Ford;(Horror); ;5.2;The Dead 2: India
+445;Babysitting 2;2015;Nicolas Benamou;(Comedy); ;6.3;Babysitting 2
+446;Knight of Cups;2015;Terrence Malick;(Drama,Romance); ;5.7;Knight of Cups
+447;Out of the Dark;2015;Lluís Quílez;(Horror,Thriller); ;4.7;Out of the Dark
+448;Crows Explode;2015;Toshiaki Toyoda;(Action); ;6.1;Kurôzu Explode
+449;Big Eyes;2015;Tim Burton;(Biography,Crime,Drama,Romance);10000000;7.0;Big Eyes
+450;Lazarus Effect;2015;David Gelb;(Horror,Mystery,Sci-Fi,Thriller);3300000;5.2;The Lazarus Effect
+451;Jessabelle;2015;Kevin Greutert;(Horror,Thriller); ;5.4;Jessabelle
+452;Dope;2015;Rick Famuyiwa;(Comedy,Crime,Drama);7000000;7.3;Dope
+453;Ouija;2015;Stiles White;(Fantasy,Horror,Thriller);5000000;4.4;Ouija
+454;Un moment d'egarement;2015;Jean-François Richet;(Comedy,Drama,Romance); ;6.3;Un moment d'égarement
+455;Docteur Frankenstein;2015;Paul McGuigan;(Drama,Horror,Sci-Fi,Thriller);40000000;6.0;Victor Frankenstein
+456;The Duke of Burgundy;2015;Peter Strickland;(Drama,Romance);1000000;6.7;The Duke of Burgundy
+457;Diversion;2015;Glenn Ficarra;(Comedy,Crime,Drama,Romance);50100000;6.6;Focus
+458;Hysteria, le miroir de la folie;2015; ; ; ;-1.0; 
+459;Un homme ideal;2015;Yann Gozlan;(Thriller); ;6.7;Un homme idéal
+460;Cold in July;2015;Jim Mickle;(Crime,Thriller); ;6.8;Cold in July
+461;Monsters : Dark Continent;2015;Tom Green;(Drama,Sci-Fi,Thriller); ;4.3;Monsters: Dark Continent
+462;Un Francais;2015;Diastème;(Drama); ;6.2;Un Français
+463;La Nuit au musee : Le Secret des Pharaons;2015;Shawn Levy;(Adventure,Comedy,Family,Fantasy);127000000;6.2;Night at the Museum: Secret of the Tomb
+464;Imitation Game;2015;Morten Tyldum;(Biography,Drama,Thriller,War);14000000;8.1;The Imitation Game
+465;Dead Shadows;2015;David Cholewa;(Horror,Sci-Fi); ;3.8;Dead Shadows
+466;Manglehorn;2015;David Gordon Green;(Drama);4000000;5.6;Manglehorn
+467;The Program;2015;Stephen Frears;(Biography,Drama,Sport); ;6.5;The Program
+468;Invincible;2015;Angelina Jolie;(Biography,Drama,Sport,War);65000000;7.2;Unbroken
+469;Curve;2015;Iain Softley;(Horror,Thriller); ;5.4;Curve
+470;La Rage au ventre;2015;Antoine Fuqua;(Drama,Sport);30000000;7.4;Southpaw
+471;Hyena;2015;Gerard Johnson;(Crime,Drama); ;6.2;Hyena
+472;Les Survivants;2015;Craig Zobel;(Drama,Sci-Fi,Thriller); ;6.0;Z for Zachariah
+473;Les Chevaliers du Zodiaque  La Legende du Sanctuaire;2015;Kei'ichi Sato;(Animation);100000000;5.5;Seinto Seiya: Legend of Sanctuary
+474;Firestorm;2015;Dean Semler;(Thriller,Action);19000000;4.6;Firestorm
+475;Dark Places;2015;Gilles Paquet-Brenner;(Drama,Mystery,Thriller);20000000;6.2;Dark Places
+476;Wild;2015;Jean-Marc Vallée;(Adventure,Biography,Drama);15000000;7.1;Wild
+477;ABC of Death 2;2015;Rodney Ascher;(Comedy,Horror); ;5.5;ABCs of Death 2
+478;Bob l'eponge  Le film : Un heros sort de l'eau;2015;Paul Tibbitt;(Animation,Adventure,Comedy,Family,Fantasy);74000000;6.0;The SpongeBob Movie: Sponge Out of Water
+479;Avengers : L'ere d'Ultron;2015;Benjamin Daniel;(Comedy); ;-1.0;Avengers 2: l'ère d'Ultron
+480;Avril et le monde truque;2015;Christian Desmares;(Animation,Adventure,Comedy,Mystery,Thriller);12400000;7.4;Avril et le monde truqué
+481;Seul sur Mars;2015;Ridley Scott;(Adventure,Drama,Sci-Fi);108000000;8.0;The Martian
+482;Le Secret de Ragnarok;2015;Mikkel Brænne Sandemose;(Action,Adventure);NOK 38500000;5.9;Gåten Ragnarok
+483;Terminator Genisys;2015;Alan Taylor;(Action,Adventure,Sci-Fi);155000000;6.5;Terminator Genisys
+484;Secret Agency;2015;Kyle Newman;(Action,Adventure,Comedy); ;5.3;Barely Lethal
+485;Ex Machina;2015;Alex Garland;(Drama,Mystery,Sci-Fi,Thriller);15000000;7.7;Ex Machina
+486;Insidious : Chapitre 3;2015;Leigh Whannell;(Fantasy,Horror,Thriller);10000000;6.1;Insidious: Chapter 3
+487;Les Portes du soleil  Algerie pour toujours;2015;Jean-Marc Minéo;(Action);4000000;4.1;Les portes du soleil: Algérie pour toujours
+488;Sicario;2015;Denis Villeneuve;(Action,Crime,Drama,Mystery,Thriller);30000000;7.6;Sicario
+489;Ted 2;2015;Seth MacFarlane;(Comedy);68000000;6.4;Ted 2
+490;MI5 Infiltration;2015;Roberto Jabor;(Horror,Mystery,Thriller); ;-1.0;Infiltration
+491;Vive les vacances;2015;John Francis Daley;(Adventure,Comedy);31000000;6.1;Vacation
+492;Joy;2015;David O. Russell;(Biography,Drama);60000000;6.6;Joy
+493;Dragon Ball Z : Battle of Gods;2015; ;(Action); ;7.7;Dragon Ball Z: Battle of Z
+494;Good Kill;2015;Andrew Niccol;(Drama,Thriller); ;6.4;Good Kill
+495;Regression;2015;Alejandro Amenábar;(Crime,Drama,Mystery,Thriller); ;5.7;Regression
+496;La Bataille de la Montagne du Tigre;2015;Hark Tsui;(Adventure); ;6.5;Zhì qu weihu shan
+497;Bad Words;2014;Jason Bateman;(Comedy,Drama);10000000;6.7;Bad Words
+498;L'ile des Miamnimaux : Tempete de boulettes geantes 2;2014; ; ; ;-1.0; 
+499;The Two Faces of January;2014;Hossein Amini;(Romance,Thriller); ;6.2;The Two Faces of January
+500;Quand vient la nuit;2014;Michaël R. Roskam;(Crime,Drama,Mystery);12600000;7.1;The Drop
+501;42;2014;Brian Helgeland;(Biography,Drama,Sport);40000000;7.5;42
+502;Piranha 3D 2;2014;Alexandre Aja;(Comedy,Horror);24000000;5.5;Piranha 3D
+503;Le Conte de la princesse Kaguya;2014;Isao Takahata;(Animation,Drama,Fantasy);¥5000000000;8.1;Kaguyahime no monogatari
+504;The Rover;2014;David Michôd;(Crime,Drama);8500000;6.4;The Rover
+505;Patema et le monde inverse;2014;Yasuhiro Yoshiura;(Animation,Adventure,Drama,Fantasy,Romance,Sci-Fi); ;7.4;Sakasama no Patema
+506;Delivrenous du mal;2014;Jean-Claude Lord;(Drama);CAD96000;-1.0;Délivrez-nous du mal
+507;The Ryan Initiative;2014;Kenneth Branagh;(Action,Drama,Thriller);60000000;6.2;Jack Ryan: Shadow Recruit
+508;Albert a l'ouest;2014;Seth MacFarlane;(Comedy,Western);40000000;6.1;A Million Ways to Die in the West
+509;Pride;2014;Matthew Warchus;(Biography,Comedy,Drama,History,Romance); ;7.8;Pride
+510;Sabotage;2014;David Ayer;(Action,Crime,Drama,Thriller);35000000;5.7;Sabotage
+511;Ninja II : Shadow of a Tear;2014;Isaac Florentine;(Action,Crime,Thriller);2600000;6.2;Ninja: Shadow of a Tear
+512;La Planete des singes : l'affrontement;2014;Benjamin Daniel;(Comedy); ;-1.0;La Planète des Singes: l'Affrontement
+513;La Grande Aventure Lego;2014;Phil Lord;(Animation,Action,Adventure,Comedy,Family,Fantasy);60000000;7.8;The Lego Movie
+514;Deux jours, une nuit;2014;Jean-Pierre Dardenne;(Drama);€7000000;7.4;Deux jours, une nuit
+515;Suneung;2014;Su-won Shin;(Crime,Drama,Mystery); ;6.5;Myeong-wang-song
+516;Serena;2014;Susanne Bier;(Drama,Romance);30000000;5.4;Serena
+517;The Raid 2;2014;Gareth Evans;(Action,Crime,Thriller);4500000;8.0;The Raid 2: Berandal
+518;The Scribbler;2014;John Suits;(Mystery,Sci-Fi,Thriller); ;5.4;The Scribbler
+519;Noe;2014;Darren Aronofsky;(Action,Adventure,Drama);125000000;5.8;Noah
+520;The Jungle;2014;Andrew Traucki;(Horror,Thriller); ;4.0;The Jungle
+521;Mister Babadook;2014;Jennifer Kent;(Drama,Fantasy,Horror);2000000;6.8;The Babadook
+522;Hunger Games  La Revolte : Partie 1;2014;Francis Lawrence;(Sci-Fi,Thriller,War);125000000;6.7;The Hunger Games: Mockingjay - Part 1
+523;Le Mystere des balles fantomes;2014;Chi-Leung Law;(Action,Drama,Mystery);12000000;6.6;Xiao shi de zi dan
+524;States of Grace;2014;Destin Cretton;(Drama); ;8.0;Short Term 12
+525;Gallow Walkers;2014;Andrew Goth;(Action,Fantasy,Horror,Thriller,Western);17000000;3.6;Gallowwalkers
+526;Under the Skin;2014;Jonathan Glazer;(Drama,Horror,Sci-Fi,Thriller);13300000;6.3;Under the Skin
+527;Veronica Mars;2014;John T. Kretchmer;(Crime,Drama,Mystery); ;8.4;Veronica Mars
+528;Ablations;2014;Arnold de Parscau;(Thriller); ;4.8;Ablations
+529;L'Honneur du dragon 2;2014;Prachya Pinkaew;(Action); ;5.3;Tom yum goong 2
+530;Jacky au royaume des filles;2014;Riad Sattouf;(Comedy); ;6.0;Jacky au royaume des filles
+531;Blood;2014;Nick Murphy;(Crime,Drama,Thriller); ;6.0;Blood
+532;Le Sang des templiers 2 : La riviere de sang;2014; ; ; ;-1.0; 
+533;Enemy;2014;Denis Villeneuve;(Mystery,Thriller); ;6.9;Enemy
+534;Le Hobbit : la Bataille des Cinq Armees;2014;Benjamin Daniel;(Comedy); ;-1.0;Le Hobbit: La Bataille des Cinq Armées
+535;The Colony;2014;Florian Gallenberger;(Drama,Romance,Thriller);14000000;7.1;Colonia
+536;Black Storm;2014;Steven Quale;(Action,Thriller);50000000;5.8;Into the Storm
+537;Fruitvale Station;2014;Ryan Coogler;(Biography,Drama,Romance);900000;7.5;Fruitvale Station
+538;Un ete a Osage County;2014;John Wells;(Drama);25000000;7.3;August: Osage County
+539;White God;2014;Kornél Mundruczó;(Drama,Thriller);HUF 700000000;6.9;Fehér isten
+540;12 Years a Slave;2014;Steve McQueen;(Biography,Drama,History);20000000;8.1;12 Years a Slave
+541;Monuments Men;2014;George Clooney;(Drama,War);70000000;6.1;The Monuments Men
+542;Blue Ruin;2014;Jeremy Saulnier;(Crime,Drama,Thriller);1066167;7.1;Blue Ruin
+543;Lucy;2014;Luc Besson;(Action,Sci-Fi,Thriller);40000000;6.4;Lucy
+544;Near Death Experience;2014;Benoît Delépine;(Comedy,Drama); ;5.8;Near Death Experience
+545;La Vie revee de Walter Mitty;2014;Ben Stiller;(Adventure,Comedy,Drama,Fantasy,Romance);90000000;7.3;The Secret Life of Walter Mitty
+546;L'Arene;2014;Josh C. Waller;(Action,Horror); ;5.2;Raze
+547;Minuscule  La vallee des fourmis perdues;2014;Hélène Giraud;(Animation,Adventure,Family);19700000;7.2;Minuscule - La vallée des fourmis perdues
+548;Dark Touch;2014;Marina de Van;(Horror);€2729542;4.8;Dark Touch
+549;Alleluia;2014;Fabrice Du Welz;(Crime,Horror,Romance,Thriller);€2896000;6.2;Alléluia
+550;Lovelace;2014;Rob Epstein;(Biography,Drama);10000000;6.2;Lovelace
+551;The Machine;2014;Caradog W. James;(Action,Drama,Sci-Fi,Thriller); ;6.1;The Machine
+552;Locke;2014;Steven Knight;(Drama); ;7.1;Locke
+553;Closed Circuit;2014;John Crowley;(Crime,Drama,Mystery,Thriller);15000000;6.2;Closed Circuit
+554;Les Combattants;2014;Thomas Cailley;(Comedy,Romance); ;6.7;Les combattants
+555;Predestination;2014;Michael Spierig;(Drama,Mystery,Sci-Fi,Thriller); ;7.4;Predestination
+556;Le Role de ma vie;2014;Zach Braff;(Comedy,Drama);6000000;6.7;Wish I Was Here
+557;I Origins;2014;Mike Cahill;(Drama,Romance,Sci-Fi); ;7.3;I Origins
+558;The Canyons;2014;Paul Schrader;(Drama,Thriller);250000;3.9;The Canyons
+559;Babysitting;2014;Nicolas Benamou;(Comedy); ;6.7;Babysitting
+560;Heli;2014;Amat Escalante;(Crime,Drama,Romance);1000000;6.8;Heli
+561;Salaud, on t'aime;2014;Claude Lelouch;(Comedy,Drama,Romance);€8353774;5.5;Salaud, on t'aime.
+562;Only Lovers Left Alive;2014;Jim Jarmusch;(Comedy,Drama,Horror,Music,Romance);7000000;7.3;Only Lovers Left Alive
+563;RoboCop;2014;Paul Verhoeven;(Action,Crime,Sci-Fi,Thriller);13000000;7.5;RoboCop
+564;Homefront;2014;Gary Fleder;(Action,Crime,Drama,Thriller);22000000;6.5;Homefront
+565;Paranormal Activity: The Marked Ones;2014;Christopher Landon;(Horror,Thriller);5000000;5.0;Paranormal Activity: The Marked Ones
+566;Le Crocodile du Botswanga;2014;Lionel Steketee;(Comedy);€8000000;5.2;Le crocodile du Botswanga
+567;Ultimate Endgame;2014;Mark Young;(Action,Crime,Drama,Thriller);3500000;5.4;Wicked Blood
+568;Men, Women and Children;2014;Jason Reitman;(Comedy,Drama);16000000;6.7;Men, Women & Children
+569;Wrong Cops;2014;Quentin Dupieux;(Comedy,Crime); ;5.9;Wrong Cops
+570;Butcher 3;2014;Lawrence Kasdan;(Drama,Horror,Sci-Fi,Thriller);68000000;5.5;Dreamcatcher
+571;La Prochaine fois je viserai le coeur;2014;Cédric Anger;(Crime,Drama,Thriller);€5100000;6.4;La prochaine fois je viserai le coeur
+572;Secret d'etat;2014;Michael Cuesta;(Biography,Crime,Drama,Mystery,Thriller);5000000;7.0;Kill the Messenger
+573;Interstellar;2014;Christopher Nolan;(Adventure,Drama,Sci-Fi);165000000;8.6;Interstellar
+574;Cheap Thrills;2014;E.L. Katz;(Comedy,Crime,Drama,Horror,Thriller);200000;6.8;Cheap Thrills
+575;Act of Valor;2014;Mike McCoy;(Action,Adventure,Drama,Thriller,War);12000000;6.5;Act of Valor
+576;Jersey Boys;2014;Clint Eastwood;(Biography,Drama,Music,Musical);40000000;6.9;Jersey Boys
+577;M. Peabody et Sherman : Les Voyages dans le temps;2014;Rob Minkoff;(Animation,Adventure,Comedy,Family,Sci-Fi);145000000;6.9;Mr. Peabody & Sherman
+578;Echo;2014;Dave Green;(Adventure,Family,Sci-Fi);13000000;5.8;Earth to Echo
+579;Zero Theorem;2014;Terry Gilliam;(Drama,Fantasy,Sci-Fi);8500000;6.1;The Zero Theorem
+580;White Bird;2014;Gregg Araki;(Drama,Mystery,Thriller); ;6.4;White Bird in a Blizzard
+581;L'Amour est un crime parfait;2014;Arnaud Larrieu;(Crime,Thriller); ;5.9;L'amour est un crime parfait
+582;Pompei;2014;Paul W.S. Anderson;(Action,Adventure,Drama,History,Romance);80000000;5.6;Pompeii
+583;Rampage 2 : la vengeance d'un sniper;2014;Uwe Boll;(Action,Crime,Thriller); ;6.3;Rampage: Capital Punishment
+584;Dark Clown;2014;Conor McMahon;(Comedy,Horror); ;5.7;Stitches
+585;Godzilla;2014;Hideaki Anno;(Action,Adventure,Drama,Horror,Sci-Fi); ;7.6;Shin Gojira
+586;Le Juge;2014;David Dobkin;(Crime,Drama);50000000;7.4;The Judge
+587;Cabin Fever 3 : Patient Zero;2014;Kaare Andrews;(Horror,Sci-Fi,Thriller); ;4.5;Cabin Fever: Patient Zero
+588;Colt 45;2014;Fabrice Du Welz;(Action,Crime,Drama,Thriller); ;5.7;Colt 45
+589;Hours;2014;Eric Heisserer;(Drama,Thriller);4000000;6.5;Hours
+590;Odd Thomas contre les creatures de l'ombre;2014;Stephen Sommers;(Comedy,Fantasy,Horror,Mystery,Romance,Thriller);27000000;6.9;Odd Thomas
+591;Magic in the Moonlight;2014;Woody Allen;(Comedy,Romance);16800000;6.6;Magic in the Moonlight
+592;Joe;2014;David Gordon Green;(Drama);4000000;6.9;Joe
+593;96 Heures;2014;Frédéric Schoendoerffer;(Thriller); ;5.5;96 heures
+594;Last Passenger;2014;Omid Nooshin;(Action,Mystery,Thriller);2500000;5.7;Last Passenger
+595;Dracula Untold;2014;Gary Shore;(Action,Drama,Fantasy,Horror,War);70000000;6.3;Dracula Untold
+596;Paradise Lost;2014;Andrea Di Stefano;(Crime,Drama,Romance,Thriller);17000000;6.6;Escobar: Paradise Lost
+597;Vol 7500 : aller sans retour;2014;Takashi Shimizu;(Horror,Mystery,Sci-Fi,Thriller); ;4.9;Flight 7500
+598;John Wick;2014;Chad Stahelski;(Action,Crime,Thriller);20000000;7.2;John Wick
+599;Vampire Academy;2014;Mark Waters;(Action,Comedy,Fantasy,Horror,Mystery);30000000;5.6;Vampire Academy
+600;Sin City : j'ai tue pour elle;2014;Benjamin Daniel;(Comedy); ;-1.0;Sin City: J'ai tué pour elle & 22 Jump Street
+601;La Legende de Manolo;2014;Jorge R. Gutiérrez;(Animation,Adventure,Comedy,Family,Fantasy,Romance);50000000;7.3;The Book of Life
+602;Berserk, L'age d'Or partie III : L'Avent;2014; ; ; ;-1.0; 
+603;Les Sorcieres de Zugarramurdi;2014;Álex de la Iglesia;(Comedy,Horror); ;6.4;Las brujas de Zugarramurdi
+604;Big Bad Wolves;2014;Aharon Keshales;(Comedy,Crime,Thriller); ;6.8;Big Bad Wolves
+605;The Battery;2014;Jeremy Gardner;(Adventure,Drama,Horror);6000;6.4;The Battery
+606;300 : la naissance d'un Empire;2014;Pierre Bressiant;(Documentary); ;-1.0;L'aventure antibiotique: La naissance d'un empire
+607;Match retour;2014;Peter Segal;(Comedy,Sport);40000000;6.4;Grudge Match
+608;Ne nous jugez pas;2014;Jorge Michel Grau;(Drama,Horror); ;5.7;Somos lo que hay
+609;22 Jump Street;2014;Phil Lord;(Action,Comedy,Crime);50000000;7.1;22 Jump Street
+610;Les Poings contre les murs;2014;David Mackenzie;(Crime,Drama); ;7.4;Starred Up
+611;Mea Culpa;2014;Fred Cavayé;(Action,Thriller); ;6.1;Mea culpa
+612;How I Live Now;2014;Kevin Macdonald;(Drama,Romance,Thriller); ;6.5;How I Live Now
+613;Nos pires voisins;2014;Nicholas Stoller;(Comedy);18000000;6.4;Neighbors
+614;Le Labyrinthe;2014;Wes Ball;(Action,Mystery,Sci-Fi,Thriller);34000000;6.8;The Maze Runner
+615;Avant d'aller dormir;2014;Rowan Joffe;(Drama,Mystery,Thriller);22000000;6.3;Before I Go to Sleep
+616;Mise a l'epreuve;2014;Tim Story;(Action,Comedy,Crime,Romance);25000000;6.2;Ride Along
+617;Balade entre les tombes;2014;Scott Frank;(Crime,Drama,Mystery,Thriller);28000000;6.5;A Walk Among the Tombstones
+618;SX Tape;2014;Bernard Rose;(Horror);600000;3.3;sxtape
+619;The Giver;2014;Phillip Noyce;(Drama,Romance,Sci-Fi);25000000;6.5;The Giver
+620;Evidence;2014;Craig Pickles;(Crime,Drama); ;6.9;Suspects
+621;Whiplash;2014;Damien Chazelle;(Drama,Music);3300000;8.5;Whiplash
+622;The Homesman;2014;Tommy Lee Jones;(Drama,Western);16000000;6.6;The Homesman
+623;Beaucoup de bruit pour rien;2014;Kenneth Branagh;(Comedy,Drama,Romance);11000000;7.4;Much Ado About Nothing
+624;Winter Sleep;2014;Nuri Bilge Ceylan;(Drama); ;8.2;Kis Uykusu
+625;REC 4 : Apocalypse;2014;Jaume Balagueró;(Horror);€3000000;5.4;[REC] 4: Apocalipsis
+626;John Dies at the End;2014;Don Coscarelli;(Comedy,Horror,Sci-Fi); ;6.4;John Dies at the End
+627;Catacombes;2014;John Erick Dowdle;(Fantasy,Horror,Mystery,Thriller);5000000;6.1;As Above, So Below
+628;Expendables 3;2014;Patrick Hughes;(Action,Adventure,Thriller);90000000;6.1;The Expendables 3
+629;Edge of Tomorrow;2014;Doug Liman;(Action,Adventure,Sci-Fi);178000000;7.9;Edge of Tomorrow
+630;Black Coal;2014;Yi'nan Diao;(Crime,Drama,Mystery,Thriller); ;6.6;Bai ri yan huo
+631;Saving General Yang;2014;Ronny Yu;(Adventure,History);20000000;6.4;Yang jia jiang
+632;Samba;2014;Olivier Nakache;(Comedy,Drama);20000000;6.7;Samba
+633;Saint Laurent;2014;Bertrand Bonello;(Biography,Drama,Romance); ;6.1;Saint Laurent
+634;Her;2014;Spike Jonze;(Drama,Romance,Sci-Fi);23000000;8.0;Her
+635;Les Gardiens de la Galaxie;2014;James Gunn;(Action,Adventure,Sci-Fi);170000000;8.1;Guardians of the Galaxy
+636;Refroidis;2014;Hans Petter Moland;(Action,Crime,Thriller);NOK 35304282;7.2;Kraftidioten
+637;L'ile de Giovanni;2014;Mizuho Nishikubo;(Animation,Drama,History); ;7.4;Jobanni no shima
+638;Empire State;2014;Dito Montiel;(Crime,Thriller);11000000;5.2;Empire State
+639;Welcome to the Jungle;2014;Peter Berg;(Action,Adventure,Comedy,Thriller);85000000;6.7;The Rundown
+640;La Belle et La Bete;2014;Bill Condon;(Fantasy,Musical,Romance); ;-1.0;Beauty and the Beast
+641;Get On Up;2014;Tate Taylor;(Biography,Drama,Music);30000000;6.9;Get on Up
+642;Un illustre inconnu;2014;Matthieu Delaporte;(Drama,Thriller); ;6.7;Un illustre inconnu
+643;Nurse 3D;2014;Douglas Aarniokoski;(Horror,Thriller);10000000;4.6;Nurse 3-D
+644;La Guerre des Yokai;2014;Takashi Miike;(Adventure,Family,Fantasy);¥1300000000;6.5;Yôkai daisensô
+645;Europa Report;2014;Sebastián Cordero;(Sci-Fi,Thriller); ;6.5;Europa Report
+646;#Chef;2014;Jon Favreau;(Comedy,Drama);11000000;7.3;Chef
+647;Les Braqueurs;2014;Dong-hoon Choi;(Action,Comedy,Crime,Thriller); ;6.8;Dodookdeul
+648;The Amazing SpiderMan : le destin d'un Heros;2014;Marc Webb;(Action,Adventure,Sci-Fi);200000000;6.7;The Amazing Spider-Man 2
+649;The Spectacular Now;2014;James Ponsoldt;(Comedy,Drama,Romance);2500000;7.1;The Spectacular Now
+650;Transcendance;2014;Wally Pfister;(Drama,Mystery,Romance,Sci-Fi,Thriller);100000000;6.3;Transcendence
+651;The Last Days on Mars;2014;Ruairi Robinson;(Horror,Sci-Fi,Thriller);£7000000;5.5;The Last Days on Mars
+652;Hwayi : A Monster Boy;2014;Joon-Hwan Jang;(Action,Thriller); ;7.1;Hwa-i: Goi-mool-eul sam-kin a-i
+653;Haunter;2014;Vincenzo Natali;(Horror,Mystery,Thriller); ;5.9;Haunter
+654;Le Vent se leve;2014;Hayao Miyazaki;(Animation,Biography,Drama,History,Romance,War);30000000;7.8;Kaze tachinu
+655;N'importe qui;2014;Raphaël Frydman;(Comedy); ;5.1;N'importe qui
+656;Out of Control;2014;John Stockwell;(Action,Crime,Thriller);10000000;5.8;In the Blood
+657;Piege;2014;Antoine Fuqua;(Action,Crime,Thriller);51000000;5.7;Bait
+658;Charlie Countryman;2014;Fredrik Bond;(Comedy,Drama,Romance,Thriller); ;6.4;The Necessary Death of Charlie Countryman
+659;Yves Saint Laurent;2014;Jalil Lespert;(Documentary,Biography);€12000000;6.2;Yves Saint Laurent
+660;Sex Tape;2014;Jake Kasdan;(Comedy,Romance);40000000;5.1;Sex Tape
+661;Drug War;2014;Johnnie To;(Action,Crime,Drama,Thriller);CNY 100000000;7.0;Du zhan
+662;Les Trois freres, le retour;2014;Didier Bourdon;(Comedy); ;4.8;Les trois frères, le retour
+663;'71;2014;Yann Demange;(Action,Drama,Thriller,War); ;7.2;'71
+664;Calvary;2014;John Michael McDonagh;(Comedy,Drama); ;7.4;Calvary
+665;Comment tuer son boss 2;2014;Sean Anders;(Comedy,Crime);42000000;6.3;Horrible Bosses 2
+666;Ninja Turtles;2014;Jonathan Liebesman;(Action,Adventure,Comedy,Sci-Fi);125000000;5.9;Teenage Mutant Ninja Turtles
+667;American Stories;2014;Rob Lucas;(Comedy);5000;8.1;American Stories
+668;Le Dernier Diamant;2014;Eric Barbier;(Crime,Drama,Thriller); ;6.3;Le dernier diamant
+669;Oldboy;2014;Chan-wook Park;(Drama,Mystery,Thriller);3000000;8.4;Oldeuboi
+670;Aux yeux des vivants;2014;Alexandre Bustillo;(Horror,Thriller); ;5.3;Aux yeux des vivants
+671;Appleseed Alpha;2014;Shinji Aramaki;(Animation,Action,Sci-Fi); ;6.6;Appleseed Alpha
+672;Malefique;2014;Robert Stromberg;(Action,Adventure,Family,Fantasy,Romance);180000000;7.0;Maleficent
+673;Skull;2014;Robert Hall;(Horror); ;5.2;Chromeskull: Laid to Rest 2
+674;The November Man;2014;Roger Donaldson;(Action,Crime,Thriller);15000000;6.3;The November Man
+675;Pandemie;2014;Sung-su Kim;(Drama,Thriller); ;6.7;Gamgi
+676;Ordure !;2014;Jean-Marie Poiré;(Comedy); ;7.7;Le père Noël est une ordure
+677;Coldwater;2014;Vincent Grashaw;(Drama,Thriller);700000;6.4;Coldwater
+678;Night Call;2014;Dan Gilroy;(Crime,Drama,Thriller);8500000;7.9;Nightcrawler
+679;R;2014;Tobias Lindholm;(Crime,Drama);DKK 4755000;7.2;R
+680;Rio 2;2014;Carlos Saldanha;(Animation,Adventure,Comedy,Family,Musical);103000000;6.4;Rio 2
+681;Un Homme tres recherche;2014;Anton Corbijn;(Crime,Drama,Thriller);15000000;6.8;A Most Wanted Man
+682;The Salvation;2014;Kristian Levring;(Drama,Western);€10500000;6.8;The Salvation
+683;La French;2014;Cédric Jimenez;(Action,Crime,Thriller);26000000;7.1;La French
+684;Hercule;2014;Ron Clements;(Animation,Adventure,Comedy,Family,Fantasy,Musical,Romance);85000000;7.2;Hercules
+685;Dumb and Dumber De;2014;Bobby Farrelly;(Comedy);35000000;5.7;Dumb and Dumber To
+686;Killers;2014;Robert Luketic;(Action,Comedy,Romance,Thriller);75000000;5.4;Killers
+687;Le Chant de la mer;2014;Tomm Moore;(Animation,Adventure,Family,Fantasy);€5300000;8.2;Song of the Sea
+688;Dans l'ombre de Mary : La promesse de Walt Disney;2014;John Lee Hancock;(Biography,Comedy,Drama,Music);35000000;7.5;Saving Mr. Banks
+689;Puzzle;2014;Paul Haggis;(Drama,Romance);28000000;6.4;Third Person
+690;The Seasoning House;2014;Paul Hyett;(Drama,Horror,Thriller); ;6.1;The Seasoning House
+691;Grace de Monaco;2014;Olivier Dahan;(Biography,Drama,Romance);30000000;5.7;Grace of Monaco
+692;Philomena;2014;Stephen Frears;(Biography,Drama);12000000;7.6;Philomena
+693;Brick Mansions;2014;Camille Delamarre;(Action,Crime,Thriller);28000000;5.7;Brick Mansions
+694;Dragons 2;2014;Dean DeBlois;(Animation,Action,Adventure,Comedy,Family,Fantasy);145000000;7.9;How to Train Your Dragon 2
+695;NonStop;2014;Jaume Collet-Serra;(Action,Mystery,Thriller);50000000;7.0;Non-Stop
+696;Dead Snow 2;2014;Tommy Wirkola;(Action,Comedy,Horror);NOK 35000000;7.0;Død snø 2
+697;The Grand Budapest Hotel;2014;Wes Anderson;(Adventure,Comedy,Crime,Drama);25000000;8.1;The Grand Budapest Hotel
+698;XMen : Days of Future Past;2014;Bryan Singer;(Action,Adventure,Sci-Fi,Thriller);200000000;8.0;X-Men: Days of Future Past
+699;American Bluff;2014;David O. Russell;(Crime,Drama);40000000;7.3;American Hustle
+700;Nymphomaniac  Volume 2;2014;Lars von Trier;(Drama); ;7.0;Nymphomaniac: Vol. I
+701;L'etrange couleur des larmes de ton corps;2014;Hélène Cattet;(Horror,Mystery,Thriller); ;6.0;L'étrange couleur des larmes de ton corps
+702;Nymphomaniac  Volume 1;2014;Lars von Trier;(Drama); ;7.0;Nymphomaniac: Vol. I
+703;Mardock Scramble: The Third Exhaust;2014;Susumu Kudo;(Animation,Action,Drama,Sci-Fi,Thriller); ;6.7;Marudukku sukuranburu: Haiki
+704;Last Days of Summer;2014;Jason Reitman;(Drama,Romance);18000000;6.9;Labor Day
+705;Transformers : l'age de l'extinction;2014;Benjamin Daniel;(Comedy); ;-1.0;Transformers: l'Age de l'Extinction
+706;De guerre lasse;2014;Olivier Panchot;(Crime,Drama,Thriller);€1900000;5.3;De guerre lasse
+707;Qu'estce qu'on a fait au Bon Dieu?;2014;Philippe de Chauveron;(Comedy);13000000;7.0;Qu'est-ce qu'on a fait au Bon Dieu?
+708;Au nom du fils;2014;Vincent Lannoo;(Drama); ;6.4;Au nom du fils
+709;Goal of the Dead;2014;Thierry Poiraud;(Comedy,Horror); ;5.6;Goal of the Dead
+710;Le Septieme fils;2014;Sergey Bodrov;(Action,Adventure,Fantasy);95000000;5.5;Seventh Son
+711;Jack et la mecanique du coeur;2014;Stéphane Berla;(Animation,Adventure,Drama,Fantasy,Musical,Romance);33746302;7.0;Jack et la mécanique du coeur
+712;Face a face;2014;Mark Steven Johnson;(Action,Drama,Thriller); ;5.4;Killing Season
+713;47 Ronin;2014;Carl Rinsch;(Action,Adventure,Drama,Fantasy);175000000;6.3;47 Ronin
+714;La Legende d'Hercule;2014;Renny Harlin;(Action,Adventure,Fantasy);70000000;4.2;The Legend of Hercules
+715;Man of Tai Chi;2014;Keanu Reeves;(Action,Drama);25000000;6.1;Man of Tai Chi
+716;Red Lights;2014;Rodrigo Cortés;(Drama,Horror,Mystery,Thriller);€14000000;6.2;Red Lights
+717;Bounty Killer;2014;Henry Saine;(Action,Sci-Fi,Thriller); ;5.5;Bounty Killer
+718;Un amour d'hiver;2014;Akiva Goldsman;(Drama,Fantasy,Mystery,Romance);60000000;6.2;Winter's Tale
+719;Les Brasiers de la colere;2014;Scott Cooper;(Crime,Drama,Thriller);22000000;6.8;Out of the Furnace
+720;All About Albert;2014;Nicole Holofcener;(Comedy,Drama,Romance);8000000;7.1;Enough Said
+721;Young Ones;2014;Jake Paltrow;(Action,Drama,Sci-Fi,Western); ;5.9;Young Ones
+722;The Double;2014;Richard Ayoade;(Comedy,Drama,Thriller); ;6.5;The Double
+723;The Search;2014;Michel Hazanavicius;(Drama,War);25000000;6.8;The Search
+724;Real;2014;Severin Eskeland;(Horror,Thriller); ;5.2;Snarveien
+725;Du sang et des larmes;2014;Peter Berg;(Action,Biography,Drama,Thriller,War);40000000;7.6;Lone Survivor
+726;Tom a la ferme;2014;Xavier Dolan;(Drama,Thriller); ;7.0;Tom à la ferme
+727;Byzantium;2014;Neil Jordan;(Drama,Fantasy,Horror,Thriller);£8000000;6.5;Byzantium
+728;Divergente;2014;Neil Burger;(Adventure,Mystery,Sci-Fi);85000000;6.7;Divergent
+729;Need for Speed;2014;Scott Waugh;(Action,Crime,Drama,Thriller);66000000;6.5;Need for Speed
+730;Detective Dee II : La Legende du Dragon des Mers;2014;Hark Tsui;(Action,Adventure,Drama,Fantasy); ;6.5;Di Renjie: Shen du long wang
+731;Triple alliance;2014;Nick Cassavetes;(Comedy,Romance);40000000;6.0;The Other Woman
+732;Supercondriaque;2014;Dany Boon;(Comedy); ;6.0;Supercondriaque
+733;We Are What We Are;2014;Jim Mickle;(Drama,Horror,Thriller); ;5.8;We Are What We Are
+734;Stalingrad;2014;Jean-Jacques Annaud;(Drama,History,War);68000000;7.6;Enemy at the Gates
+735;Les Amants electriques;2014;Bill Plympton;(Animation,Comedy,Drama,Romance); ;7.1;Cheatin'
+736;Dans l'oeil d'un tueur;2014;Werner Herzog;(Drama,Thriller);2000000;6.3;My Son, My Son, What Have Ye Done
+737;The Garden of Words;2014;Makoto Shinkai;(Animation,Drama,Romance); ;7.6;Koto no ha no niwa
+738;Les Boxtrolls;2014;Graham Annable;(Animation,Adventure,Comedy,Family,Fantasy);60000000;6.8;The Boxtrolls
+739;Bouddha  Le grand depart;2014;Kôzô Morishita;(Animation);11000000;6.2;Tezuka Osamu no budda: Akai sabaku yo! Utsukushiku
+740;Captain America, le soldat de l'hiver;2014;Benjamin Daniel;(Comedy); ;-1.0;Captain America, Le Soldat de l'Hiver
+741;Diplomatie;2014;Volker Schlöndorff;(Drama); ;7.1;Diplomatie
+742;Horns;2014;Alexandre Aja;(Drama,Fantasy,Horror,Thriller); ;6.5;Horns
+743;American Nightmare 2 : Anarchy;2014;James DeMonaco;(Action,Horror,Sci-Fi,Thriller);9000000;6.5;The Purge: Anarchy
+744;I, Frankenstein;2014;Stuart Beattie;(Action,Fantasy,Sci-Fi,Thriller);65000000;5.2;I, Frankenstein
+745;La Creme de la Creme;2014;Kim Chapiron;(Comedy,Drama); ;6.0;La crème de la crème
+746;Temoin genant;2014;David Barrett;(Action,Crime,Drama,Thriller);10400000;5.7;Fire with Fire
+747;Ugly;2014;Anurag Kashyap;(Crime,Drama,Mystery,Thriller);1475000;8.2;Ugly
+748;Maps to the Stars;2014;David Cronenberg;(Comedy,Drama);15000000;6.2;Maps to the Stars
+749;Nebraska;2014;Alexander Payne;(Adventure,Comedy,Drama);12000000;7.7;Nebraska
+750;Confession of Murder;2014;Byeong-gil Jeong;(Action,Mystery,Thriller); ;7.1;Nae-ga sal-in-beom-i-da
+751;Stage Fright;2014;Travis Cluff;(Horror,Thriller);100000;4.2;The Gallows
+752;Zombie Hunter;2014;K. King;(Action,Comedy,Horror);1000000;3.5;Zombie Hunter
+753;Equalizer;2014;Antoine Fuqua;(Action,Crime,Thriller);55000000;7.2;The Equalizer
+754;Boyhood;2014;Richard Linklater;(Drama);4000000;7.9;Boyhood
+755;Asterix  Le Domaine des Dieux;2014;Louis Clichy;(Animation,Adventure,Comedy,Family);€30000000;7.0;Astérix: Le domaine des dieux
+756;Fury;2014;David Ayer;(Action,Drama,War);68000000;7.6;Fury
+757;Ping Pong Summer;2014;Michael Tully;(Comedy,Drama); ;5.4;Ping Pong Summer
+758;Grand Piano;2014;Eugenio Mira;(Music,Mystery,Thriller); ;5.9;Grand Piano
+759;Auschwitz;2014;Uwe Boll;(Drama); ;3.2;Auschwitz
+760;Tricked;2014;Paul Verhoeven;(Comedy,Drama,Romance); ;6.0;Steekspel
+761;Welcome to New York;2014;Abel Ferrara;(Drama); ;5.4;Welcome to New York
+762;3 Days to Kill;2014;McG;(Action,Drama,Thriller);28000000;6.2;3 Days to Kill
+763;Dallas Buyers Club;2014;Jean-Marc Vallée;(Biography,Drama);5000000;8.0;Dallas Buyers Club
+764;Anchorman 2 : Legendes vivantes;2014;Adam McKay;(Comedy);50000000;6.3;Anchorman 2: The Legend Continues
+765;Exodus: Gods And Kings;2014;Ridley Scott;(Action,Adventure,Drama);140000000;6.1;Exodus: Gods and Kings
+766;Chinese Zodiac;2014;Jackie Chan;(Action,Adventure); ;6.2;Sap ji sang ciu
+767;The Baby;2014;Matt Bettinelli-Olpin;(Horror,Mystery);7000000;4.1;Devil's Due
+768;Ma vie avec Liberace;2013;Steven Soderbergh;(Biography,Drama,Romance);23000000;7.0;Behind the Candelabra
+769;La Venus a la fourrure;2013;Roman Polanski;(Drama); ;7.2;La Vénus à la fourrure
+770;Le Dernier pub avant la fin du monde;2013;Edgar Wright;(Action,Comedy,Sci-Fi);20000000;7.0;The World's End
+771;La Malediction de Chucky;2013;Don Mancini;(Horror,Thriller);5000000;5.6;Curse of Chucky
+772;Cold Fish;2013;Sion Sono;(Crime,Drama,Horror,Thriller); ;7.1;Tsumetai nettaigyo
+773;L'Autre vie de Richard Kemp;2013;Germinal Alvarez;(Crime,Fantasy,Thriller); ;6.5;L'autre vie de Richard Kemp
+774;Lone Ranger, naissance d'un heros;2013;Gore Verbinski;(Action,Adventure,Western);215000000;6.5;The Lone Ranger
+775;Les Derniers jours;2013;David Pastor;(Adventure,Sci-Fi,Thriller);€5000000;6.1;Los últimos días
+776;Borgman;2013;Alex van Warmerdam;(Drama,Thriller);€3100000;6.8;Borgman
+777;Albator, Corsaire de l'Espace;2013;Shinji Aramaki;(Animation,Adventure,Sci-Fi);30000000;6.5;Kyaputen Hârokku
+778;Ghosts of Georgia;2013;Tom Elkins;(Drama,Horror,Mystery,Thriller);9000000;5.3;The Haunting in Connecticut 2: Ghosts of Georgia
+779;KickAss 2;2013;Jeff Wadlow;(Action,Comedy,Crime);28000000;6.6;Kick-Ass 2
+780;Moebius;2013;Ki-duk Kim;(Drama); ;6.5;Moebiuseu
+781;The Iceman;2013;Ariel Vromen;(Biography,Crime,Drama);10000000;6.9;The Iceman
+782;Les Flingueuses;2013;Paul Feig;(Action,Comedy,Crime);43000000;6.6;The Heat
+783;Le Congres;2013;Ari Folman;(Animation,Drama,Sci-Fi);PLN 34148170;6.5;The Congress
+784;The Place Beyond the Pines;2013;Derek Cianfrance;(Crime,Drama,Thriller);15000000;7.3;The Place Beyond the Pines
+785;Metallica : Through the Never;2013;Nimród Antal;(Music); ;7.2;Metallica Through the Never
+786;Percy Jackson : la mer des monstres;2013;Thor Freudenthal;(Adventure,Family,Fantasy);90000000;5.9;Percy Jackson: Sea of Monsters
+787;Wolverine : le combat de l'immortel;2013;Romain Nigita;(Documentary,Sci-Fi); ;-1.0;Wolverine - le combat de l'immortel: L'adamantium existe-t-il?
+788;L'Hypnotiseur;2013;Lasse Hallström;(Crime,Drama,Thriller); ;5.6;Hypnotisören
+789;Jobs;2013;Danny Boyle;(Biography,Drama);30000000;7.2;Steve Jobs
+790;Hijacking;2013;Tobias Lindholm;(Drama,Thriller);DKK 15500000;7.2;Kapringen
+791;Rabies;2013;Aharon Keshales;(Horror); ;5.9;Kalevet
+792;Angelique;2013;Bernard Borderie;(Adventure,History,Romance); ;6.9;Angélique, marquise des anges
+793;English Revolution;2013;Ben Wheatley;(Drama,History,Horror,Mystery);£316000;6.3;A Field in England
+794;Sherif Jackson;2013;Logan Miller;(Thriller,Western);7000000;6.2;Sweetwater
+795;a la merveille;2013;Terrence Malick;(Drama,Romance); ;5.9;To the Wonder
+796;Motorway;2013;Pou-Soi Cheang;(Action,Crime,Drama); ;6.0;Che sau
+797;Broken City;2013;Allen Hughes;(Crime,Drama,Thriller);35000000;6.2;Broken City
+798;Trance;2013;Danny Boyle;(Crime,Drama,Mystery,Thriller);20000000;7.0;Trance
+799;Shokuzai, celles qui voulaient se souvenir;2013; ; ; ;-1.0; 
+800;Du plomb dans la tete;2013;Walter Hill;(Action,Thriller);55000000;5.7;Bullet to the Head
+801;Deep Water;2013;Shawn Seet;(Crime); ;-1.0;Deep Water
+802;Stoker;2013;Chan-wook Park;(Drama,Thriller);12000000;6.8;Stoker
+803;Machine Gun;2013;Marc Forster;(Action,Biography,Crime,Drama);30000000;6.8;Machine Gun Preacher
+804;La Maison au bout de la rue;2013;Mark Tonderai;(Drama,Horror,Thriller);6900000;5.6;House at the End of the Street
+805;Jappeloup;2013;Christian Duguay;(Biography,Drama,Sport);€26600000;6.7;Jappeloup
+806;The Bay;2013;Barry Levinson;(Horror,Mystery,Sci-Fi,Thriller); ;5.6;The Bay
+807;Maniac;2013;Franck Khalfoun;(Horror,Thriller);6000000;6.1;Maniac
+808;Shokuzai  Celles qui voulaient oublier;2013; ; ; ;-1.0; 
+809;Happiness Therapy;2013;David O. Russell;(Comedy,Drama,Romance);21000000;7.8;Silver Linings Playbook
+810;Blood Reich;2013;Uwe Boll;(Action,Adventure,Fantasy,Horror);10000000;3.0;BloodRayne: The Third Reich
+811;La Chute de la Maison Blanche;2013;Antoine Fuqua;(Action,Thriller);70000000;6.5;Olympus Has Fallen
+812;13;2013;Steven Soderbergh;(Crime,Thriller);85000000;6.9;Ocean's Thirteen
+813;Universal Soldier : le jour du jugement;2013;John Hyams;(Action,Horror,Mystery,Sci-Fi,Thriller);11500000;5.0;Universal Soldier: Day of Reckoning
+814;Hitchcock;2013;Sacha Gervasi;(Biography,Drama); ;6.9;Hitchcock
+815;World War Z;2013;Marc Forster;(Action,Adventure,Horror,Sci-Fi,Thriller);190000000;7.0;World War Z
+816;Blancanieves;2013;Pablo Berger;(Drama,Fantasy); ;7.5;Blancanieves
+817;The Taint;2013;Drew Bolduc;(Action,Comedy,Horror); ;5.3;The Taint
+818;Michael Kohlhaas;2013;Arnaud des Pallières;(Drama,History); ;6.1;Michael Kohlhaas
+819;Capitaine Phillips;2013;Paul Greengrass;(Biography,Drama,Thriller);55000000;7.9;Captain Phillips
+820;The Sweeney;2013;Tom Clegg;(Action,Comedy,Crime,Drama); ;8.1;The Sweeney
+821;Carrie, la vengeance;2013;Kimberly Peirce;(Drama,Fantasy,Horror);30000000;5.9;Carrie
+822;Les Schtroumpfs 2;2013;Raja Gosnell;(Animation,Adventure,Comedy,Family,Fantasy);105000000;5.4;The Smurfs 2
+823;Parker;2013;Taylor Hackford;(Action,Crime,Romance,Thriller);35000000;6.2;Parker
+824;Bait;2013;Kimble Rendall;(Action,Horror,Sci-Fi);AUD 30000000;5.2;Bait
+825;Upside Down;2013;Juan Solanas;(Drama,Fantasy,Romance,Sci-Fi);60000000;6.4;Upside Down
+826;Dans l'oeil du tigre;2013;Carlos Brooks;(Drama,Horror,Thriller); ;5.9;Burning Bright
+827;Insaisissables;2013;Louis Leterrier;(Crime,Mystery,Thriller);75000000;7.3;Now You See Me
+828;The Tower;2013;Ji-hoon Kim;(Action,Comedy,Drama); ;6.5;Ta-weo
+829;Jack le chasseur de geants;2013;Bryan Singer;(Adventure,Fantasy);195000000;6.3;Jack the Giant Slayer
+830;Fast and Furious 6;2013;Rob Cohen;(Action,Crime,Thriller);38000000;6.7;The Fast and the Furious
+831;Inside Llewyn Davis;2013;Ethan Coen;(Drama,Music);11000000;7.4;Inside Llewyn Davis
+832;The Agent;2013;Seung-wan Ryoo;(Action,Drama,Thriller);9000000;6.6;Bereullin
+833;The Collection;2013;Dearbhla Walsh;(Drama,History,Romance); ;-1.0;The Collection
+834;La Vie d'Adele  Chapitres 1 et 2;2013;Abdellatif Kechiche;(Drama,Romance);€4000000;7.8;La vie d'Adèle - Chapitres 1 et 2
+835;Antiviral;2013;Brandon Cronenberg;(Horror,Sci-Fi,Thriller);CAD3200000;5.7;Antiviral
+836;Lettre a Momo;2013;Hiroyuki Okiura;(Animation,Drama,Family,Fantasy); ;7.3;Momo e no tegami
+837;The Pact;2013;Nicholas McCarthy;(Horror,Mystery,Thriller); ;5.8;The Pact
+838;Pop Redemption;2013;Martin Le Gall;(Comedy,Music); ;5.9;Pop Redemption
+839;Modus Anomali: Le reveil de la proie;2013;Joko Anwar;(Thriller);200000;5.5;Modus Anomali
+840;Monstres Academy;2013;Dan Scanlon;(Animation,Adventure,Comedy,Family,Fantasy);200000000;7.3;Monsters University
+841;Dredd;2013;Pete Travis;(Action,Sci-Fi);35000000;7.1;Dredd
+842;American Nightmare;2013;James DeMonaco;(Horror,Sci-Fi,Thriller);3000000;5.7;The Purge
+843;Gravity;2013;Alfonso Cuarón;(Adventure,Drama,Sci-Fi,Thriller);100000000;7.8;Gravity
+844;The Mortal Instruments : La Cite des tenebres;2013;Harald Zwart;(Fantasy,Horror,Mystery,Romance);60000000;6.0;The Mortal Instruments: City of Bones
+845;Les Amants du Texas;2013;David Lowery;(Crime,Drama,Romance); ;6.4;Ain't Them Bodies Saints
+846;Le Majordome;2013;Lee Daniels;(Biography,Drama);30000000;7.2;The Butler
+847;Passion;2013;Mel Gibson;(Drama);30000000;7.1;The Passion of the Christ
+848;Northwest;2013;Michael Noer;(Action,Crime,Drama);DKK 12600000;6.9;Nordvest
+849;Mama;2013;Andrés Muschietti;(Fantasy,Horror);20000000;6.2;Mama
+850;Very Bad Trip 3;2013;Todd Phillips;(Comedy,Crime);103000000;5.9;The Hangover Part III
+851;Sous surveillance;2013;Robert Redford;(Drama,Thriller); ;6.4;The Company You Keep
+852;Die Hard : belle journee pour mourir;2013;John Moore;(Action,Thriller);92000000;5.3;A Good Day to Die Hard
+853;Snowpiercer, Le Transperceneige;2013;Jésus Castro;(Documentary); ;7.1;Snowpiercer: Transperceneige, From the Blank Page to the Black Screen: A Documentary by Jésus Castro-
+854;Ghost Bastards;2013;Paul Coppack;(Short,Comedy); ;-1.0;Baddest Bastards
+855;Zulu;2013;Jérôme Salle;(Crime,Drama,Thriller);16000000;6.7;Zulu
+856;Blue Exorcist;2013;Tensai Okamura;(Animation,Action,Drama,Fantasy,Horror); ;7.7;Ao no ekusoshisuto
+857;The Viral Factor;2013;Dante Lam;(Action,Drama,Thriller); ;6.0;Jik zin
+858;Cold Blood;2013;Stefan Ruzowitzky;(Crime,Drama,Thriller);12000000;6.3;Deadfall
+859;The Bunny Game;2013;Adam Rehmeier;(Horror); ;3.6;The Bunny Game
+860;Ennemis jures;2013;Ralph Fiennes;(Drama,Thriller,War); ;6.2;Coriolanus
+861;Citadel;2013;Ciarán Foy;(Drama,Horror,Thriller); ;5.5;Citadel
+862;Only God Forgives;2013;Nicolas Winding Refn;(Crime,Drama);4800000;5.7;Only God Forgives
+863;White House Down;2013;Roland Emmerich;(Action,Drama,Thriller);150000000;6.4;White House Down
+864;Scary;2013;Steven C. Miller;(Horror); ;4.6;Under the Bed
+865;Rush;2013;Ron Howard;(Action,Biography,Drama,Sport);38000000;8.1;Rush
+866;Diaz  Un crime d'etat;2013;Thierry Michel;(Documentary,Crime,History,Thriller); ;7.5;L'affaire Chebeya, un crime d'Etat?
+867;Hansel and Gretel : Witch Hunters;2013;Tommy Wirkola;(Action,Fantasy,Horror);50000000;6.1;Hansel & Gretel: Witch Hunters
+868;Man of Steel;2013;Zack Snyder;(Action,Adventure,Fantasy,Sci-Fi);225000000;7.1;Man of Steel
+869;A Touch of Sin;2013;Zhangke Jia;(Drama); ;7.2;Tian zhu ding
+870;48 Heures chrono;2013;Morgan O'Neill;(Crime,Mystery,Thriller);25000000;5.8;The Factory
+871;Casa de mi Padre;2013;Matt Piedmont;(Comedy,Western);6000000;5.5;Casa de mi Padre
+872;Oblivion;2013;Joseph Kosinski;(Action,Adventure,Mystery,Sci-Fi);120000000;7.0;Oblivion
+873;Thor : le monde des tenebres;2013;Benjamin Daniel;(Comedy); ;-1.0;Thor 2, le monde des ténèbres
+874;The Master;2013;Paul Thomas Anderson;(Drama);32000000;7.1;The Master
+875;2 Guns;2013;Baltasar Kormákur;(Action,Comedy,Crime,Drama,Thriller);61000000;6.7;2 Guns
+876;Hunger Games  L'embrasement;2013;Francis Lawrence;(Adventure,Mystery,Sci-Fi,Thriller);130000000;7.6;The Hunger Games: Catching Fire
+877;A Compagny Man;2013; ; ; ;-1.0; 
+878;Aftershock, l'enfer sur Terre;2013;Nicolás López;(Action,Adventure,Horror,Thriller);2000000;4.8;Aftershock
+879;Sex and Zen 3D;2013;Christopher Lap-Key Sun;(Comedy,Drama);2580000;4.4;3D Rou pu tuan: Ji le bao jian
+880;Pusher;2013;Nicolas Winding Refn;(Crime,Thriller);DKK 6000000;7.4;Pusher
+881;La Vraie vie des profs;2013;Emmanuel Klotz;(Comedy); ;3.7;La vraie vie des profs
+882;Promised Land;2013;Gus Van Sant;(Drama);15000000;6.6;Promised Land
+883;G.I. Joe : Conspiration;2013;Lucien Nonguet;(Short,Drama); ;-1.0;Une conspiration sous Henri III
+884;Le Grand magicien;2013;Tung-Shing Yee;(Comedy,Drama,Mystery,Romance);15000000;5.9;Daai mo seut si
+885;L'Aube rouge;2013;John Milius;(Action,Drama,War);4200000;6.4;Red Dawn
+886;Frankenstein's Army;2013;Richard Raaphorst;(Horror); ;5.3;Frankenstein's Army
+887;Tai Chi 0;2013;Stephen Fung;(Action,Adventure,Drama); ;6.1;Tai Chi 0
+888;As I Lay Dying;2013;James Franco;(Drama);5000000;5.4;As I Lay Dying
+889;Husk;2013;Brett Simmons;(Horror,Thriller); ;5.1;Husk
+890;Hindsight;2013;Michael Trim;(Comedy,Drama); ;7.7;Hindsight
+891;Hammer of the Gods;2013;Farren Blackburn;(Action,Adventure,History); ;4.5;Hammer of the Gods
+892;Berberian Sound Studio;2013;Peter Strickland;(Drama,Horror,Thriller); ;6.2;Berberian Sound Studio
+893;La Nuit des morts vivants 3D : ReAnimation;2013; ; ; ;-1.0; 
+894;La Danza de la Realidad;2013;Alejandro Jodorowsky;(Biography,Drama,Fantasy);3000000;7.6;La danza de la realidad
+895;Elysium;2013;Neill Blomkamp;(Action,Drama,Sci-Fi,Thriller);115000000;6.6;Elysium
+896;Headhunters;2013;Morten Tyldum;(Crime,Drama,Thriller);NOK 30300000;7.6;Hodejegerne
+897;Dracula;2013;Francis Ford Coppola;(Fantasy,Horror);40000000;7.5;Dracula
+898;Grabbers;2013;Jon Wright;(Comedy,Horror,Sci-Fi,Thriller);£4000000;6.3;Grabbers
+899;Cloud Atlas;2013;Tom Tykwer;(Drama,Sci-Fi);102000000;7.5;Cloud Atlas
+900;Pacific Rim;2013;Guillermo del Toro;(Action,Adventure,Sci-Fi);190000000;7.0;Pacific Rim
+901;Crawlspace;2013;Neil Marshall;(Adventure,Horror,Thriller);£3500000;7.2;The Descent
+902;Gangster Squad;2013;Ruben Fleischer;(Action,Crime,Drama,Thriller);60000000;6.7;Gangster Squad
+903;The Immigrant;2013;James Gray;(Drama,Romance);16000000;6.6;The Immigrant
+904;The Land of Hope;2013;Sion Sono;(Drama,Sci-Fi); ;6.6;Kibô no kuni
+905;All is Lost;2013;J.C. Chandor;(Action,Adventure,Drama);9000000;6.9;All Is Lost
+906;Insidious : chapitre 2;2013;James Wan;(Fantasy,Horror,Thriller);5000000;6.6;Insidious: Chapter 2
+907;Dragon Gate  La legende des sabres volants;2013;Hark Tsui;(Action,Adventure);35000000;6.0;Long men fei jia
+908;No One Lives;2013;Ryûhei Kitamura;(Horror,Thriller);2900000;6.0;No One Lives
+909;You're Next;2013;Adam Wingard;(Horror,Thriller);1000000;6.5;You're Next
+910;Gibraltar;2013;Julien Leclercq;(Crime,Thriller); ;6.3;Gibraltar
+911;Django Unchained;2013;Quentin Tarantino;(Drama,Western);100000000;8.5;Django Unchained
+912;Don Jon;2013;Joseph Gordon-Levitt;(Comedy,Drama,Romance);3000000;6.6;Don Jon
+913;Run Out;2013;Mukunda Michael Dewil;(Action,Crime,Thriller);10000000;4.9;Vehicle 19
+914;The Forest;2013;Jason Zada;(Horror,Mystery,Thriller);10000000;4.8;The Forest
+915;Metro Manila;2013;Sean Ellis;(Crime,Drama);£250000;7.6;Metro Manila
+916;New World;2013;Hoon-jung Park;(Crime,Drama,Thriller); ;7.6;Sinsegye
+917;Samsara;2013;Ron Fricke;(Documentary,Music);4000000;8.5;Samsara
+918;R.I.P.D. Brigade Fantome;2013;Robert Schwentke;(Action,Comedy,Fantasy);130000000;5.6;R.I.P.D.
+919;Effets secondaires;2013;Steven Soderbergh;(Crime,Drama,Thriller);30000000;7.1;Side Effects
+920;Death Race : Inferno;2013;Roel Reiné;(Action,Sci-Fi,Thriller);6500000;5.5;Death Race: Inferno
+921;Boule et Bill;2013;Alexandre Charlot;(Comedy,Family); ;4.2;Boule & Bill
+922;Arnarque a la carte;2013; ; ; ;-1.0; 
+923;9 mois ferme;2013;Albert Dupontel;(Comedy); ;6.5;9 mois ferme
+924;The Day;2013;Douglas Aarniokoski;(Action,Drama,Horror,Sci-Fi,Thriller); ;5.2;The Day
+925;L'Extravagant voyage du jeune et prodigieux T.S. Spivet;2013;Jean-Pierre Jeunet;(Action,Adventure,Drama,Family);33000000;7.1;The Young and Prodigious T.S. Spivet
+926;Survivre;2013;Baltasar Kormákur;(Action,Drama);€2000000;6.7;Djúpið
+927;Machete Kills;2013;Robert Rodriguez;(Action,Comedy,Crime,Thriller);20000000;5.6;Machete Kills
+928;Mud  Sur les rives du Mississippi;2013;Jeff Nichols;(Drama);10000000;7.4;Mud
+929;Crazy Joe;2013;Steven Knight;(Action,Crime,Drama,Thriller);20000000;6.2;Hummingbird
+930;Les Miserables;2013;Tom Hooper;(Drama,Musical,Romance);61000000;7.6;Les Misérables
+931;Morsures;2013;Ha Yoo;(Thriller); ;6.2;Ha-wool-ling
+932;Lincoln;2013;Steven Spielberg;(Biography,Drama,History,War);65000000;7.4;Lincoln
+933;Les ames Vagabondes;2013;Andrew Niccol;(Action,Adventure,Romance,Sci-Fi,Thriller);40000000;5.9;The Host
+934;Before Midnight;2013;Richard Linklater;(Drama,Romance);3000000;7.9;Before Midnight
+935;Nameless Gangster;2013;Jong-bin Yun;(Crime,Drama,Thriller);KRW 10000000000;7.2;Bumchoiwaui junjaeng: Nabbeunnomdeul jeonsungshidae
+936;Fire with Fire : Vengeance par le feu;2013;David Barrett;(Action,Crime,Drama,Thriller);10400000;5.7;Fire with Fire
+937;Shadow Dancer;2013;James Marsh;(Drama,Thriller); ;6.2;Shadow Dancer
+938;Dark Skies;2013;Scott Stewart;(Horror,Sci-Fi,Thriller);3500000;6.3;Dark Skies
+939;Berserk, L'age d'Or partie II : La bataille de Doldrey;2013; ; ; ;-1.0; 
+940;Texas Chainsaw 3D;2013;John Luessenhop;(Horror,Thriller);20000000;4.8;Texas Chainsaw 3D
+941;Red 2;2013;Dean Parisot;(Action,Comedy,Crime,Thriller);84000000;6.7;RED 2
+942;Moi, moche et mechant 2;2013;Pierre Coffin;(Animation,Adventure,Comedy,Family,Sci-Fi);76000000;7.5;Despicable Me 2
+943;Quai d'Orsay;2013;Bertrand Tavernier;(Comedy); ;6.4;Quai d'Orsay
+944;Bad Grandpa;2013;Jeff Tremaine;(Comedy);15000000;6.6;Bad Grandpa
+945;Vive la France;2013;Michaël Youn;(Comedy);€15000000;5.8;Vive la France
+946;Room 237;2013;Rodney Ascher;(Documentary); ;6.3;Room 237
+947;L'Ivresse de l'argent;2013;Sang-soo Im;(Drama,Thriller); ;5.8;Don-eui mat
+948;11.6;2013;Philippe Godeau;(Biography,Drama,Thriller); ;5.8;11.6
+949;40 ans : mode d'emploi;2013;Boris Berger;(Documentary,Short);€5000;-1.0;18ans, Mode d'emploi
+950;Le Hobbit : la desolation de Smaug;2013;Benjamin Daniel;(Comedy); ;-1.0;Le Hobbit 2: la Désolation de Smaug
+951;Diana;2013;Oliver Hirschbiegel;(Biography,Drama,Romance);15000000;5.5;Diana
+952;The Lords of Salem;2013;Rob Zombie;(Drama,Fantasy,Horror,Thriller);2500000;5.1;The Lords of Salem
+953;Lovely Molly;2013;Eduardo Sánchez;(Drama,Horror);1000000;5.3;Lovely Molly
+954;L ecume des jours;2013;Michel Gondry;(Comedy,Drama,Fantasy,Romance);€19000000;6.5;L'écume des jours
+955;After Earth;2013;M. Night Shyamalan;(Action,Adventure,Sci-Fi);130000000;4.9;After Earth
+956;La Strategie Ender;2013;Gavin Hood;(Action,Sci-Fi);110000000;6.7;Ender's Game
+957;Iron Sky;2013;Timo Vuorensola;(Action,Comedy,Sci-Fi);€7500000;5.9;Iron Sky
+958;Prisoners;2013;Denis Villeneuve;(Crime,Drama,Mystery,Thriller);46000000;8.1;Prisoners
+959;Zero Dark Thirty;2013;Kathryn Bigelow;(Drama,History,Thriller);40000000;7.4;Zero Dark Thirty
+960;The Thompsons;2013;Mitchell Altieri;(Drama,Horror,Thriller);3000000;4.7;The Thompsons
+961;Phantom;2013;Mike Marvin;(Action,Horror,Romance,Sci-Fi,Thriller);2700000;5.9;The Wraith
+962;No Pain No Gain;2013;Michael Bay;(Comedy,Crime,Drama);26000000;6.5;Pain & Gain
+963;Iron Man 3;2013;Shane Black;(Action,Adventure,Sci-Fi);200000000;7.2;Iron Man Three
+964;The End;2013;Jorge Torregrossa;(Drama,Sci-Fi,Thriller); ;4.9;Fin
+965;Evasion;2013;Mikael Håfström;(Action,Crime,Mystery,Sci-Fi,Thriller);50000000;6.7;Escape Plan
+966;Evangelion 3.33 : You Can;2013;Mahiro Maeda;(Animation,Action,Drama,Sci-Fi); ;7.1;Evangerion shin gekijôban: Kyu
+967;Mandela, un long chemin vers la liberte;2013;Justin Chadwick;(Biography,Drama,History);35000000;7.1;Mandela: Long Walk to Freedom
+968;Father's Day;2013;George A. Romero;(Comedy,Fantasy,Horror);8000000;6.9;Creepshow
+969;Bad Yankee;2013;Eduardo Rodriguez;(Action,Drama);7000000;5.4;El Gringo
+970;7 Psychopathes;2013;Martin McDonagh;(Comedy,Crime);15000000;7.2;Seven Psychopaths
+971;Epic : la bataille du royaume secret;2013;Chris Wedge;(Animation,Adventure,Family,Fantasy);100000000;6.7;Epic
+972;V/H/S;2013;Matt Bettinelli-Olpin;(Fantasy,Horror); ;5.8;V/H/S
+973;Suspect;2013;Scott Walker;(Crime,Drama,Mystery,Thriller);27220000;6.4;The Frozen Ground
+974;Swordsmen;2013;Peter Ho-Sun Chan;(Action,Crime,Drama,Thriller); ;7.1;Wu xia
+975;Les Miller, une famille en herbe;2013;Rawson Marshall Thurber;(Comedy,Crime);37000000;7.0;We're the Millers
+976;Dagmar, l'ame des vikings;2013;Roar Uthaug;(Action,History,Thriller); ;6.1;Flukt
+977;Enemies Closer;2013;Peter Hyams;(Action,Thriller);5000000;5.2;Enemies Closer
+978;The Innkeepers;2013;Ti West;(Horror);750000;5.5;The Innkeepers
+979;Sublimes creatures;2013;Richard LaGravenese;(Drama,Fantasy,Romance);60000000;6.2;Beautiful Creatures
+980;Le Cinquieme pouvoir;2013;Bill Condon;(Biography,Drama,Thriller);28000000;6.2;The Fifth Estate
+981;Riddick;2013;David Twohy;(Action,Adventure,Sci-Fi,Thriller);105000000;6.7;The Chronicles of Riddick
+982;Welcome to the Punch;2013;Eran Creevy;(Action,Crime,Thriller);8500000;6.1;Welcome to the Punch
+983;Flight;2013;Robert Zemeckis;(Drama,Thriller);31000000;7.3;Flight
+984;La Reine des neiges;2013;Chris Buck;(Animation,Adventure,Comedy,Family,Fantasy,Musical);150000000;7.6;Frozen
+985;Hotel Transylvanie;2013;Genndy Tartakovsky;(Animation,Comedy,Family,Fantasy);85000000;7.1;Hotel Transylvania
+986;Blood Ties;2013;Guillaume Canet;(Crime,Drama,Thriller);25500000;6.5;Blood Ties
+987;Mariage a l'anglaise;2013;Dan Mazer;(Comedy,Romance); ;5.7;I Give It a Year
+988;The Grandmaster;2013;Kar-Wai Wong;(Action,Biography,Drama);38600000;6.5;Yi dai zong shi
+989;Masks;2013;Andreas Marschall;(Horror,Mystery,Thriller); ;5.8;Masks
+990;The Call;2013;Brad Anderson;(Crime,Thriller);13000000;6.7;The Call
+991;Le Chasseur;2013;Daniel Nettheim;(Adventure,Drama,Thriller); ;6.8;The Hunter
+992;The Bling Ring;2013;Sofia Coppola;(Biography,Crime,Drama);8000000;5.6;The Bling Ring
+993;Star Trek Into Darkness;2013;J.J. Abrams;(Action,Adventure,Sci-Fi);190000000;7.8;Star Trek Into Darkness
+994;Conjuring : les dossiers Warren;2013;James Wan;(Horror,Mystery,Thriller);20000000;7.5;The Conjuring
+995;Les Stagiaires;2013;Shawn Levy;(Comedy);58000000;6.3;The Internship
+996;L'Homme aux poings de fer;2013;RZA;(Action);15000000;5.4;The Man with the Iron Fists
+997;Alabama Monroe;2013;Felix van Groeningen;(Drama,Music,Romance); ;7.8;The Broken Circle Breakdown
+998;Les Croods;2013;Kirk De Micco;(Animation,Adventure,Comedy,Family,Fantasy);135000000;7.3;The Croods
+999;Love Exposure;2013;Sion Sono;(Action,Comedy,Drama,Romance); ;8.1;Ai no mukidashi
+1000;Blue Jasmine;2013;Woody Allen;(Drama);18000000;7.3;Blue Jasmine
+1001;My Movie Project;2013;Elizabeth Banks;(Comedy,Romance);6000000;4.3;Movie 43
+1002;Le Monde fantastique d'Oz;2013;Sam Raimi;(Adventure,Family,Fantasy);215000000;6.4;Oz the Great and Powerful
+1003;Spring Breakers;2013;Harmony Korine;(Crime,Drama);5000000;5.3;Spring Breakers
+1004;Copains pour toujours 2;2013;Dennis Dugan;(Comedy);80000000;5.4;Grown Ups 2
+1005;Players;2013;Brad Furman;(Crime,Thriller);30000000;5.6;Runner Runner
+1006;Dead Man Down;2013;Niels Arden Oplev;(Action,Crime,Drama,Thriller);30000000;6.5;Dead Man Down
+1007;C'est la fin;2013;Evan Goldberg;(Comedy,Fantasy);32000000;6.7;This Is the End
+1008;The Baytown Outlaws;2013;Barry Battles;(Action,Comedy,Crime);4000000;6.3;The Baytown Outlaws
+1009;Malavita;2013;Luc Besson;(Comedy,Crime,Thriller);30000000;6.3;The Family
+1010;Le Dernier exorcisme : Part II;2013;Ed Gass-Donnelly;(Drama,Horror,Thriller);5000000;4.0;The Last Exorcism Part II
+1011;Prince of Texas;2013;David Gordon Green;(Comedy,Drama);725000;6.4;Prince Avalanche
+1012;La Marque des anges  Miserere;2013;Sylvain White;(Thriller);€15000000;5.7;La marque des anges - Miserere
+1013;Last Vegas;2013;Jon Turteltaub;(Comedy,Romance);28000000;6.6;Last Vegas
+1014;Pieta;2013;Ki-duk Kim;(Drama);€103000;7.2;Pieta
+1015;The ABC's of Death;2013;Rodney Ascher;(Comedy,Horror); ;5.5;ABCs of Death 2
+1016;Cartel;2013;Ted Demme;(Biography,Crime,Drama);53000000;7.6;Blow
+1017;Gatsby Le Magnifique;2013;Baz Luhrmann;(Drama,Romance);105000000;7.3;The Great Gatsby
+1018;Beach Shark;2013;Mark Atkins;(Comedy,Horror,Sci-Fi,Thriller); ;2.6;Sand Sharks
+1019;12 heures;2013;Simon West;(Action,Crime,Drama,Thriller);35000000;5.5;Stolen
+1020;Le Loup de Wall Street;2013;Martin Scorsese;(Biography,Comedy,Crime,Drama);100000000;8.2;The Wolf of Wall Street
+1021;Storage 24;2013;Johannes Roberts;(Horror,Sci-Fi); ;4.4;Storage 24
+1022;Warm Bodies;2013;Jonathan Levine;(Comedy,Horror,Romance);35000000;6.9;Warm Bodies
+1023;Tai Chi Hero;2013;Stephen Fung;(Action,Adventure);40000000;6.2;Tai Chi Hero
+1024;Magic Magic;2013;Sebastián Silva;(Drama,Thriller); ;5.0;Magic Magic
+1025;Infiltre;2013;Ric Roman Waugh;(Action,Drama,Thriller);15000000;6.5;Snitch
+1026;Rampart;2013;Guy Ferland;(Crime,Drama,Thriller);1200000 (per episode);8.7;The Shield
+1027;Evil Dead;2013;Sam Raimi;(Fantasy,Horror);350000;7.6;The Evil Dead
+1028;One Piece Z;2013;Tatsuya Nagamine;(Animation,Action,Adventure,Fantasy); ;8.0;One Piece Film Z
+1029;Cockneys Vs Zombies;2013;Matthias Hoene;(Action,Comedy,Crime,Fantasy,Horror); ;5.9;Cockneys vs Zombies
+1030;Le Dernier rempart;2013;Jee-woon Kim;(Action,Crime,Thriller);45000000;6.4;The Last Stand
+1031;Straw Dogs;2012;Rod Lurie;(Action,Drama,Thriller);25000000;5.8;Straw Dogs
+1032;Dos au mur;2012;Asger Leth;(Action,Crime,Thriller);42000000;6.6;Man on a Ledge
+1033;The Descendants;2012;Alexander Payne;(Comedy,Drama);20000000;7.3;The Descendants
+1034;Possessions;2012;Hiroaki Andô;(Animation,Fantasy,Sci-Fi); ;7.0;Short Peace
+1035;Expendables 2: unite speciale;2012;Simon West;(Action,Adventure,Thriller);100000000;6.7;The Expendables 2
+1036;The Caller;2012;Matthew Parkhill;(Thriller); ;6.1;The Caller
+1037;The Devil's Double;2012;Lee Tamahori;(Biography,Drama,Thriller);€15000000;7.1;The Devil's Double
+1038;Moonrise Kingdom;2012;Wes Anderson;(Adventure,Comedy,Drama,Romance);16000000;7.8;Moonrise Kingdom
+1039;Braqueurs;2012;Julien Leclercq;(Crime,Drama,Thriller); ;6.3;Braqueurs
+1040;La Clinique de l amour o;2012;Artus de Penguern;(Comedy,Family,Romance); ;5.5;La clinique de l'amour!
+1041;Resident Evil : Retribution;2012;Paul W.S. Anderson;(Action,Horror,Sci-Fi,Thriller);65000000;5.4;Resident Evil: Retribution
+1042;Men in Black 3;2012;Barry Sonnenfeld;(Action,Adventure,Comedy,Family,Fantasy,Sci-Fi);225000000;6.8;Men in Black 3
+1043;TV Show;2012;Hideo Nakata;(Horror,Mystery,Thriller); ;5.7;Inshite miru: 7-kakan no desu gêmu
+1044;Le Grand soir;2012;Joe Nussbaum;(Comedy,Drama);8000000;5.4;Prom
+1045;Fullmetal Alchemist : L etoile Sacree de Milos;2012; ; ; ;-1.0; 
+1046;Killer Joe;2012;William Friedkin;(Crime,Drama,Thriller);11000000;6.7;Killer Joe
+1047;King Rising 2 : Les deux mondes;2012;Uwe Boll;(Action,Adventure,Fantasy,Thriller);4500000;3.1;In the Name of the King: Two Worlds
+1048;Space Time;2012; ;(Animation); ;-1.0;Space Time
+1049;Tucker and Dale fightent le mal;2012;Eli Craig;(Comedy,Horror); ;7.6;Tucker and Dale vs Evil
+1050;The Darkest Hour;2012;Chris Gorak;(Action,Adventure,Horror,Sci-Fi,Thriller);30000000;4.9;The Darkest Hour
+1051;Total Recall : memoires programmees;2012;Len Wiseman;(Action,Adventure,Mystery,Sci-Fi,Thriller);125000000;6.3;Total Recall
+1052;Les Pirates ! Bons a rien, Mauvais en tout;2012;Peter Lord;(Animation,Adventure,Comedy,Family);55000000;6.7;The Pirates! In an Adventure with Scientists!
+1053;The Crash;2012;Aram Rappaport;(Crime,Thriller); ;-1.0;Jekyll Island
+1054;Broken;2012;Rufus Norris;(Drama,Romance); ;7.3;Broken
+1055;J. Edgar;2012;Clint Eastwood;(Biography,Crime,Drama,Romance);35000000;6.6;J. Edgar
+1056;La Vie sans principe;2012;Johnnie To;(Crime,Drama); ;7.0;Dyut meng gam
+1057;Dragon Eyes;2012;John Hyams;(Action,Crime,Drama,Thriller);3000000;4.5;Dragon Eyes
+1058;Anonymous;2012;Roland Emmerich;(Drama,History,Thriller);30000000;6.9;Anonymous
+1059;Sector 7;2012;Ji-hoon Kim;(Action,Adventure,Horror,Sci-Fi); ;4.6;7 gwanggu
+1060;Chasing Mavericks;2012;Michael Apted;(Biography,Drama,Sport);20000000;7.2;Chasing Mavericks
+1061;Avengers;2012;Joss Whedon;(Action,Sci-Fi,Thriller);220000000;8.1;The Avengers
+1062;Retreat;2012;Carl Tibbetts;(Thriller); ;5.8;Retreat
+1063;Magic Mike;2012;Steven Soderbergh;(Comedy,Drama);7000000;6.1;Magic Mike
+1064;13 Assassins;2012;Takashi Miike;(Action,Adventure,Drama);6000000;7.6;Jûsan-nin no shikaku
+1065;Compliance;2012;Craig Zobel;(Biography,Crime,Drama,Thriller);270000;6.4;Compliance
+1066;Seconds Apart;2012;Antonio Negret;(Horror,Thriller); ;5.7;Seconds Apart
+1067;Prowl;2012;Patrik Syversen;(Horror); ;4.6;Prowl
+1068;Rock Forever;2012;Adam Shankman;(Comedy,Drama,Musical,Romance);75000000;5.9;Rock of Ages
+1069;Starbuck;2012;Ken Scott;(Comedy,Drama);26000000;6.4;Delivery Man
+1070;Twixt;2012;Francis Ford Coppola;(Comedy,Fantasy,Horror,Mystery);7000000;4.8;Twixt
+1071;L Ombre du mal;2012;Jean-Louis van Belle;(Drama); ;-1.0;À l'ombre d'un été
+1072;Mardock Scramble : The First Compression;2012;Susumu Kudo;(Animation,Action,Drama,Sci-Fi,Thriller); ;6.6;Marudukku sukuranburu: Asshuku
+1073;Twilight  Chapitre 5 : Revelation 2e partie;2012;Bill Condon;(Adventure,Drama,Fantasy,Romance);120000000;5.5;The Twilight Saga: Breaking Dawn - Part 2
+1074;Martha Marcy May Marlene;2012;Sean Durkin;(Drama,Mystery,Thriller); ;6.9;Martha Marcy May Marlene
+1075;Le Pacte;2012;Renny Harlin;(Action,Fantasy,Horror,Thriller);20000000;5.3;The Covenant
+1076;The Raid;2012;Gareth Evans;(Action,Crime,Thriller);1100000;7.6;Serbuan maut
+1077;Atrocious;2012;Fernando Barreda Luna;(Horror,Mystery,Thriller); ;5.1;Atrocious
+1078;Babysitter malgre lui;2012;David Gordon Green;(Comedy); ;5.7;The Sitter
+1079;Le Hobbit : un voyage inattendu;2012;Benjamin Daniel;(Comedy); ;-1.0;Le Hobbit: Un Voyage Inattendu
+1080;Disparue;2012;Heitor Dhalia;(Drama,Mystery,Thriller); ;5.9;Gone
+1081;Battleship;2012;Peter Berg;(Action,Adventure,Sci-Fi,Thriller);209000000;5.9;Battleship
+1082;Jason Bourne : l'heritage;2012;Tony Gilroy;(Action,Adventure,Drama,Romance,Thriller);125000000;6.7;The Bourne Legacy
+1083;Effraction;2012;Joel Schumacher;(Crime,Drama,Thriller);35000000;5.3;Trespass
+1084;Hostel  Chapitre 3;2012; ; ; ;-1.0; 
+1085;A Better Tomorrow;2012;John Woo;(Action,Crime,Drama,Thriller); ;7.6;Ying hung boon sik
+1086;Robot and Frank;2012;Erik Beck;(Comedy); ;-1.0;Robot and Frank
+1087;Fertile Ground;2012;Adam Gierasch;(Horror); ;4.6;Fertile Ground
+1088;Detention;2012;Joseph Kahn;(Comedy,Horror,Sci-Fi);10000000;5.8;Detention
+1089;The Ward : l'hopital de la terreur;2012;John Carpenter;(Horror);10000000;5.6;The Ward
+1090;The Incident;2012;Jane Linfoot;(Drama);£750000;7.6;The Incident
+1091;Headshot;2012;Kimo Stamboel;(Action,Drama,Thriller); ;7.7;Headshot
+1092;Mais qui a retue Pamela Rose ?;2012;Olivier Baroux;(Comedy);€9000000;5.3;Mais qui a re-tué Pamela Rose?
+1093;Hell;2012;Luis Estrada;(Action,Comedy,Crime,Drama); ;7.9;El infierno
+1094;Cogan : Killing Them Softly;2012;Andrew Dominik;(Crime,Thriller);15000000;6.2;Killing Them Softly
+1095;The Veteran;2012;Bob Clark;(Horror);235000;6.8;Dead of Night
+1096;Hunger Games;2012;Gary Ross;(Adventure,Drama,Sci-Fi,Thriller);78000000;7.3;The Hunger Games
+1097;Demain, quand la guerre a commence;2012;Stuart Beattie;(Action,Adventure,Drama);AUD 25000000;6.2;Tomorrow, When the War Began
+1098;Le Capital;2012;Costa-Gavras;(Drama); ;6.5;Le capital
+1099;Jane Eyre;2012;Cary Joji Fukunaga;(Drama,Romance); ;7.4;Jane Eyre
+1100;Mains armees;2012;Pierre Jolivet;(Crime,Drama,Thriller);€8300000;5.5;Mains armées
+1101;John Carter;2012;Andrew Stanton;(Action,Adventure,Sci-Fi);250000000;6.6;John Carter
+1102;Ted;2012;Seth MacFarlane;(Comedy,Fantasy);50000000;7.0;Ted
+1103;Devil Inside;2012;William Brent Bell;(Horror);1000000;4.2;The Devil Inside
+1104;Hiss;2012;Glenn Ficarra;(Comedy,Drama); ;-1.0;This Is Us
+1105;Bellflower;2012;Evan Glodell;(Action,Drama,Romance);17000;6.4;Bellflower
+1106;Le Magasin des suicides;2012;Patrice Leconte;(Animation,Comedy,Musical); ;6.2;Le magasin des suicides
+1107;Death Trance;2012;Yûji Shimomura;(Action,Adventure,Fantasy); ;5.9;Desu toransu
+1108;Argo;2012;Ben Affleck;(Biography,Drama,History,Thriller);44500000;7.7;Argo
+1109;BlancheNeige et le Chasseur;2012; ; ; ;-1.0; 
+1110;Choose;2012;Marcus Graves;(Crime,Drama,Horror,Thriller); ;4.7;Choose
+1111;Paperboy;2012;Lee Daniels;(Drama,Thriller);12500000;5.8;The Paperboy
+1112;Asterix et Obelix: au service de Sa Majeste;2012; ; ; ;-1.0; 
+1113;Starship Troopers : Invasion;2012;Shinji Aramaki;(Animation,Action,Sci-Fi); ;5.9;Starship Troopers: Invasion
+1114;La Taupe;2012;Tomas Alfredson;(Drama,Mystery,Thriller);£20000000;7.1;Tinker Tailor Soldier Spy
+1115;Touristes;2012;John Stockwell;(Horror,Mystery,Thriller);10000000;5.3;Turistas
+1116;Bad Ass;2012;Craig Moss;(Action,Comedy,Crime,Thriller); ;5.5;Bad Ass
+1117;Cloclo;2012;Florent-Emilio Siri;(Biography,Drama,Music);€20000000;6.9;Cloclo
+1118;Une nouvelle chance;2012;Robert Lorenz;(Drama,Sport);60000000;6.8;Trouble with the Curve
+1119;Cheval de guerre;2012;Steven Spielberg;(Drama,War);66000000;7.2;War Horse
+1120;Safe;2012;Boaz Yakin;(Action,Crime,Thriller);30000000;6.5;Safe
+1121;Outpost : Black Sun;2012;Steve Barker;(Action,Horror,Sci-Fi);3000000;5.0;Outpost: Black Sun
+1122;Elle s'appelle Ruby;2012;Jonathan Dayton;(Comedy,Drama,Fantasy,Romance);8000000;7.2;Ruby Sparks
+1123;Wake Wood;2012;David Keating;(Drama,Horror,Thriller); ;5.5;Wake Wood
+1124;The Dead;2012;Howard J. Ford;(Horror); ;5.8;The Dead
+1125;Wrong;2012;Quentin Dupieux;(Comedy,Mystery); ;6.2;Wrong
+1126;The Impossible;2012;J.A. Bayona;(Drama,Thriller);45000000;7.6;Lo imposible
+1127;Lady Vegas  Les Memoires d'une joueuse;2012;Stephen Frears;(Comedy,Drama,Romance);26350000;4.8;Lay the Favorite
+1128;La Chasse;2012;Thomas Vinterberg;(Drama);3800000;8.3;Jagten
+1129;Moi, depute;2012;Jay Roach;(Comedy);95000000;6.2;The Campaign
+1130;L Odyssee de Pi;2012;Cedric Chabuel;(Documentary,Short); ;-1.0;L'odyssee du sample
+1131;Six Bullets;2012;Ernie Barbarash;(Action,Crime,Drama,Thriller);10000000;6.1;6 Bullets
+1132;360;2012;Fernando Meirelles;(Drama,Romance); ;6.2;360
+1133;Fight Games;2012;Michael Dowse;(Comedy,Sport); ;6.8;Goon
+1134;Evil Game;2012;Ernie Barbarash;(Horror,Mystery,Thriller); ;5.4;They Wait
+1135;Superstar;2012;Bruce McCulloch;(Comedy,Romance);34000000;5.0;Superstar
+1136;Target;2012;McG;(Action,Comedy,Romance);65000000;6.3;This Means War
+1137;The Presence;2012;Tom Provost;(Drama,Horror,Thriller); ;4.4;The Presence
+1138;Inside;2012;Alexandre Bustillo;(Drama,Horror);3000000;6.9;À l'intérieur
+1139;Miss Bala;2012;Gerardo Naranjo;(Crime,Drama,Thriller); ;6.5;Miss Bala
+1140;L Attaque du requin a deux tetes;2012; ; ; ;-1.0; 
+1141;The Divide;2012;Xavier Gens;(Drama,Sci-Fi,Thriller);3000000;5.8;The Divide
+1142;Premium Rush;2012;David Koepp;(Action,Crime,Thriller);35000000;6.5;Premium Rush
+1143;The We and the I;2012;Michel Gondry;(Drama); ;6.1;The We and the I
+1144;La Verite si je mens ! 3;2012;Thomas Gilou;(Comedy);€26000000;5.3;La vérité si je mens! 3
+1145;Les Kaira;2012;Franck Gastambide;(Comedy); ;5.4;Les Kaïra
+1146;A.C.A.B;2012;Ryen McPherson;(Short);10000;-1.0;A.C.A.B.
+1147;Faces;2012;Julien Magnat;(Crime,Drama,Mystery,Romance,Thriller);15000000;5.8;Faces in the Crowd
+1148;Blood Creek;2012;Joel Schumacher;(Horror); ;5.4;Town Creek
+1149;Anna Karenine;2012;Joe Wright;(Drama,Romance); ;6.6;Anna Karenina
+1150;Taken 2;2012;Olivier Megaton;(Action,Crime,Thriller);45000000;6.3;Taken 2
+1151;Paranormal Activity 4;2012;Henry Joost;(Horror);5000000;4.6;Paranormal Activity 4
+1152;Babycall;2012;Pål Sletaune;(Horror,Thriller);NOK 25000000;5.7;Babycall
+1153;Poursuite mortelle;2012;Julian Gilbey;(Action,Adventure,Crime,Drama,Thriller);4000000;6.3;A Lonely Place to Die
+1154;Transit;2012;Antonio Negret;(Action,Crime,Thriller);5000000;5.8;Transit
+1155;L'etrange pouvoir de Norman;2012;Chris Butler;(Animation,Adventure,Comedy,Family,Fantasy);60000000;7.0;ParaNorman
+1156;Lock Out;2012;James Mather;(Action,Adventure,Sci-Fi,Thriller);20000000;6.1;Lockout
+1157;Ghost Rider : L'Esprit de Vengeance;2012;Mark Neveldine;(Action,Fantasy,Thriller);57000000;4.3;Ghost Rider: Spirit of Vengeance
+1158;Frankenweenie;2012;Tim Burton;(Animation,Comedy,Family,Horror,Sci-Fi);39000000;7.0;Frankenweenie
+1159;Contrebande;2012;Baltasar Kormákur;(Action,Crime,Drama,Thriller);25000000;6.5;Contraband
+1160;God Bless America;2012;Bobcat Goldthwait;(Comedy,Crime); ;7.2;God Bless America
+1161;Take Shelter;2012;Jeff Nichols;(Drama,Thriller);5000000;7.4;Take Shelter
+1162;Les Trois Corniauds;2012;Bobby Farrelly;(Comedy); ;5.1;The Three Stooges
+1163;La Traversee;2012;Jérôme Cornuau;(Thriller); ;5.2;La traversée
+1164;5 ans de reflexion;2012;Nicholas Stoller;(Comedy,Romance);30000000;6.2;The Five-Year Engagement
+1165;Arena, les gladiateurs de la mort;2012; ; ; ;-1.0; 
+1166;Final Storm;2012;Uwe Boll;(Action,Horror,Thriller);5000000;3.6;The Final Storm
+1167;Voisins du troisieme type;2012;Akiva Schaffer;(Action,Comedy,Sci-Fi);68000000;5.7;The Watch
+1168;Young Adult;2012;Jason Reitman;(Comedy,Drama);12000000;6.3;Young Adult
+1169;Insensibles;2012;Juan Carlos Medina;(Fantasy,Horror,Mystery,Thriller);€3520000;6.2;Insensibles
+1170;Des hommes sans loi;2012;John Hillcoat;(Crime,Drama);26000000;7.3;Lawless
+1171;Berserk, L age d Or  Film 1 : L Oeuf du Roi Conquerant;2012; ; ; ;-1.0; 
+1172;Sinister;2012;Scott Derrickson;(Horror,Mystery);3000000;6.8;Sinister
+1173;ATM;2012;David Brooks;(Horror,Thriller);3000000;4.7;ATM
+1174;Millenium : Les hommes qui n aimaient pas les femmes;2012; ; ; ;-1.0; 
+1175;Sans issue;2012;John Erick Dowdle;(Action,Thriller);5000000;6.8;No Escape
+1176;Mother's Day;2012;Garry Marshall;(Comedy,Drama);25000000;5.6;Mother's Day
+1177;Les Seigneurs;2012;Philip Kaufman;(Drama); ;7.5;The Wanderers
+1178;Max Schmeling;2012;Uwe Boll;(Biography,Drama,Sport,War);7000000;4.8;Max Schmeling
+1179;Chroniques de Tchernobyl;2012;Bradley Parker;(Horror,Mystery,Sci-Fi,Thriller);1000000;5.0;Chernobyl Diaries
+1180;Rebelle;2012;Mark Andrews;(Animation,Adventure,Comedy,Family,Fantasy);185000000;7.2;Brave
+1181;Detour mortel 4  Origines sanglantes;2012;Declan O'Brien;(Horror); ;4.5;Wrong Turn 4: Bloody Beginnings
+1182;After.Life;2012;Agnieszka Wojtowicz-Vosloo;(Drama,Horror,Mystery,Thriller);4500000;5.9;After.Life
+1183;Ernest et Celestine;2012;Stéphane Aubier;(Animation,Comedy,Crime,Drama,Family);€9600000;7.9;Ernest et Célestine
+1184;The Violent Kind;2012;Mitchell Altieri;(Horror); ;4.7;The Violent Kind
+1185;Norwegian Ninja;2012;Thomas Cappelen Malling;(Action,Comedy);NOK 17900000;5.1;Kommandør Treholt & ninjatroppen
+1186;Human Contagion;2012;Mark McQueen;(Action,Horror);2400000;5.2;Devil's Playground
+1187;Jack Reacher;2012;Christopher McQuarrie;(Action,Crime,Mystery,Thriller);60000000;7.0;Jack Reacher
+1188;Alex Cross;2012;Rob Cohen;(Action,Crime,Mystery,Thriller);35000000;5.1;Alex Cross
+1189;To Rome with Love;2012;Woody Allen;(Comedy,Romance);€17000000;6.3;To Rome with Love
+1190;Exam;2012;Stuart Hazeldine;(Mystery,Thriller); ;6.9;Exam
+1191;Le Dernier rite;2012;Peter Cornwell;(Drama,Horror,Mystery,Thriller); ;5.9;The Haunting in Connecticut
+1192;The Hunters;2012;Nisha Ganatra;(Adventure); ;5.0;The Hunters
+1193;Sur la route;2012;Walter Salles;(Adventure,Drama,Romance);25000000;6.1;On the Road
+1194;La Vengeance;2012;Michael Preece;(Action,Drama,Thriller); ;5.4;Logan's War: Bound by Honor
+1195;Cosmopolis;2012;David Cronenberg;(Drama);20500000;5.0;Cosmopolis
+1196;Revenge : A Love Story;2012;Thor Moreno;(Thriller);6200;7.3;Revenge: A Love Story
+1197;Prometheus;2012;Ridley Scott;(Adventure,Mystery,Sci-Fi);130000000;7.0;Prometheus
+1198;Le Roi Scorpion 3  L'Oeil des Dieux;2012;Roel Reiné;(Action,Adventure,Fantasy);5000000;3.6;The Scorpion King 3: Battle for Redemption
+1199;Les Enfants Loups, Ame and Yuki;2012;Mamoru Hosoda;(Animation,Drama,Family,Fantasy); ;8.2;Ookami kodomo no Ame to Yuki
+1200;The Dark Knight Rises;2012;Christopher Nolan;(Action,Thriller);250000000;8.5;The Dark Knight Rises
+1201;Guilty of Romance;2012;Sion Sono;(Drama,Horror,Romance); ;6.8;Koi no tsumi
+1202;Sans compromis;2012;Aaron Harvey;(Action,Crime,Drama,Thriller);7000000;4.6;Catch .44
+1203;American Pie 4;2012;Jon Hurwitz;(Comedy);50000000;6.7;American Reunion
+1204;REC3 Genesis;2012;Paco Plaza;(Horror,Romance);6400000;5.0;[Rec]3: Génesis
+1205;Un Jour de Chance;2012;Álex de la Iglesia;(Drama); ;6.2;La chispa de la vida
+1206;Eva;2012;Joseph L. Mankiewicz;(Drama);1400000;8.3;All About Eve
+1207;Don't Be Afraid of the Dark;2012;Troy Nixey;(Fantasy,Horror,Thriller);25000000;5.6;Don't Be Afraid of the Dark
+1208;Silent Hill : Revelation 3D;2012;Michael J. Bassett;(Adventure,Drama,Horror,Mystery,Thriller);20000000;5.0;Silent Hill: Revelation 3D
+1209;Projet X;2012;Nima Nourizadeh;(Comedy,Crime);12000000;6.7;Project X
+1210;Kill the Gringo;2012;Adrian Grunberg;(Action,Crime,Drama,Thriller);20000000;7.0;Get the Gringo
+1211;Extremement fort et incroyablement pres;2012;Stephen Daldry;(Adventure,Drama,Mystery);40000000;6.9;Extremely Loud & Incredibly Close
+1212;Donjons and Dragons 3 : Le Livre des Tenebres;2012;Gerry Lively;(Action,Adventure,Fantasy); ;4.5;Dungeons & Dragons: The Book of Vile Darkness
+1213;Margin Call;2012;J.C. Chandor;(Biography,Drama,Thriller);3500000;7.1;Margin Call
+1214;Bitch Slap;2012;Rick Jacobson;(Action,Comedy,Crime,Thriller); ;4.5;Bitch Slap
+1215;The Amazing SpiderMan;2012;Jonn Blanchard;(Talk-Show); ;-1.0;The Amazing Spiderman
+1216;Underworld : Nouvelle ere;2012;Måns Mårlind;(Action,Fantasy,Horror);70000000;6.4;Underworld: Awakening
+1217;Bangkok Renaissance;2012;Jean-Marc Minéo;(Action,Drama);€1400000;4.9;Rebirth
+1218;Aux yeux de tous;2012;Billy Ray;(Crime,Drama,Mystery,Thriller);19500000;6.2;Secret in Their Eyes
+1219;La Cabane dans les bois;2012;Drew Goddard;(Fantasy,Horror,Mystery,Thriller);30000000;7.0;The Cabin in the Woods
+1220;Shaolin, la legende des moines guerriers;2012; ; ; ;-1.0; 
+1221;Le Jour des morts;2012;Denis Amar; ; ;-1.0;Le jour des morts
+1222;Au Pays du Sang et du Miel;2012;Angelina Jolie;(Drama,Romance,War);13000000;4.3;In the Land of Blood and Honey
+1223;Sherlock Holmes: Jeu d'ombres;2012;Guy Ritchie;(Action,Adventure,Crime,Mystery,Thriller);125000000;7.5;Sherlock Holmes: A Game of Shadows
+1224;Hesher;2012;Spencer Susser;(Drama);7000000;7.1;Hesher
+1225;De rouille et d'os;2012;Jacques Audiard;(Drama,Romance);€15400000;7.5;De rouille et d'os
+1226;Looper;2012;Rian Johnson;(Action,Crime,Drama,Sci-Fi,Thriller);30000000;7.4;Looper
+1227;Les Mondes de Ralph;2012;Rich Moore;(Animation,Adventure,Comedy,Family,Sci-Fi);165000000;7.8;Wreck-It Ralph
+1228;Gangs of Wasseypur  Part 2;2012;Anurag Kashyap;(Action,Crime,Drama,Thriller);INR 184000000;8.3;Gangs of Wasseypur
+1229;Amour;2012;Michael Haneke;(Drama,Romance);8900000;7.9;Amour
+1230;Tyrannosaur;2012;Paddy Considine;(Drama); ;7.6;Tyrannosaur
+1231;Le Regne des assassins;2012;Chao-Bin Su;(Action,History);12000000;6.9;Jian yu
+1232;The Hole;2012;Joe Dante;(Adventure,Fantasy,Thriller);12000000;5.7;The Hole
+1233;The Secret;2012;Nick Murphy;(Drama,Thriller); ;7.2;The Secret
+1234;Possedee;2012;Ole Bornedal;(Horror,Thriller);14000000;5.9;The Possession
+1235;Voyage vers Agartha;2012;Makoto Shinkai;(Animation,Adventure,Drama,Fantasy,Sci-Fi); ;7.3;Hoshi o ou kodomo
+1236;Piegee;2012;Steven Soderbergh;(Action,Thriller);23000000;5.8;Haywire
+1237;Resident Evil : Damnation;2012;Makoto Kamiya;(Animation,Action,Horror,Sci-Fi,Thriller); ;6.5;Biohazard: Damnation
+1238;Les Cinq legendes;2012;Peter Ramsey;(Animation,Adventure,Family,Fantasy);145000000;7.3;Rise of the Guardians
+1239;Blanche Neige;2012;Tarsem Singh;(Adventure,Comedy,Drama,Family,Fantasy);85000000;5.6;Mirror Mirror
+1240;End of Watch;2012;David Ayer;(Crime,Drama,Thriller);7000000;7.7;End of Watch
+1241;Intruders;2012;Adam Schindler;(Drama,Horror,Thriller); ;5.7;Shut In
+1242;Les Betes du sud sauvage;2012;Benh Zeitlin;(Drama,Fantasy);1800000;7.3;Beasts of the Southern Wild
+1243;La Colline aux coquelicots;2012;Gorô Miyazaki;(Animation,Drama,Family);22000000;7.4;Kokuriko-zaka kara
+1244;Eleven;2012;Lauren Anders Brown;(Documentary);£300000;-1.0;Eleven
+1245;It's Alive;2012;Larry Cohen;(Horror); ;5.8;It's Alive
+1246;Shoot the Killer;2012;William Kaufman;(Action,Crime,Thriller);6000000;5.2;One in the Chamber
+1247;La Colere des Titans;2012;Jonathan Liebesman;(Action,Adventure,Fantasy);150000000;5.8;Wrath of the Titans
+1248;Dragon Age: Dawn of the Seeker;2012;Fumihiko Sori;(Animation,Action,Adventure,Fantasy); ;5.9;Dragon Age: Dawn of the Seeker
+1249;21 Jump Street;2012;Phil Lord;(Action,Comedy,Crime);42000000;7.2;21 Jump Street
+1250;Savages;2012;Oliver Stone;(Crime,Drama,Thriller);45000000;6.5;Savages
+1251;L age de glace : La derive des continents;2012;Romain Nigita;(Documentary,Sci-Fi); ;-1.0;L'Age de Glace 4 La Dérive des Continents: Qu'est-ce que la dérive des continents?
+1252;My Soul to Take;2012;Wes Craven;(Horror,Mystery,Thriller);25000000;4.8;My Soul to Take
+1253;Dylan Dog;2012;Kevin Munroe;(Action,Comedy,Crime,Fantasy,Horror,Mystery,Sci-Fi,Thriller);20000000;5.1;Dylan Dog: Dead of Night
+1254;2001 Maniacs: Field of Screams;2012;Tim Sullivan;(Comedy,Horror); ;3.2;2001 Maniacs: Field of Screams
+1255;Kill List;2012;Ben Wheatley;(Crime,Horror,Thriller);£500000;6.3;Kill List
+1256;Le Sorcier et le Serpent Blanc;2012;Siu-Tung Ching;(Action,Fantasy);HKD 200000000;5.9;Bai she chuan shuo
+1257;Little Big Soldier;2012;Ding Sheng;(Action,Adventure,Comedy);25000000;7.0;Da bing xiao jiang
+1258;War of the Arrows;2012;Han-min Kim;(Action,History); ;7.2;Choi-jong-byeong-gi hwal
+1259;Abraham Lincoln : chasseur de vampires;2012;Timur Bekmambetov;(Action,Fantasy,Horror);69000000;5.9;Abraham Lincoln: Vampire Hunter
+1260;OngBak 3 : l'ultime combat;2012; ; ; ;-1.0; 
+1261;Detachment;2012;Tony Kaye;(Drama); ;7.7;Detachment
+1262;Jusqu'a ce que la fin du monde nous separe;2012;Lorene Scafaria;(Adventure,Comedy,Drama,Romance,Sci-Fi);10000000;6.7;Seeking a Friend for the End of the World
+1263;Voyage au centre de la Terre 2 : L'ile mysterieuse;2012;Brad Peyton;(Action,Adventure,Comedy,Family,Fantasy,Sci-Fi);79000000;5.8;Journey 2: The Mysterious Island
+1264;Le Guetteur;2012;Scott Frank;(Crime,Drama,Thriller);16000000;7.1;The Lookout
+1265;Un flic pour cible;2012;Dito Montiel;(Crime,Drama,Thriller);15000000;5.1;The Son of No One
+1266;The Woman;2012;Lucky McKee;(Horror,Thriller); ;6.1;The Woman
+1267;Dark Shadows;2012;Tim Burton;(Comedy,Fantasy,Horror);100000000;6.2;Dark Shadows
+1268;Jack et Julie;2012;Dennis Dugan;(Comedy);79000000;3.4;Jack and Jill
+1269;Holy Motors;2012;Leos Carax;(Drama,Fantasy); ;7.1;Holy Motors
+1270;Chronicle;2012;Josh Trank;(Drama,Mystery,Sci-Fi,Thriller);12000000;7.1;Chronicle
+1271;The Unjust;2012;Seung-wan Ryoo;(Crime,Drama,Thriller); ;6.7;Boo-dang-geo-rae
+1272;A Serbian Film;2012;Srdjan Spasojevic;(Horror,Mystery,Thriller); ;5.2;Srpski film
+1273;Sur la piste du Marsupilami;2012;Alain Chabat;(Adventure,Comedy,Family); ;5.5;Sur la piste du Marsupilami
+1274;Securite rapprochee;2012;Daniel Espinosa;(Action,Crime,Mystery,Thriller);85000000;6.8;Safe House
+1275;Le Territoire des Loups;2012;Joe Carnahan;(Action,Adventure,Drama,Thriller);25000000;6.8;The Grey
+1276;Dias de Gracia;2012;Everardo Gout;(Crime,Thriller); ;6.8;Días de gracia
+1277;La Maison des ombres;2012;Nick Murphy;(Horror,Thriller);£3000000;6.5;The Awakening
+1278;A l'aveugle;2012;Xavier Palud;(Action,Thriller); ;5.7;À l'aveugle
+1279;Mardock Scramble : The Second Combustion;2012;Susumu Kudo;(Animation,Sci-Fi,Thriller); ;6.4;Marudukku sukuranburu: Nenshou
+1280;Red State;2012;Kevin Smith;(Action,Crime,Horror,Thriller);4000000;6.2;Red State
+1281;Bullhead;2012;Michaël R. Roskam;(Crime,Drama);€2000000;7.4;Rundskop
+1282;Madagascar 3, Bons Baisers D Europe;2012; ; ; ;-1.0; 
+1283;David et Madame Hansen;2012;Alexandre Astier; ; ;6.0;David et Madame Hansen
+1284;Troupe d'elite : l'ennemi interieur;2012;José Padilha;(Action,Crime,Drama,Thriller); ;8.1;Tropa de Elite 2: O Inimigo Agora é Outro
+1285;Gangs of Wasseypur  Part 1;2012;Anurag Kashyap;(Action,Crime,Drama,Thriller);INR 184000000;8.3;Gangs of Wasseypur
+1286;The Theatre Bizarre;2012;Douglas Buck;(Horror); ;5.2;The Theatre Bizarre
+1287;Far Away : les soldats de l'espoir;2012;Je-kyu Kang;(Action,Drama,History,Sport,War);KRW 30000000000;7.8;Mai wei
+1288;Perfect Sense;2012;David Mackenzie;(Drama,Romance,Sci-Fi); ;7.1;Perfect Sense
+1289;Gantz : Revolution;2012;Mehul Kumar;(Action,Crime,Drama,Thriller); ;5.3;Krantiveer: The Revolution
+1290;Skyfall;2012;Sam Mendes;(Action,Adventure,Thriller);200000000;7.8;Skyfall
+1291;The Cat;2012;Pierre Granier-Deferre;(Drama); ;7.6;Le chat
+1292;4h44 Dernier jour sur Terre;2012;Abel Ferrara;(Drama,Fantasy,Sci-Fi); ;4.5;4:44 Last Day on Earth
+1293;The Dictator;2012;Larry Charles;(Comedy,Romance);65000000;6.4;The Dictator
+1294;La Dame en noir;2012;James Watkins;(Drama,Fantasy,Horror,Thriller);17000000;6.4;The Woman in Black
+1295;Le Lorax;2012;Chris Renaud;(Animation,Adventure,Comedy,Family,Fantasy,Musical);70000000;6.5;The Lorax
+1296;Cadavres a la pelle;2011;John Landis;(Comedy,Thriller);10000000;6.2;Burke and Hare
+1297;Killer Elite;2011;Gary McKendry;(Action,Crime,Thriller);35000000;6.5;Killer Elite
+1298;Nuit blanche;2011;Frédéric Jardin;(Action,Crime,Thriller);€2500000;6.7;Nuit blanche
+1299;Drive;2011;Nicolas Winding Refn;(Crime,Drama);15000000;7.8;Drive
+1300;Red Hill;2011;Patrick Hughes;(Thriller,Western); ;6.4;Red Hill
+1301;Ip Man 2;2011;Wilson Yip;(Action,Biography,Drama,History,Sport); ;7.6;Yip Man 2
+1302;Jonah Hex;2011;Jimmy Hayward;(Action,Drama,Fantasy,Thriller,Western);47000000;4.7;Jonah Hex
+1303;L'Assaut;2011;Julien Leclercq;(Action,History,Thriller); ;6.1;L'assaut
+1304;En quarantaine 2 : le terminal;2011; ; ; ;-1.0; 
+1305;Le Casse de Central Park;2011;Brett Ratner;(Action,Comedy,Crime);75000000;6.2;Tower Heist
+1306;Bang Rajan 2;2011;Tanit Jitnukul;(Action,Adventure,War); ;5.5;Bang Rajan 2
+1307;Pirates des Caraibes : la Fontaine de Jouvence;2011;Rob Marshall;(Action,Adventure,Fantasy);250000000;6.7;Pirates of the Caribbean: On Stranger Tides
+1308;Intouchables;2011;Olivier Nakache;(Biography,Comedy,Drama);€9500000;8.6;Intouchables
+1309;Ultimate Patrol;2011;Daniel Myrick;(Horror,Sci-Fi,Thriller);4000000;5.6;The Objective
+1310;Une soiree d'enfer;2011;Michael Dowse;(Comedy,Drama,Romance);23000000;6.3;Take Me Home Tonight
+1311;The Roommate;2011;Christian E. Christiansen;(Drama,Horror,Thriller);16000000;4.9;The Roommate
+1312;50/50;2011;Jonathan Levine;(Comedy,Drama,Romance);8000000;7.7;50/50
+1313;Shooters;2011;Glenn Durfort;(Crime,Drama,Thriller); ;5.7;Shooters
+1314;War Inc.;2011;Simon Clement;(Documentary); ;-1.0;War Inc.
+1315;Tekken;2011;Dwight H. Little;(Action,Crime,Drama,Sci-Fi,Thriller);30000000;4.8;Tekken
+1316;Incendies;2011;Denis Villeneuve;(Drama,Mystery,War);6800000;8.2;Incendies
+1317;The Door, la porte du passe;2011;Anno Saul;(Drama,Mystery,Sci-Fi,Thriller); ;6.7;Die Tür
+1318;God's Puzzle;2011;Takashi Miike;(Sci-Fi); ;6.0;Kamisama no pazuru
+1319;The Last Squad;2011;Uwe Boll;(Action,Drama,War);8000000;4.7;Tunnel Rats
+1320;Les Marches du pouvoir;2011;George Clooney;(Drama);12500000;7.1;The Ides of March
+1321;Les Lyonnais;2011;Olivier Marchal;(Drama,Thriller); ;7.0;Les Lyonnais
+1322;Scream 4;2011;Wes Craven;(Horror,Mystery);40000000;6.2;Scream 4
+1323;The Machine Girl;2011;Noboru Iguchi;(Action,Comedy,Horror,Thriller); ;5.9;Kataude mashin gâru
+1324;Bad Teacher;2011;Jake Kasdan;(Comedy);20000000;5.7;Bad Teacher
+1325;Territoires;2011;Olivier Abbou;(Horror,Thriller);CAD3000000;5.1;Territories
+1326;Two Eyes Staring;2011;Scott Derrickson;(Horror,Mystery,Thriller); ;-1.0;Two Eyes Staring
+1327;Livre de sang;2011;John Harrison;(Drama,Horror,Mystery,Thriller);6000000;5.3;Book of Blood
+1328;Miracle a SantaAnna;2011; ; ; ;-1.0; 
+1329;Promotheus, commando stellaire;2011;Sandy Collora;(Sci-Fi,Thriller);425000;5.8;Hunter Prey
+1330;Mr. Nice;2011;Bernard Rose;(Biography,Comedy,Crime,Drama); ;6.4;Mr. Nice
+1331;Mirrors 2;2011;Víctor García;(Horror,Mystery); ;4.9;Mirrors 2
+1332;Carnage;2011;Roman Polanski;(Comedy,Drama);25000000;7.2;Carnage
+1333;The King of Fighters;2011;Gordon Chan;(Action,Sci-Fi,Thriller); ;3.1;The King of Fighters
+1334;World Invasion : Battle Los Angeles;2011;Jonathan Liebesman;(Action,Sci-Fi);70000000;5.8;Battle Los Angeles
+1335;Faster;2011;George Tillman Jr.;(Action,Crime,Drama,Thriller);24000000;6.5;Faster
+1336;Rampage;2011;Uwe Boll;(Action,Crime,Thriller); ;6.3;Rampage
+1337;Le Moine;2011;Dominik Moll;(Drama,Mystery,Thriller);€11000000;5.8;Le moine
+1338;Grotesque;2011;Kôji Shiraishi;(Horror,Thriller); ;4.7;Gurotesuku
+1339;Blackthorn;2011;Mateo Gil;(Action,Adventure,Western); ;6.6;Blackthorn
+1340;Primale;2011;Josh Reed;(Horror,Thriller); ;4.9;Primal
+1341;Polisse;2011;Maïwenn;(Crime,Drama); ;7.3;Polisse
+1342;Thor;2011;Kenneth Branagh;(Action,Adventure,Fantasy,Sci-Fi);150000000;7.0;Thor
+1343;Crazy, Stupid, Love;2011;Glenn Ficarra;(Comedy,Drama,Romance);50000000;7.4;Crazy, Stupid, Love.
+1344;La Conquete;2011;Xavier Durringer;(Biography); ;6.3;La conquête
+1345;Los Angeles : alerte maximum;2011;Chris Gorak;(Drama,Thriller); ;6.2;Right at Your Door
+1346;Animal Kingdom;2011;Christopher Chulack;(Crime,Drama); ;8.1;Animal Kingdom
+1347;Paranormal Activity 3;2011;Henry Joost;(Horror);5000000;5.8;Paranormal Activity 3
+1348;Le Flingueur;2011;Simon West;(Action,Crime,Thriller);40000000;6.6;The Mechanic
+1349;Le Dernier des Templiers;2011;Dominic Sena;(Action,Adventure,Fantasy);40000000;5.4;Season of the Witch
+1350;Cornered;2011;Edward Dmytryk;(Drama,Film-Noir,Thriller); ;6.7;Cornered
+1351;Easy Girl;2011;Will Gluck;(Comedy,Drama,Romance);8000000;7.1;Easy A
+1352;L Affaire Rachel Singer;2011; ; ; ;-1.0; 
+1353;Super;2011;James Gunn;(Comedy,Crime,Drama);2500000;6.8;Super
+1354;Blitz;2011;Elliott Lester;(Action,Crime,Thriller); ;6.2;Blitz
+1355;Fast and Furious 5;2011;Rob Cohen;(Action,Crime,Thriller);38000000;6.7;The Fast and the Furious
+1356;Sucker Punch;2011;Zack Snyder;(Action,Fantasy);82000000;6.1;Sucker Punch
+1357;Hideaways;2011;Agnès Merlet;(Fantasy,Thriller);€6000000;6.2;Hideaways
+1358;Rio;2011;Carlos Saldanha;(Animation,Adventure,Comedy,Family,Musical);90000000;7.0;Rio
+1359;etat de guerre;2011;Renny Harlin;(Action,Drama,War);20000000;5.6;5 Days of War
+1360;Kill Bobby Z;2011;John Herzfeld;(Action,Crime,Thriller);22000000;5.9;The Death and Life of Bobby Z
+1361;La Locataire;2011;Antti Jokinen;(Drama,Thriller);20000000;5.3;The Resident
+1362;127 heures;2011;Danny Boyle;(Adventure,Biography,Drama,Thriller);18000000;7.6;127 Hours
+1363;Dream House;2011;Jim Sheridan;(Drama,Mystery,Thriller);55000000;6.0;Dream House
+1364;Paul;2011;Greg Mottola;(Adventure,Comedy,Sci-Fi);40000000;7.0;Paul
+1365;Mulan;2011;Tony Bancroft;(Animation,Adventure,Family,Fantasy,Musical,War);90000000;7.5;Mulan
+1366;Presume coupable;2011;Peter Hyams;(Crime,Drama,Mystery,Thriller);25000000;5.9;Beyond a Reasonable Doubt
+1367;First Squad;2011;Yoshiharu Ashino;(Animation,Action,Drama,History,War); ;5.8;First Squad: The Moment of Truth
+1368;I Spit on your Grave;2011;Steven R. Monroe;(Horror,Thriller);2000000;6.3;I Spit on Your Grave
+1369;Le Complexe du Castor;2011;Jodie Foster;(Drama);21000000;6.7;The Beaver
+1370;Red Eagle;2011;Eric Karson;(Action,Drama);3000000;3.7;Black Eagle
+1371;Butcher 2;2011;Lawrence Kasdan;(Drama,Horror,Sci-Fi,Thriller);68000000;5.5;Dreamcatcher
+1372;Les Creatures de l ouest;2011; ; ; ;-1.0; 
+1373;Le Sang des Templiers;2011;Jonathan English;(Action,Adventure,History,Romance);25000000;6.2;Ironclad
+1374;Death Race 2;2011;Roel Reiné;(Action,Sci-Fi,Thriller);7000000;5.6;Death Race 2
+1375;Le Dilemme;2011;Ron Howard;(Comedy,Drama);70000000;5.3;The Dilemma
+1376;Les Voyages de Gulliver;2011;Rob Letterman;(Adventure,Comedy,Family,Fantasy);112000000;4.9;Gulliver's Travels
+1377;The Tournament;2011;Scott Mann;(Action,Thriller);8000000;6.1;The Tournament
+1378;Carancho;2011;Pablo Trapero;(Crime,Drama,Romance,Thriller); ;6.9;Carancho
+1379;Le Stratege;2011;Bennett Miller;(Biography,Drama,Sport);50000000;7.6;Moneyball
+1380;The Murderer;2011;Hong-jin Na;(Crime,Drama,Thriller); ;7.4;Hwanghae
+1381;Onigamiden, la legende du Dragon Millenaire;2011; ; ; ;-1.0; 
+1382;La Planete des singes : les origines;2011;Rupert Wyatt;(Action,Drama,Sci-Fi,Thriller);93000000;7.6;Rise of the Planet of the Apes
+1383;Very Bad Trip 2;2011;Todd Phillips;(Comedy,Mystery);80000000;6.5;The Hangover Part II
+1384;(S)ex List;2011;Mark Mylod;(Comedy,Romance);20000000;6.0;What's Your Number?
+1385;The Secret Reunion;2011;Hun Jang;(Drama,Thriller); ;7.0;Ui-hyeong-je
+1386;Twilight  Chapitre 4 : Revelation 1ere partie;2011;Bill Condon;(Adventure,Drama,Fantasy,Romance);110000000;4.9;The Twilight Saga: Breaking Dawn - Part 1
+1387;Possession;2011;Ole Bornedal;(Horror,Thriller);14000000;5.9;The Possession
+1388;Warrior;2011;Gavin O'Connor;(Drama,Sport);25000000;8.2;Warrior
+1389;L'Empire des ombres;2011;Brad Anderson;(Horror,Mystery,Thriller);10000000;4.9;Vanishing on 7th Street
+1390;Comment tuer son Boss ?;2011;Seth Gordon;(Comedy,Crime);35000000;6.9;Horrible Bosses
+1391;Red Line;2011;Robert Kirbyson;(Thriller); ;5.0;Red Line
+1392;Clash;2011;Mohamed Diab;(Drama,Thriller); ;8.2;Eshtebak
+1393;Tron l heritage;2011; ; ; ;-1.0;Keep Our Heritage Strong
+1394;The Insider;2011;Michael Mann;(Biography,Drama,Thriller);90000000;7.9;The Insider
+1395;Limitless;2011;Douglas Aarniokoski;(Crime,Drama,Sci-Fi,Thriller); ;7.9;Limitless
+1396;Votre majeste;2011;David Gordon Green;(Adventure,Comedy,Fantasy);49900000;5.6;Your Highness
+1397;Hobo with a Shotgun;2011;Jason Eisener;(Action,Comedy,Thriller);3000000;6.1;Hobo with a Shotgun
+1398;Altitude;2011;Kaare Andrews;(Horror,Mystery,Sci-Fi,Thriller); ;4.9;Altitude
+1399;S.W.A.T. 2 : Fire Fight;2011;Benny Boom;(Action,Crime,Thriller);8000000;5.4;S.W.A.T.: Firefight
+1400;Frozen;2011;Chris Buck;(Animation,Adventure,Comedy,Family,Fantasy,Musical);150000000;7.6;Frozen
+1401;Connected;2011;Luke Gilford;(Short,Drama,Sci-Fi,Thriller); ;5.8;Connected
+1402;Legend of the Fist;2011;Wai-Keung Lau;(Action,Drama,History); ;6.3;Jing wu feng yun: Chen Zhen
+1403;Attack the Block;2011;Joe Cornish;(Action,Comedy,Sci-Fi,Thriller);13000000;6.6;Attack the Block
+1404;Conan;2011;Marcus Nispel;(Action,Adventure,Fantasy);90000000;5.2;Conan the Barbarian
+1405;Le Dernier Presage;2011;Mark Fergus;(Drama,Thriller);8000000;6.3;First Snow
+1406;Assassination Games;2011;Ernie Barbarash;(Action,Crime,Drama,Thriller);8000000;6.2;Assassination Games
+1407;Fire of Conscience;2011;Dante Lam;(Action,Crime,Mystery,Thriller); ;6.2;For lung
+1408;The Loved Ones;2011;Sean Byrne;(Horror,Thriller); ;6.7;The Loved Ones
+1409;Source Code;2011;Duncan Jones;(Mystery,Sci-Fi,Thriller);32000000;7.5;Source Code
+1410;Stone;2011;John Curran;(Drama,Thriller);22000000;5.4;Stone
+1411;Instinct de survie;2011;Jaume Collet-Serra;(Drama,Horror,Thriller);17000000;6.4;The Shallows
+1412;Fighter;2011;David O. Russell;(Biography,Drama,Sport);25000000;7.9;The Fighter
+1413;Contagion;2011;Steven Soderbergh;(Drama,Thriller);60000000;6.6;Contagion
+1414;True Legend;2011;Woo-Ping Yuen;(Action,Drama,History);20000000;6.4;Su Qi-er
+1415;Hypnose 2;2011;Otto Poll; ; ;-1.0;Hypnose
+1416;Derriere les murs;2011;Julien Lacombe;(Drama,Horror,Mystery,Thriller);€3700000;4.3;Derrière les murs
+1417;L'Ordre et la Morale;2011;Mathieu Kassovitz;(Action,Drama,History); ;7.0;L'ordre et la morale
+1418;Cowboys and Envahisseurs;2011;Jon Favreau;(Action,Sci-Fi,Thriller,Western);163000000;6.0;Cowboys & Aliens
+1419;Gantz, le commencement;2011; ; ; ;-1.0; 
+1420;Space Battleship;2011;Takashi Yamazaki;(Action,Adventure,Drama,Sci-Fi);12000000;6.1;Space Battleship Yamato
+1421;Insidious;2011;James Wan;(Fantasy,Horror,Mystery,Thriller);1500000;6.8;Insidious
+1422;Real Steel;2011;Shawn Levy;(Action,Drama,Family,Sci-Fi,Sport);110000000;7.1;Real Steel
+1423;A Dangerous Method;2011;David Cronenberg;(Biography,Drama,Romance,Thriller);€15000000;6.5;A Dangerous Method
+1424;Rango;2011;Gore Verbinski;(Animation,Adventure,Comedy,Family,Western);135000000;7.2;Rango
+1425;The Experiment;2011;Ivan Reitman;(Comedy,Crime);15000000;6.0;Twins
+1426;Tekken : Blood Vengeance;2011;Noah Antwiler;(Comedy); ;6.8;Tekken: Blood Vengeance
+1427;L'Ange du mal;2011;Paul Wendkos;(Drama,Horror,Mystery,Thriller); ;5.6;The Bad Seed
+1428;Fright Night;2011;Tom Holland;(Fantasy,Horror,Thriller);9000000;7.1;Fright Night
+1429;Numero quatre;2011;D.J. Caruso;(Action,Adventure,Sci-Fi,Thriller);60000000;6.1;I Am Number Four
+1430;Insane;2011;Massimiliano Cerchi;(Horror);1000000;-1.0;Insane
+1431;Redline;2011;Rob Cohen;(Action,Crime,Thriller);38000000;6.7;The Fast and the Furious
+1432;Largo Winch 2;2011;Jérôme Salle;(Action,Adventure,Thriller);€20000000;6.2;Largo Winch II
+1433;The Artist;2011;Michel Hazanavicius;(Comedy,Drama,Romance);15000000;8.0;The Artist
+1434;The Compagny Men;2011;John Wells;(Drama);15000000;6.8;The Company Men
+1435;Detective Dee : Le mystere de la flamme fantome;2011;Hark Tsui;(Action,Adventure,Drama,Fantasy,Mystery);13000000;6.6;Di Renjie: Tong tian di guo
+1436;Woochi;2011;Dong-hoon Choi;(Action,Adventure,Comedy,Fantasy,History);12000000;6.7;Woochi
+1437;Le Chaperon rouge;2011;Catherine Hardwicke;(Fantasy,Horror,Mystery,Thriller);42000000;5.4;Red Riding Hood
+1438;R.I.F.;2011;Franck Mancuso;(Crime,Thriller);€5500000;5.9;R.I.F. (Recherches dans l'Intérêt des Familles)
+1439;Green Lantern;2011;Martin Campbell;(Action,Adventure,Sci-Fi);200000000;5.6;Green Lantern
+1440;Apollo 18;2011;Gonzalo López-Gallego;(Horror,Mystery,Sci-Fi,Thriller);5000000;5.2;Apollo 18
+1441;Transformers 3 : la face cachee de la Lune;2011;Michael Bay;(Action,Adventure,Sci-Fi);195000000;6.3;Transformers: Dark of the Moon
+1442;Stake Land;2011;Jim Mickle;(Drama,Horror,Sci-Fi);650000;6.5;Stake Land
+1443;Black Death;2011;Christopher Smith;(Action,Adventure,Drama,History,Horror,Mystery); ;6.4;Black Death
+1444;Priest;2011;Scott Stewart;(Action,Fantasy,Horror,Sci-Fi,Thriller);60000000;5.7;Priest
+1445;Pere Noel Origines;2011;Jalmari Helander;(Adventure,Fantasy,Horror);€1948000;6.7;Rare Exports
+1446;Chaw;2011;Jeong-won Shin;(Comedy,Horror,Thriller); ;5.8;Chawu
+1447;L Expert de HongKong;2011; ; ; ;-1.0; 
+1448;Arrietty le petit monde des chapardeurs;2011;Hiromasa Yonebayashi;(Animation,Adventure,Family,Fantasy);23000000;7.7;Kari-gurashi no Arietti
+1449;Audela;2011;Hervé Hadmar;(Drama,Horror,Mystery); ;-1.0;Au-delà des Murs
+1450;Les Aventures de Philibert, capitaine puceau;2011;Sylvain Fusée;(Adventure,Comedy); ;5.0;Les aventures de Philibert, capitaine puceau
+1451;Dark Country;2011;Thomas Jane;(Crime,Mystery,Thriller);4000000;5.4;Dark Country
+1452;L'Irlandais;2011;John Michael McDonagh;(Comedy,Crime,Thriller);6000000;7.3;The Guard
+1453;Le Discours d un Roi;2011;Benjamin Lehrer;(Comedy); ;-1.0;Le discours d'un roi
+1454;Devil;2011;John Erick Dowdle;(Horror,Mystery,Thriller);10000000;6.3;Devil
+1455;Boston Streets;2011;Brian Goodman;(Crime,Drama); ;6.6;What Doesn't Kill You
+1456;Protege;2011;Tung-Shing Yee;(Crime,Drama,Thriller);4500000;7.3;Moon to
+1457;Somewhere;2011;Sofia Coppola;(Comedy,Drama);7000000;6.3;Somewhere
+1458;Raging Phoenix;2011;Rashane Limtrakul;(Action,Romance); ;6.2;Deu suay doo
+1459;Eureka Seven  Le Film : Good Night, Sleep Tight, Young Lovers;2011; ; ; ;-1.0; 
+1460;Hybrid;2011;Eric Valette;(Horror,Sci-Fi,Thriller);13000000;4.0;Super Hybrid
+1461;Stuck;2011;Mitch Davis;(Comedy); ;5.1;Christmas Eve
+1462;Les Chemins de la liberte;2011;Peter Weir;(Adventure,Biography,Drama,History); ;7.3;The Way Back
+1463;Destination finale 5;2011;Steven Quale;(Horror);40000000;5.9;Final Destination 5
+1464;Blood Camp;2011;Robert Hiltzik;(Comedy,Horror);4000000;4.4;Return to Sleepaway Camp
+1465;Never Let Me Go;2011;Mark Romanek;(Drama,Romance,Sci-Fi);15000000;7.2;Never Let Me Go
+1466;Time Out;2011;Andrew Niccol;(Action,Sci-Fi,Thriller);40000000;6.7;In Time
+1467;Happy Feet 2;2011;George Miller;(Animation,Comedy,Family,Musical);135000000;5.9;Happy Feet Two
+1468;Mission : Impossible  Protocole fantome;2011; ;(Short); ;6.3;Mission: Impossible - Ghost Protocol: Special Feature - Prison Break
+1469;Sleeping Beauty;2011;Pearry Reginald Teo;(Fantasy,Mystery,Thriller); ;4.3;The Curse of Sleeping Beauty
+1470;Hugo Cabret;2011;Martin Scorsese;(Adventure,Drama,Family,Fantasy,Mystery,Romance);150000000;7.5;Hugo
+1471;Les Schtroumpfs;2011;Raja Gosnell;(Animation,Adventure,Comedy,Family,Fantasy);110000000;5.5;The Smurfs
+1472;L'Agence;2011;George Nolfi;(Romance,Sci-Fi,Thriller);50200000;7.1;The Adjustment Bureau
+1473;Irish Gangster;2011;Donal MacIntyre;(Documentary,Crime); ;6.2;A Very British Gangster
+1474;Le Roi des ronces;2011;Kazuyoshi Katayama;(Animation,Adventure,Horror,Sci-Fi,Thriller); ;6.5;Ibara no O
+1475;Berlin Undead;2011;Marvin Kren;(Horror,Thriller); ;6.4;Rammbock
+1476;Echange standard;2011;David Dobkin;(Comedy,Fantasy);52000000;6.4;The Change-Up
+1477;Left Bank;2011;Pieter Van Hees;(Drama,Horror,Mystery,Thriller);€600000;6.1;Linkeroever
+1478;La Conspiration;2011;Robert Redford;(Crime,Drama,History);25000000;7.0;The Conspirator
+1479;Fanboys;2011;Kyle Newman;(Adventure,Comedy,Drama);3900000;6.6;Fanboys
+1480;Assault Girls;2011;Mamoru Oshii;(Action,Sci-Fi); ;3.8;Asaruto gâruzu
+1481;Morning Glory;2011;Roger Michell;(Comedy,Drama,Romance);40000000;6.5;Morning Glory
+1482;The Last Winter;2011;Larry Fessenden;(Horror,Mystery,Thriller);5000000;5.6;The Last Winter
+1483;We Need to Talk About Kevin;2011;Lynne Ramsay;(Crime,Drama,Mystery,Thriller);7000000;7.5;We Need to Talk About Kevin
+1484;XMen Le commencement;2011;Loïc Barché;(Short,Drama); ;-1.0;Le commencement
+1485;Blast;2011;Martin Schenk;(Crime,Drama,Thriller); ;5.8;Blast
+1486;Dream Home;2011;Ho-Cheung Pang;(Horror); ;6.7;Wai dor lei ah yut ho
+1487;Le Silence des ombres;2011;Måns Mårlind;(Horror,Mystery,Thriller);22000000;6.1;6 Souls
+1488;Hell Driver;2011;Patrick Lussier;(Action,Fantasy,Thriller);50000000;5.5;Drive Angry
+1489;Les Immortels;2011;Tarsem Singh;(Action,Drama,Fantasy,Romance);75000000;6.0;Immortals
+1490;Kamui, le ninja solitaire;2011; ; ; ;-1.0; 
+1491;Les Aventures de Tintin : Le Secret de la Licorne;2011;Steven Spielberg;(Animation,Action,Adventure,Family,Mystery);135000000;7.4;The Adventures of Tintin
+1492;Sanctum;2011;Alister Grierson;(Adventure,Drama,Thriller);30000000;5.9;Sanctum
+1493;The Silent House;2011;Gustavo Hernández;(Adventure,Drama,Horror,Mystery,Thriller);6000;5.4;La casa muda
+1494;Hearthless;2011;Paul J. Franklin;(Sci-Fi); ;-1.0;Tranquility Base
+1495;Case depart;2011;A. Dean Bell;(Crime,Drama); ;6.6;What Alice Found
+1496;The Tree of Life;2011;Terrence Malick;(Drama,Fantasy);32000000;6.7;The Tree of Life
+1497;HaraKiri;2011;Masaki Kobayashi;(Action,Drama,History); ;8.7;Seppuku
+1498;Aftershock;2011;Nicolás López;(Action,Adventure,Horror,Thriller);2000000;4.8;Aftershock
+1499;La Solitude des nombres premiers;2011;Saverio Costanzo;(Drama); ;6.4;La solitudine dei numeri primi
+1500;La Proie;2011;J.F. Lawton;(Action,Drama,Thriller);10000000;5.9;The Hunted
+1501;Shame;2011;Steve McQueen;(Drama);6500000;7.3;Shame
+1502;Saint;2011;Dick Maas;(Horror); ;5.6;Sint
+1503;And Soon the Darkness;2011;Marcos Efron;(Crime,Horror,Mystery,Thriller); ;5.2;And Soon the Darkness
+1504;Restless;2011;Edward Hall;(Drama,Romance); ;7.2;Restless
+1505;Minuit a Paris;2011;Woody Allen;(Comedy,Fantasy,Romance);17000000;7.7;Midnight in Paris
+1506;Tokyo Gore Police;2011;Yoshihiro Nishimura;(Action,Horror,Sci-Fi); ;6.0;Tôkyô zankoku keisatsu
+1507;Un monstre a Paris;2011;Bibo Bergeron;(Animation,Adventure,Comedy,Fantasy,Music,Romance);€25000000;6.7;Un monstre à Paris
+1508;The Man from Nowhere;2011;Jeong-beom Lee;(Action,Crime,Thriller); ;7.9;Ajeossi
+1509;Pig Hunt;2011;James Isaac;(Action,Horror,Thriller);6000000;4.8;Pig Hunt
+1510;The Prodigies;2011;Antoine Charreyron;(Animation,Sci-Fi); ;5.8;The Prodigies
+1511;Bangkok Revenge;2011;Prachya Pinkaew;(Action,Crime,Fantasy,Thriller);10000000;5.1;Elephant White
+1512;The Human Centipede;2011;Tom Six;(Horror);€1500000;4.4;The Human Centipede (First Sequence)
+1513;Bad Cop;2011;William Kaufman;(Action,Crime,Thriller); ;6.2;Sinners and Saints
+1514;De l'eau pour les elephants;2011;Francis Lawrence;(Drama,Romance);38000000;6.9;Water for Elephants
+1515;I'm Still Here : The Lost Year of Joaquin Phoenix;2011;Casey Affleck;(Comedy,Drama,Music); ;6.2;I'm Still Here
+1516;The Dead Outside;2011;Kerry Anne Mullaney;(Horror,Mystery,Thriller); ;4.3;The Dead Outside
+1517;Propriete interdite;2011;Sydney Pollack;(Drama,Romance);4000000;7.1;This Property Is Condemned
+1518;Killing Fields;2011;Ami Canaan Mann;(Crime,Drama,History,Thriller); ;5.7;Texas Killing Fields
+1519;Never Back Down 2;2011;Jeff Wadlow;(Action,Drama,Sport);20000000;6.6;Never Back Down
+1520;Asylum;2011;David Mackenzie;(Drama,Romance,Thriller); ;6.1;Asylum
+1521;Extract;2011;Mike Judge;(Comedy,Crime,Romance);8000000;6.2;Extract
+1522;The Horseman;2011;Steven Kastrissios;(Crime,Thriller); ;6.6;The Horseman
+1523;Faisleur vivre l'enfer, Malone !;2011; ; ; ;-1.0; 
+1524;30 Minutes maximum;2011;Ruben Fleischer;(Action,Comedy,Crime);28000000;6.1;30 Minutes or Less
+1525;Slice;2011;Austin Vesely;(Comedy); ;-1.0;Slice
+1526;La Traque;2011;Antoine Blossier;(Adventure,Drama,Horror,Mystery,Thriller); ;5.3;Proie
+1527;Captain America : First Avenger;2011;Joe Johnston;(Action,Adventure,Sci-Fi);140000000;6.9;Captain America: The First Avenger
+1528;Les Crimes de Snowtown;2011;Justin Kurzel;(Biography,Crime,Drama);2000000;6.6;Snowtown
+1529;Cars 2;2011;John Lasseter;(Animation,Adventure,Comedy,Family,Sport);200000000;6.3;Cars 2
+1530;Points de rupture;2011;Timothy Linh Bui;(Drama); ;6.3;Powder Blue
+1531;Trigun: Badlands Rumble;2011;Satoshi Nishimura;(Animation,Action,Sci-Fi,Western); ;7.5;Trigun: Badlands Rumble
+1532;Black Swan;2011;Darren Aronofsky;(Drama,Thriller);13000000;8.0;Black Swan
+1533;Bon a Tirer;2011;Greg Hemmings;(Documentary,Biography,History,News); ;-1.0;Bon a Tirer
+1534;Spiral;2011;Jean-Marc Brondolo;(Crime,Drama,Mystery); ;8.5;Engrenages
+1535;Les Boloss;2011;Philippe Proteau;(Comedy,Drama,Fantasy); ;-1.0;Les boloss
+1536;The Lady;2011;Luc Besson;(Biography,Drama,History,Romance); ;7.1;The Lady
+1537;True Grit;2011;Ethan Coen;(Adventure,Drama,Western);38000000;7.7;True Grit
+1538;La Defense Lincoln;2011;Brad Furman;(Crime,Drama,Thriller);40000000;7.3;The Lincoln Lawyer
+1539;Troll Hunter;2011;André Øvredal;(Drama,Fantasy,Horror);NOK 19900000;7.0;Trolljegeren
+1540;Giallo;2011;Dario Argento;(Horror,Thriller);14000000;4.4;Giallo
+1541;Forces speciales;2011;Stéphane Rybojad;(Action,Drama,War);€10000000;6.4;Forces spéciales
+1542;Les Nuits rouges du bourreau de jade;2011;Julien Carbon;(Crime,Horror,Thriller); ;5.5;Les nuits rouges du bourreau de jade
+1543;Robogeisha;2011;Noboru Iguchi;(Action,Comedy,Sci-Fi);250000;5.3;Robo-geisha
+1544;La Nouvelle guerre des boutons;2011;Christophe Barratier;(Adventure,Family); ;6.1;La nouvelle guerre des boutons
+1545;Essential Killing;2011;Jerzy Skolimowski;(Thriller,War);€3167000;6.1;Essential Killing
+1546;Super 8;2011;J.J. Abrams;(Mystery,Sci-Fi,Thriller);50000000;7.1;Super 8
+1547;Le Chat Potte;2011;Chris Miller;(Animation,Action,Adventure,Comedy,Family,Fantasy);130000000;6.7;Puss in Boots
+1548;Mes meilleures amies;2011;Paul Feig;(Comedy,Romance);32500000;6.8;Bridesmaids
+1549;Triangle;2011;Christopher Smith;(Fantasy,Mystery,Thriller);12000000;6.9;Triangle
+1550;Cold Prey 3;2011;Mikkel Brænne Sandemose;(Drama,Horror,Mystery);NOK 17100000;5.1;Fritt vilt III
+1551;Colorful;2011;Keiichi Hara;(Animation,Drama,Fantasy,Mystery); ;7.5;Karafuru
+1552;Harry Potter et les reliques de la mort  partie 2;2011;David Yates;(Adventure,Drama,Fantasy,Mystery);125000000;8.1;Harry Potter and the Deathly Hallows: Part 2
+1553;Kidnappes;2011;Miguel Ángel Vivas;(Horror,Thriller); ;6.5;Secuestrados
+1554;Kung fu Panda 2;2011;Jennifer Yuh Nelson;(Animation,Action,Adventure,Comedy,Family);150000000;7.3;Kung Fu Panda 2
+1555;Sinking of Japan;2011;Shinji Higuchi;(Adventure,Drama,Sci-Fi,Thriller); ;5.7;Nihon chinbotsu
+1556;Livide;2011;Alexandre Bustillo;(Horror);5000000;5.7;Livide
+1557;Melancholia;2011;Lars von Trier;(Drama);7400000;7.1;Melancholia
+1558;Omar m a tuer;2011;Roschdy Zem;(Crime,Drama); ;6.7;Omar m'a tuer
+1559;Halal police d Etat;2011;Rachid Dhibou;(Comedy,Crime); ;3.9;Halal police d'État
+1560;Rien a declarer;2011;Dany Boon;(Comedy); ;6.3;Rien à déclarer
+1561;Balada Triste;2011;Álex de la Iglesia;(Comedy,Drama);€7000000;6.6;Balada triste de trompeta
+1562;One Piece : Strong World;2011;Munehisa Sakai;(Animation,Action,Adventure,Fantasy); ;7.7;Wan pisu firumu: sutorongu warudo
+1563;Shadow;2011;Dario Argento;(Crime,Horror,Mystery,Thriller); ;7.2;Tenebre
+1564;Road to Nowhere;2011;Peter Kay;(Comedy); ;7.7;Max & Paddy's Road to Nowhere
+1565;Le Tableau;2011;Jean-François Laguionie;(Animation,Fantasy); ;7.3;Le tableau
+1566;Vampire Girl vs Frankenstein Girl;2011;Yoshihiro Nishimura;(Action,Comedy,Horror); ;5.9;Kyûketsu Shôjo tai Shôjo Furanken
+1567;Winter s Bone;2011;Debra Granik;(Drama);2000000;7.2;Winter's Bone
+1568;Le Guerrier Pacifique;2011;Victor Salva;(Drama,Romance,Sport);10000000;7.3;Peaceful Warrior
+1569;L'Aigle de la Neuvieme Legion;2011;Kevin Macdonald;(Action,Adventure,Drama,History);25000000;6.2;The Eagle
+1570;La 14eme lame;2011;Daniel Lee;(Action,History,Thriller);20000000;6.4;Jin yi wei
+1571;Man from Earth;2011;Richard Schenkman;(Drama,Romance,Sci-Fi);200000;8.0;The Man from Earth
+1572;La Piel que Habito;2011;Pedro Almodóvar;(Crime,Drama,Thriller);13000000;7.6;La piel que habito
+1573;Hanna;2011;Joe Wright;(Action,Drama,Thriller);30000000;6.8;Hanna
+1574;Terreur;2011;Anthony DiBlasi;(Drama,Horror,Thriller); ;5.7;Dread
+1575;Rhum Express;2011;Bruce Robinson;(Comedy,Drama);45000000;6.2;The Rum Diary
+1576;Sans identite;2011;Jaume Collet-Serra;(Action,Mystery,Thriller);30000000;6.9;Unknown
+1577;J ai rencontre le diable;2011; ; ; ;-1.0; 
+1578;La Guerre des boutons;2011;John Roberts;(Adventure,Drama,Family); ;7.5;War of the Buttons
+1579;Blood Island;2011;Cheol-soo Jang;(Crime,Drama,Horror,Thriller);700000;7.3;Kim Bok-nam salinsageonui jeonmal
+1580;Zebraman 2;2011;Takashi Miike;(Comedy,Sci-Fi); ;6.7;Zebraman
+1581;Le Rite;2011;Mikael Håfström;(Drama,Horror,Mystery,Thriller);37000000;6.0;The Rite
+1582;Colombiana;2011;Olivier Megaton;(Action,Crime,Drama,Thriller);40000000;6.4;Colombiana
+1583;The Warrior's Way;2011;Sngmoo Lee;(Action,Fantasy,Western);45000000;6.3;The Warrior's Way
+1584;The Big Bang;2011;Tony Krantz;(Action,Mystery,Thriller);17000000;5.5;The Big Bang
+1585;Identite secrete;2011;John Singleton;(Action,Mystery,Thriller);35000000;5.0;Abduction
+1586;Sortilege;2011;Daniel Barnz;(Drama,Fantasy,Romance);17000000;5.6;Beastly
+1587;Or Noir;2011;Jean-Jacques Annaud;(Adventure,Drama);€40000000;6.7;Black Gold
+1588;The Thing;2011;John Carpenter;(Horror,Mystery,Sci-Fi);15000000;8.2;The Thing
+1589;Lost Identity;2011;Michael Greenspan;(Adventure,Drama,Mystery,Thriller); ;5.3;Wrecked
+1590;Street Fighter : la legende de ChunLi;2011; ; ; ;-1.0; 
+1591;Les Trois Mousquetaires;2011;Paul W.S. Anderson;(Action,Adventure,Romance);75000000;5.8;The Three Musketeers
+1592;Bunraku;2011;Guy Moshe;(Action,Drama,Fantasy,Thriller);25000000;6.2;Bunraku
+1593;Shark 3D;2011;David R. Ellis;(Horror,Thriller);25000000;4.0;Shark Night 3D
+1594;Fate/Stay Night : Unlimited Blade Works;2011;Takahiro Miura;(Animation,Action,Fantasy); ;8.1;Fate/stay night: Unlimited Blade Works
+1595;Sex Friends;2011;Ivan Reitman;(Comedy,Romance);25000000;6.2;No Strings Attached
+1596;The Reef;2011;Andrew Traucki;(Horror,Thriller); ;5.8;The Reef
+1597;Harry Brown;2011;Daniel Barber;(Action,Crime,Drama,Thriller);7300000;7.2;Harry Brown
+1598;London Boulevard;2011;William Monahan;(Crime,Drama);25000000;6.2;London Boulevard
+1599;Harpoon;2011;Júlíus Kemp;(Comedy,Horror);4000000;4.9;Reykjavik Whale Watching Massacre
+1600;Malveillance;2011;Jaume Balagueró;(Drama,Horror,Thriller);5000000;7.2;Mientras duermes
+1601;The Green Hornet;2011;Michel Gondry;(Action,Comedy,Crime,Sci-Fi,Thriller);120000000;5.8;The Green Hornet
+1602;The Lost Bladesman;2011;Felix Chong;(Action,Biography,Drama,History); ;6.0;Guan Yun Chang
+1603;Bodyguards and Assassins;2011;Teddy Chan;(Action,Drama,History);23000000;6.9;Shi yue wei cheng
+1604;Highlander : le gardien de l'immortalite;2011;Brett Leonard;(Action,Adventure,Fantasy,Sci-Fi);13000000;3.1;Highlander: The Source
+1605;Sexe entre amis;2011;Will Gluck;(Comedy,Romance);35000000;6.6;Friends with Benefits
+1606;Locked;2011;Steven R. Monroe;(Drama,Horror,Mystery,Thriller);6000000;5.6;House of 9
+1607;The Substitute;2010;Robert Mandel;(Action,Crime,Drama,Thriller); ;5.9;The Substitute
+1608;Mum and Dad;2010;Andrew Morgan;(Drama); ;-1.0;Mum and Dad
+1609;Shrek 4, il etait une fin;2010;Mike Mitchell;(Animation,Adventure,Comedy,Family,Fantasy);165000000;6.4;Shrek Forever After
+1610;Le Braqueur;2010;Julien Leclercq;(Crime,Drama,Thriller); ;6.3;Braqueurs
+1611;Bebe mode d'emploi;2010;Greg Berlanti;(Comedy,Drama,Romance);38000000;6.6;Life as We Know It
+1612;Dark World;2010;Alex Proyas;(Action,Drama,Fantasy,Mystery,Sci-Fi,Thriller);27000000;7.7;Dark City
+1613;Repo Men;2010;Miguel Sapochnik;(Action,Crime,Sci-Fi,Thriller);32000000;6.3;Repo Men
+1614;Therapie de couples;2010;Peter Billingsley;(Comedy);60000000;5.5;Couples Retreat
+1615;Gardiens de l'ordre;2010;Nicolas Boukhrief;(Crime,Drama,Thriller); ;6.0;Gardiens de l'ordre
+1616;Moon;2010;Duncan Jones;(Drama,Mystery,Sci-Fi);5000000;7.9;Moon
+1617;The Thaw;2010;Mark A. Lewis;(Horror,Sci-Fi,Thriller); ;5.2;The Thaw
+1618;Engrenage mortel;2010;Franck Khalfoun;(Action,Crime,Drama,Thriller);6000000;6.1;Wrong Turn at Tahoe
+1619;Le Choc des Titans;2010;Louis Leterrier;(Action,Adventure,Fantasy);125000000;5.8;Clash of the Titans
+1620;Megamind;2010;Tom McGrath;(Animation,Action,Comedy,Family,Sci-Fi);130000000;7.3;Megamind
+1621;The Dinner;2010;Jay Roach;(Comedy); ;5.9;Dinner for Schmucks
+1622;Centurion;2010;Neil Marshall;(Action,Adventure,Drama,History,Thriller,War);12000000;6.4;Centurion
+1623;Fatal;2010;Isabel Coixet;(Drama,Romance);13000000;6.8;Elegy
+1624;20th Century Boys : le chapitre final;2010; ; ; ;-1.0; 
+1625;Sherlock Holmes;2010;Guy Ritchie;(Action,Adventure,Crime,Mystery,Thriller);90000000;7.6;Sherlock Holmes
+1626;L elite de Brooklyn;2010; ; ; ;-1.0; 
+1627;Resident Evil : Afterlife 3D;2010;Paul W.S. Anderson;(Action,Adventure,Horror,Sci-Fi);60000000;5.9;Resident Evil: Afterlife
+1628;Universal Soldier : Regeneration;2010;John Hyams;(Action,Adventure,Sci-Fi,Thriller);10000000;5.2;Universal Soldier: Regeneration
+1629;Carlos, le film;2010;Radu Mihaileanu;(Adventure,Comedy,Drama); ;6.9;Les pygmées de Carlo
+1630;30 Jours de nuit 2 : jours sombres;2010;Ben Ketai;(Horror,Thriller); ;4.4;30 Days of Night: Dark Days
+1631;Summer Wars;2010;Mamoru Hosoda;(Animation,Action,Comedy,Romance,Sci-Fi,Thriller); ;7.6;Samâ uôzu
+1632;Be Bad;2010;Michelle MacLaren;(Crime,Drama,Thriller); ;9.5;Breaking Bad
+1633;Arthur 3, la guerre des deux mondes;2010;Luc Besson;(Animation,Adventure,Family,Fantasy);€65000000;5.5;Arthur 3: la guerre des deux mondes
+1634;Confession d un cannibale;2010; ; ; ;-1.0; 
+1635;The Town;2010;Ben Affleck;(Crime,Drama,Thriller);37000000;7.6;The Town
+1636;Le Cameleon;2010;Frederick King Keller;(Drama,Sci-Fi,Mystery,Thriller); ;7.5;The Pretender
+1637;Ip Man;2010;Wilson Yip;(Action,Biography,Drama,Sport);11715578;8.1;Yip Man
+1638;Black Dynamite;2010;Scott Sanders;(Action,Comedy);2900000;7.4;Black Dynamite
+1639;Ninja;2010;Isaac Florentine;(Action,Crime,Drama,Thriller);10000000;5.5;Ninja
+1640;Dorian Gray;2010;Oliver Parker;(Drama,Fantasy,Thriller); ;6.3;Dorian Gray
+1641;Grace;2010;Artie Mandelberg;(Drama,Fantasy); ;7.6;Saving Grace
+1642;Date limite;2010;Todd Phillips;(Comedy,Drama);65000000;6.6;Due Date
+1643;Coco Chanel and Igor Stravinski;2010;Jan Kounen;(Drama,Music,Romance); ;6.4;Coco Chanel & Igor Stravinsky
+1644;Accident;2010;Joseph Losey;(Drama,Crime);600000;7.1;Accident
+1645;Shinjuku Incident;2010;Tung-Shing Yee;(Action,Crime,Drama,Thriller);15000000;7.1;San suk si gin
+1646;Cold Prey 2;2010;Mats Stenberg;(Drama,Horror,Mystery,Romance,Thriller); ;6.2;Fritt vilt II
+1647;Yona, la legende de l oiseausansaile;2010; ; ; ;-1.0; 
+1648;Comme chiens et chats  La Revanche de Kitty Galore;2010;Brad Peyton;(Action,Comedy,Family,Fantasy);85000000;4.3;Cats & Dogs: The Revenge of Kitty Galore
+1649;Horslaloi;2010;Rachid Bouchareb;(Crime,Drama,War);€20000000;6.6;Hors la loi
+1650;Very Bad Cops;2010;Adam McKay;(Action,Comedy,Crime);100000000;6.7;The Other Guys
+1651;Legion, l armee des anges;2010; ; ; ;-1.0; 
+1652;Predators;2010;Nimród Antal;(Action,Adventure,Sci-Fi,Thriller);40000000;6.4;Predators
+1653;Night and Day;2010;James Mangold;(Action,Comedy,Romance);117000000;6.3;Knight and Day
+1654;Mother;2010;Joon-ho Bong;(Crime,Drama,Mystery,Thriller);5000000;7.8;Madeo
+1655;Alice au Pays des Merveilles;2010;Tim Burton;(Adventure,Family,Fantasy);200000000;6.5;Alice in Wonderland
+1656;My Name is Bruce;2010;Bruce Campbell;(Comedy,Fantasy);1500000;6.3;My Name Is Bruce
+1657;La Horde;2010;Yannick Dahan;(Horror); ;5.9;La horde
+1658;Salt;2010;Phillip Noyce;(Action,Crime,Mystery,Thriller);110000000;6.4;Salt
+1659;Paranormal Activity 2;2010;Tod Williams;(Horror);3000000;5.7;Paranormal Activity 2
+1660;The Ghost Writer;2010;Roman Polanski;(Mystery,Thriller);45000000;7.2;The Ghost Writer
+1661;Escapade fatale;2010;David Twohy;(Adventure,Mystery,Thriller);14000000;6.5;A Perfect Getaway
+1662;L Apprenti Sorcier;2010;Max Reichmann;(Short,Fantasy); ;-1.0;L'apprenti sorcier
+1663;City of Life and Death;2010;Chuan Lu;(Drama,History,War);12000000;7.7;Nanjing! Nanjing!
+1664;5cm per Second;2010;Makoto Shinkai;(Animation,Drama,Romance);5000000;7.8;Byôsoku 5 senchimêtoru
+1665;L Effet Papillon 3;2010;Sabrina Van Tassel;(Documentary);€30000;-1.0;L'effet papillon
+1666;Dragons;2010;Dean DeBlois;(Animation,Action,Adventure,Comedy,Family,Fantasy);165000000;8.2;How to Train Your Dragon
+1667;Donkey Punch;2010;Oliver Blackburn;(Crime,Drama,Horror,Thriller);£900000;5.2;Donkey Punch
+1668;Petits suicides entre amis;2010;Goran Dukic;(Comedy,Drama,Fantasy,Romance);1000000;7.4;Wristcutters: A Love Story
+1669;Sans laisser de traces;2010;Grégoire Vigneron;(Crime,Drama,Thriller); ;6.4;Sans laisser de traces
+1670;Fantastic Mr. Fox;2010;Wes Anderson;(Animation,Adventure,Comedy,Crime,Family);40000000;7.8;Fantastic Mr. Fox
+1671;Infestation;2010;Kyle Rankin;(Action,Comedy,Horror,Sci-Fi); ;5.9;Infestation
+1672;Survival of the Dead;2010;George A. Romero;(Horror);4000000;5.0;Survival of the Dead
+1673;Pathology;2010;Marc Schölermann;(Crime,Horror,Thriller);8000000;6.0;Pathology
+1674;Raiponce;2010;Nathan Greno;(Animation,Adventure,Comedy,Family,Fantasy,Musical,Romance);260000000;7.8;Tangled
+1675;The Killer Inside Me;2010;Michael Winterbottom;(Crime,Drama,Thriller);13000000;6.1;The Killer Inside Me
+1676;Top Cops;2010;Kevin Smith;(Action,Comedy,Crime);37000000;5.6;Cop Out
+1677;Presume coupable;2010;Peter Hyams;(Crime,Drama,Mystery,Thriller);25000000;5.9;Beyond a Reasonable Doubt
+1678;The Crazies;2010;Breck Eisner;(Horror,Thriller);20000000;6.5;The Crazies
+1679;Les 3 Royaumes, la resurrection du Dragon;2010;Daniel Lee;(Action,Drama,History,War);25000000;6.2;San guo zhi jian long xie jia
+1680;A Serious Man;2010;Ethan Coen;(Comedy,Drama);7000000;7.0;A Serious Man
+1681;Tete de turc;2010;Pascal Elbé;(Crime,Drama,Thriller);€5500000;6.1;Tête de turc
+1682;Scott Pilgrim;2010;Edgar Wright;(Action,Comedy,Fantasy,Romance);60000000;7.5;Scott Pilgrim vs. the World
+1683;The American;2010;Anton Corbijn;(Crime,Drama,Thriller);20000000;6.3;The American
+1684;No Limit;2010;Gregor Jordan;(Drama,Thriller);15000000;7.1;Unthinkable
+1685;Le Royaume de Ga'Hoole  la legende des gardiens;2010;Zack Snyder;(Animation,Action,Adventure,Family,Fantasy);80000000;7.0;Legend of the Guardians: The Owls of Ga'Hoole
+1686;Pontypool;2010;Bruce McDonald;(Fantasy,Horror);1500000;6.7;Pontypool
+1687;Kiss and Kill;2010;Jesús Franco;(Adventure,Crime); ;4.6;The Blood of Fu Manchu
+1688;La Disparition d'Alice Creed;2010;J Blakeson;(Crime,Thriller);800000;6.8;The Disappearance of Alice Creed
+1689;La Merditude des choses;2010;Felix van Groeningen;(Comedy,Drama); ;7.4;De helaasheid der dingen
+1690;The Last Day;2010;Valeri Milev;(Action,Horror);9500000;5.0;Re-Kill
+1691;Shuttle;2010;Edward Anderson;(Crime,Drama,Mystery,Thriller);2400000;5.7;Shuttle
+1692;Le Monde de Narnia : L'Odyssee du Passeur d'aurore;2010;Michael Apted;(Adventure,Family,Fantasy);155000000;6.3;The Chronicles of Narnia: The Voyage of the Dawn Treader
+1693;Red;2010;Robert Schwentke;(Action,Comedy,Crime,Thriller);58000000;7.1;RED
+1694;La Machine a demonter le temps;2010;Steve Pink;(Comedy,Sci-Fi);36000000;6.4;Hot Tub Time Machine
+1695;Dolan s Cadillac;2010;Jeff Beesley;(Crime,Thriller);10000000;5.7;Dolan's Cadillac
+1696;The Losers;2010;Sylvain White;(Action,Crime,Drama,Mystery,Thriller);25000000;6.4;The Losers
+1697;Infectes;2010;David Pastor;(Drama,Horror,Sci-Fi,Thriller); ;6.0;Carriers
+1698;Doghouse;2010;Jake West;(Comedy,Horror,Sci-Fi);4000000;6.1;Doghouse
+1699;Cyrus;2010;Jay Duplass;(Comedy,Drama,Romance);7000000;6.3;Cyrus
+1700;From Paris With Love;2010;Pierre Morel;(Action,Thriller);52000000;6.5;From Paris with Love
+1701;The Karate Kid;2010;John G. Avildsen;(Action,Drama,Family,Sport);8000000;7.2;The Karate Kid
+1702;Mr. Nobody;2010;Jaco Van Dormael;(Drama,Fantasy,Romance,Sci-Fi);47000000;7.9;Mr. Nobody
+1703;Mon beaupere et nous;2010; ; ; ;-1.0; 
+1704;Welcome to the Rileys;2010;Jake Scott;(Drama); ;7.0;Welcome to the Rileys
+1705;Long Weekend;2010;Jamie Blanks;(Drama,Horror,Thriller); ;5.2;Long Weekend
+1706;A bout portant;2010;Jean-Baptiste Léonetti;(Thriller); ;5.6;Beyond the Reach
+1707;Piranha 3D;2010;Alexandre Aja;(Comedy,Horror);24000000;5.5;Piranha 3D
+1708;Paintball;2010;Daniel Benmayor;(Action,Thriller); ;3.9;Paintball
+1709;Nine Dead;2010;Chris Shadley;(Crime,Drama,Horror,Mystery,Thriller);2000000;5.5;Nine Dead
+1710;La Foret contreattaque;2010;Pierre-Luc Miville;(Short,Sci-Fi);CAD200;-1.0;Charest contre-attaque
+1711;We are 4 lions;2010; ; ; ;-1.0; 
+1712;La Princesse et la Grenouille;2010;Ron Clements;(Animation,Adventure,Comedy,Family,Fantasy,Musical,Romance);105000000;7.1;The Princess and the Frog
+1713;The Backwoods;2010;Koldo Serra;(Drama,Horror,Thriller);€3600000;5.7;Bosque de sombras
+1714;Bad Lieutenant : Escale a la NouvelleOrleans;2010; ; ; ;-1.0; 
+1715;Autopsy;2010;Adam Gierasch;(Horror,Mystery,Thriller);2000000;5.0;Autopsy
+1716;The Social Network;2010;David Fincher;(Biography,Drama);40000000;7.7;The Social Network
+1717;Insoupconnable;2010;Christopher Menaul;(Crime,Drama,Thriller); ;7.2;Above Suspicion
+1718;Zack et Miri font un porno;2010;Kevin Smith;(Comedy,Romance);24000000;6.6;Zack and Miri Make a Porno
+1719;Evangelion : 2.0 You Can;2010;Masayuki;(Animation,Action,Drama,Sci-Fi); ;8.1;Evangerion shin gekijôban: Ha
+1720;8th Wonderland;2010;Nicolas Alberny;(Drama,Thriller);€1800000;6.4;8th Wonderland
+1721;Percy Jackson, le voleur de foudre;2010;Chris Columbus;(Adventure,Family,Fantasy);95000000;5.9;Percy Jackson & the Olympians: The Lightning Thief
+1722;Inside;2010;Alexandre Bustillo;(Drama,Horror);3000000;6.9;À l'intérieur
+1723;Crazy Heart;2010;Scott Cooper;(Drama,Music,Romance);7000000;7.3;Crazy Heart
+1724;Cash;2010;James Mangold;(Biography,Drama,Music,Romance);28000000;7.9;Walk the Line
+1725;Enter the Void;2010;Gaspar Noé;(Drama,Fantasy);€13000000;7.3;Enter the Void
+1726;The Guard Post;2010;Su-chang Kong;(Horror);1000000;6.0;GP506
+1727;Mise a prix 2;2010;P.J. Pesce;(Action,Comedy,Crime,Thriller);8000000;5.1;Smokin' Aces 2: Assassins' Ball
+1728;Nine;2010;Rob Marshall;(Drama,Musical,Romance);80000000;5.8;Nine
+1729;Crime d amour;2010;Alain Corneau;(Crime,Mystery,Romance,Thriller); ;6.5;Crime d'amour
+1730;Les Runaways;2010;Floria Sigismondi;(Biography,Drama,Music);10000000;6.6;The Runaways
+1731;Gigantic;2010;Meg LeFauve;(Animation,Adventure,Family,Fantasy,Musical); ;-1.0;Gigantic
+1732;Green Zone;2010;Paul Greengrass;(Action,Drama,Thriller,War);100000000;6.9;Green Zone
+1733;Simon Werner a disparu...;2010;Fabrice Gobert;(Drama,Mystery,Thriller); ;6.4;Simon Werner a disparu...
+1734;Planete 51;2010;Jorge Blanco;(Animation,Adventure,Comedy,Family,Sci-Fi);70000000;6.1;Planet 51
+1735;Night of the Demons;2010;Kevin Tenney;(Comedy,Fantasy,Horror);1200000;6.3;Night of the Demons
+1736;Mange, prie, aime;2010;Ryan Murphy;(Drama,Romance);60000000;5.7;Eat Pray Love
+1737;Daybreakers;2010;Michael Spierig;(Action,Horror,Sci-Fi,Thriller);20000000;6.5;Daybreakers
+1738;Takers;2010;John Luessenhop;(Action,Crime,Thriller);20000000;6.2;Takers
+1739;Phenomenes paranormaux;2010;Olatunde Osunsanmi;(Mystery,Sci-Fi,Thriller);10000000;5.9;The Fourth Kind
+1740;Moi, moche et mechant;2010;Pierre Coffin;(Animation,Adventure,Comedy,Family);69000000;7.7;Despicable Me
+1741;Outrage;2010;Takeshi Kitano;(Crime,Drama); ;6.8;Autoreiji
+1742;Lovely Bones;2010;Peter Jackson;(Drama,Fantasy,Thriller);65000000;6.7;The Lovely Bones
+1743;Achille et la Tortue;2010;Takeshi Kitano;(Comedy,Drama); ;7.4;Akiresu to kame
+1744;Goemon, The Freedom Fighter;2010;Kazuaki Kiriya;(Action,Drama);9000000;6.7;Goemon
+1745;Kaboom;2010;Gregg Araki;(Comedy,Mystery,Romance,Sci-Fi); ;5.7;Kaboom
+1746;Les Temoins du mal;2010;Elio Quiroga;(Horror,Mystery);€1300000;5.3;No-Do
+1747;All the Boys Love Mandy Lane;2010;Jonathan Levine;(Horror);750000;5.6;All the Boys Love Mandy Lane
+1748;Blood and Bone;2010;Ben Ramsey;(Action,Drama);3700000;6.7;Blood and Bone
+1749;Detour mortel 3;2010;Declan O'Brien;(Horror); ;4.6;Wrong Turn 3: Left for Dead
+1750;Que justice soit faite;2010;F. Gary Gray;(Crime,Drama,Thriller);50000000;7.4;Law Abiding Citizen
+1751;The House of the Devil;2010;Ti West;(Horror);900000;6.4;The House of the Devil
+1752;La Princesse de Montpensier;2010;Bertrand Tavernier;(Action,Drama,History,Romance); ;6.5;La princesse de Montpensier
+1753;Millenium 2  La Fille qui revait d'un bidon d'essence et d'u;2010; ; ; ;-1.0; 
+1754;Rubber;2010;Quentin Dupieux;(Comedy,Fantasy,Horror);500000;5.8;Rubber
+1755;Vexille;2010;Fumihiko Sori;(Animation,Action,Sci-Fi); ;6.9;Bekushiru: 2077 Nihon sakoku
+1756;Death Bell;2010;Chang;(Horror,Thriller); ;5.7;Gosa
+1757;Bliss;2010;Drew Barrymore;(Drama,Sport);15000000;6.9;Whip It
+1758;Le Bruit des glacons;2010;Bertrand Blier;(Comedy,Drama); ;6.2;Le bruit des glaçons
+1759;Cher John;2010;Lasse Hallström;(Drama,Romance,War);25000000;6.3;Dear John
+1760;Chatroom;2010;Hideo Nakata;(Drama,Thriller); ;5.6;Chatroom
+1761;Donnie Darko 2  L'heritage du sang;2010;Chris Fisher;(Mystery,Sci-Fi,Thriller);4000000;3.6;S. Darko
+1762;No Mercy;2010;Richard Pearce;(Action,Crime,Drama,Romance,Thriller); ;5.6;No Mercy
+1763;Les Anges de Boston 2;2010;Troy Duffy;(Action,Crime,Thriller);8000000;6.3;The Boondock Saints II: All Saints Day
+1764;Monsters;2010;Gareth Edwards;(Drama,Sci-Fi,Thriller);500000;6.4;Monsters
+1765;Oncle Boonmee;2010;Apichatpong Weerasethakul;(Short); ;6.9;A Letter to Uncle Boonmee
+1766;The Grudge 3;2010;Toby Wilkins;(Horror,Mystery,Thriller); ;4.7;The Grudge 3
+1767;Notre Jour Viendra;2010;Romain Gavras;(Drama); ;6.2;Notre jour viendra
+1768;5150, rue des Ormes;2010;Éric Tessier;(Drama,Horror,Thriller); ;6.7;5150 rue des Ormes
+1769;Brothers;2010;Jim Sheridan;(Drama,Thriller,War);26000000;7.1;Brothers
+1770;Les Chevres du Pentagone;2010;Grant Heslov;(Comedy,War);25000000;6.2;The Men Who Stare at Goats
+1771;Toy Story 3;2010;Lee Unkrich;(Animation,Adventure,Comedy,Family,Fantasy);200000000;8.3;Toy Story 3
+1772;KickAss;2010;Julien Diaz;(Comedy); ;6.5;Kickass
+1773;Vous allez rencontrer un bel et sombre inconnu;2010;Woody Allen;(Comedy,Drama,Romance);22000000;6.3;You Will Meet a Tall Dark Stranger
+1774;Freddy  Les Griffes de la nuit;2010;Wes Craven;(Horror);1800000;7.5;A Nightmare on Elm Street
+1775;Train;2010;Gideon Raff;(Horror,Thriller); ;4.8;Train
+1776;Soul Kitchen;2010;Fatih Akin;(Comedy,Drama);€4000000;7.3;Soul Kitchen
+1777;Splice;2010;Vincenzo Natali;(Drama,Horror,Sci-Fi);26000000;5.8;Splice
+1778;Killshot;2010;John Madden;(Crime,Drama,Thriller); ;6.1;Killshot
+1779;Hors de controle;2010;Martin Campbell;(Crime,Drama,Mystery,Thriller);80000000;6.6;Edge of Darkness
+1780;L'Illusionniste;2010;Neil Burger;(Drama,Mystery,Romance,Thriller);16000000;7.6;The Illusionist
+1781;Bright Star;2010;Jane Campion;(Biography,Drama,Romance);8500000;7.0;Bright Star
+1782;Skyline;2010;Colin Strause;(Action,Sci-Fi,Thriller);10000000;4.4;Skyline
+1783;Mesures exceptionnelles;2010;Tom Vaughan;(Drama);31000000;6.5;Extraordinary Measures
+1784;Highlander : soif de vengeance;2010;Yoshiaki Kawajiri;(Animation,Action,Fantasy,Romance,Sci-Fi); ;6.9;Highlander: The Search for Vengeance
+1785;Biutiful;2010;Alejandro G. Iñárritu;(Drama,Romance); ;7.5;Biutiful
+1786;Twelve;2010;Joel Schumacher;(Action,Crime,Drama,Thriller); ;5.7;Twelve
+1787;Le Chasseur de primes;2010;Andy Tennant;(Action,Comedy,Romance);40000000;5.5;The Bounty Hunter
+1788;Robin des Bois;2010;Wolfgang Reitherman;(Animation,Adventure,Comedy,Family,Romance);1500000;7.6;Robin Hood
+1789;Dans ses yeux;2010;Juan José Campanella;(Drama,Mystery,Thriller);2000000;8.2;El secreto de sus ojos
+1790;American Trip;2010;Nicholas Stoller;(Comedy,Music); ;6.4;Get Him to the Greek
+1791;Un seul deviendra invincible : redemption;2010;Isaac Florentine;(Action,Crime,Drama,Sport);3000000;7.5;Undisputed III: Redemption
+1792;Saw 3D, chapitre final;2010;Kevin Greutert;(Horror,Mystery);20000000;5.6;Saw 3D
+1793;Inception;2010;Christopher Nolan;(Action,Adventure,Sci-Fi,Thriller);160000000;8.8;Inception
+1794;Shutter Island;2010;Martin Scorsese;(Mystery,Thriller);80000000;8.1;Shutter Island
+1795;Agora;2010;Alejandro Amenábar;(Adventure,Drama,History,Romance);70000000;7.2;Agora
+1796;The Tourist;2010;Florian Henckel von Donnersmarck;(Action,Romance,Thriller);100000000;6.0;The Tourist
+1797;Crazy Night;2010;Shawn Levy;(Comedy,Crime,Romance,Thriller);55000000;6.3;Date Night
+1798;Twilight  Chapitre 3 : hesitation;2010;David Slade;(Adventure,Drama,Fantasy,Romance);68000000;4.9;The Twilight Saga: Eclipse
+1799;Droit de passage;2010;Wayne Kramer;(Crime,Drama);19000000;6.8;Crossing Over
+1800;The Tortured;2010;Robert Lieberman;(Horror,Thriller);8500000;5.5;The Tortured
+1801;Copains pour toujours;2010;Dennis Dugan;(Comedy);80000000;6.0;Grown Ups
+1802;A Single Man;2010;Tom Ford;(Drama,Romance);7000000;7.6;A Single Man
+1803;Amer;2010;Hélène Cattet;(Horror,Thriller); ;6.3;Amer
+1804;All About Steve;2010;Phil Traill;(Comedy,Romance);15000000;4.8;All About Steve
+1805;Gainsbourg;2010;Joann Sfar;(Biography,Drama,Music); ;6.9;Gainsbourg (Vie héroïque)
+1806;Chloe;2010;Atom Egoyan;(Drama,Mystery,Romance,Thriller);11000000;6.3;Chloe
+1807;Blindes;2010;Nimród Antal;(Action,Crime,Thriller);27000000;5.7;Armored
+1808;Sky Crawlers, l armee du ciel;2010; ; ; ;-1.0; 
+1809;Des hommes et des dieux;2010;Xavier Beauvois;(Drama);€4000000;7.2;Des hommes et des dieux
+1810;Vic le viking;2010;Michael Herbig;(Action,Adventure,Comedy,Family);€8000000;5.6;Wickie und die starken Männer
+1811;Parasites;2010;Mark A. Lewis;(Horror,Sci-Fi,Thriller); ;5.2;The Thaw
+1812;Ondine;2010;Neil Jordan;(Drama,Mystery,Romance);12000000;6.8;Ondine
+1813;Just Another Love Story;2010;Ole Bornedal;(Crime,Drama,Thriller); ;7.3;Kærlighed på film
+1814;Septieme lune;2010;Eduardo Sánchez;(Horror,Thriller); ;4.7;Seventh Moon
+1815;Wall Street : l argent ne dort jamais;2010; ; ; ;-1.0; 
+1816;Pirates de Langkasuka;2010;Nonzee Nimibutr;(Action,Adventure,Fantasy,History);THB 150000000;5.7;Puen yai jon salad
+1817;Trop belle!;2010;Jim Field Smith;(Comedy,Romance);20000000;6.4;She's Out of My League
+1818;100 Feet;2010;Eric Red;(Horror,Mystery,Thriller);10000000;5.5;100 Feet
+1819;L'Agence tous risques;2010;Joe Carnahan;(Action,Adventure,Comedy,Crime,Thriller);110000000;6.8;The A-Team
+1820;Cargo;2010;Ivan Engler;(Mystery,Sci-Fi,Thriller);CHF 4500000;6.2;Cargo
+1821;Iron Man 2;2010;Jon Favreau;(Action,Adventure,Sci-Fi);200000000;7.0;Iron Man 2
+1822;Breathless;2010;Alfred Hitchcock;(Action,Adventure,Crime,Mystery,Thriller);3101000;8.4;North by Northwest
+1823;La Meute;2010;Franck Richard;(Horror); ;4.8;La meute
+1824;The Housemaid;2010;Sang-soo Im;(Drama,Thriller); ;6.5;Hanyo
+1825;Invictus;2010;Clint Eastwood;(Biography,Drama,History,Sport);60000000;7.4;Invictus
+1826;Wolfman;2010;Joe Johnston;(Drama,Fantasy,Horror,Thriller);150000000;5.8;The Wolfman
+1827;Storm Warriors;2010;Russell Lake;(Reality-TV); ;-1.0;Storm Warriors
+1828;Dog Pound;2010;Kim Chapiron;(Drama); ;7.0;Dog Pound
+1829;600 Kilos d or pur;2010;Éric Besnard;(Adventure); ;4.5;600 kilos d'or pur
+1830;Ninja Assassin;2010;James McTeigue;(Action,Crime,Thriller);40000000;6.4;Ninja Assassin
+1831;Captifs;2010;Bill Eagles;(Drama,Mystery,Thriller); ;6.9;Persons Unknown
+1832;Halloween 2;2010;Rick Rosenthal;(Horror);2500000;6.5;Halloween II
+1833;Le Livre d Eli;2010;Nicolas Bueno;(Short); ;-1.0;Le livre de Lila
+1834;Pulse 2;2010;Joel Soisson;(Drama,Horror,Sci-Fi); ;3.6;Pulse 2: Afterlife
+1835;Les Chroniques du dragon;2010;Pitof;(Adventure,Drama,Fantasy);3000000;4.4;Fire & Ice
+1836;Feast 2;2010;John Gulager;(Action,Comedy,Horror,Thriller);3200000;6.4;Feast
+1837;Quartier lointain;2010;Sam Garbarski;(Drama,Fantasy);18000000;7.0;Quartier lointain
+1838;Le Dernier Exorcisme;2010;Daniel Stamm;(Drama,Horror,Thriller);1800000;5.6;The Last Exorcism
+1839;Killing Room;2010;Jonathan Liebesman;(Mystery,Thriller); ;5.8;The Killing Room
+1840;Yatterman;2010;Takashi Miike;(Action,Comedy,Fantasy,Musical); ;6.1;Yattâman
+1841;Cabin Fever 2;2010;Ti West;(Comedy,Horror);10000000;4.3;Cabin Fever 2: Spring Fever
+1842;Esther;2010;Jaume Collet-Serra;(Horror,Mystery,Thriller); ;7.0;Orphan
+1843;Remember Me;2010;Allen Coulter;(Drama,Romance);16000000;7.2;Remember Me
+1844;Cold Prey;2010;Roar Uthaug;(Drama,Horror,Mystery,Thriller); ;6.4;Fritt vilt
+1845;La Comtesse;2010;Julie Delpy;(Biography,Drama,History,Horror,Thriller);8500000;6.3;The Countess
+1846;Harry Potter et les reliques de la mort  partie 1;2010;David Yates;(Adventure,Family,Fantasy,Mystery);£150000000;7.7;Harry Potter and the Deathly Hallows: Part 1
+1847;The Blind Side;2010;John Lee Hancock;(Biography,Drama,Sport);29000000;7.7;The Blind Side
+1848;Les Trois prochains jours;2010;Paul Haggis;(Crime,Drama,Romance,Thriller);35000000;7.4;The Next Three Days
+1849;Les Anges de Boston;2010;Troy Duffy;(Action,Crime,Thriller);7000000;7.9;The Boondock Saints
+1850;Unstoppable;2010;Tony Scott;(Action,Thriller);100000000;6.8;Unstoppable
+1851;Prince of Persia : les sables du temps;2010;Mike Newell;(Action,Adventure,Fantasy,Romance);200000000;6.6;Prince of Persia: The Sands of Time
+1852;Les Sept Jours du Talion;2010;Daniel Grou;(Crime,Drama,Horror,Thriller);CAD3400000;6.5;Les 7 jours du talion
+1853;Fair Game;2010;Doug Liman;(Biography,Drama,Thriller);22000000;6.8;Fair Game
+1854;Machete;2010;Ethan Maniquis;(Action,Crime,Thriller);10500000;6.7;Machete
+1855;Love and autres drogues;2010;Edward Zwick;(Comedy,Drama,Romance);30000000;6.7;Love & Other Drugs
+1856;Lesbian Vampire Killers;2010;Phil Claydon;(Action,Comedy,Fantasy,Horror); ;5.2;Lesbian Vampire Killers
+1857;Le Guerrier Silencieux, Valhalla Rising;2010;Nicolas Winding Refn;(Adventure,Drama,Fantasy);£4000000;6.0;Valhalla Rising
+1858;Cracks;2010;Jordan Scott;(Drama,Thriller); ;6.7;Cracks
+1859;Laissemoi entrer;2010; ; ; ;-1.0; 
+1860;Hierro, l'ile du mal;2010; ; ; ;-1.0; 
+1861;Il etait une fois dans le Queens;2010;Dito Montiel;(Crime,Drama); ;7.1;A Guide to Recognizing Your Saints
+1862;Expendables : unite speciale;2010;Sylvester Stallone;(Action,Adventure,Thriller);80000000;6.5;The Expendables
+1863;Informers;2010;Gregor Jordan;(Crime,Drama,Thriller);18000000;5.1;The Informers
+1864;The Invention of Lying;2010;Ricky Gervais;(Comedy,Fantasy,Romance);18500000;6.4;The Invention of Lying
+1865;Djinns;2010;Hugues Martin;(Horror,Mystery); ;5.2;Djinns
+1866;Dans ton sommeil;2010;Caroline du Potet;(Horror,Thriller);€1400000;5.7;Dans ton sommeil
+1867;Tell Tale;2010;Michael Cuesta;(Drama,Horror,Sci-Fi,Thriller);12000000;5.5;Tell-Tale
+1868;L'Eclair noir;2010;Dmitriy Kiselev;(Action,Sci-Fi,Thriller);15000000;5.9;Chernaya Molniya
+1869;Sex and the City 2;2010;Michael Patrick King;(Comedy,Drama,Romance);100000000;4.3;Sex and the City 2
+1870;My Own Love Song;2010;Olivier Dahan;(Comedy,Drama);16000000;5.8;My Own Love Song
+1871;Le Cas 39;2010;Christian Alvart;(Horror,Mystery,Thriller);27000000;6.2;Case 39
+1872;Valentine s Day;2010;Garry Marshall;(Comedy,Romance);52000000;5.7;Valentine's Day
+1873;Le Dernier Maitre de l'Air;2010;M. Night Shyamalan;(Action,Adventure,Family,Fantasy);150000000;4.2;The Last Airbender
+1874;Defendor;2010;Peter Stebbings;(Comedy,Crime,Drama);3500000;6.8;Defendor
+1875;Dream;2010;Ki-duk Kim;(Drama,Fantasy,Mystery,Romance); ;6.6;Bi-mong
+1876;Mammuth;2010;Benoît Delépine;(Comedy,Drama);€2000000;6.1;Mammuth
+1877;Open Graves;2010;Álvaro de Armiñán;(Horror,Thriller);6500000;4.2;Open Graves
+1878;In the Air;2010;Jason Reitman;(Drama,Romance);25000000;7.4;Up in the Air
+1879;Pulse 3;2010;Joel Soisson;(Horror,Sci-Fi); ;3.8;Pulse 3
+1880;Les Aventures Extraordinaires d'Adele BlancSec;2010;Luc Besson;(Action,Adventure,Fantasy,Mystery);€25000000;6.3;Les aventures extraordinaires d'Adèle Blanc-Sec
+1881;L'Immortel;2010;Richard Berry;(Action,Crime,Thriller);€18000000;6.7;L'immortel
+1882;The Collector;2010;Marcus Dunstan;(Horror);6000000;6.4;The Collector
+1883;I Love You Philip Morris;2010;Glenn Ficarra;(Biography,Comedy,Crime,Drama,Romance);13000000;6.6;I Love You Phillip Morris
+1884;Mordsmoi sans hesitation;2010; ; ; ;-1.0; 
+1885;Soeurs de sang;2010;Stewart Hendler;(Horror,Mystery);16000000;5.1;Sorority Row
+1886;The Marine 2;2010;Roel Reiné;(Action,Drama,Thriller); ;5.0;The Marine 2
+1887;Cellule 211;2010;Daniel Monzón;(Action,Drama,Thriller);5700000;7.7;Celda 211
+1888;Millenium 3  La Reine dans le palais des courants d'air;2010;Daniel Alfredson;(Crime,Drama,Thriller);€4000000;7.3;Luftslottet som sprängdes
+1889;Snipers, tireurs d'elite;2010;Clint Eastwood;(Action,Biography,Drama,History,Thriller,War);58800000;7.3;American Sniper
+1890;Buried;2010;Rodrigo Cortés;(Drama,Mystery,Thriller);3000000;7.0;Buried
+1891;Merantau;2010;Gareth Evans;(Action,Drama); ;6.8;Merantau
+1892;Nous sommes la nuit;2010;Dennis Gansel;(Drama,Fantasy,Horror,Romance);€6500000;6.3;Wir sind die Nacht
+1893;Southland Tales;2009;Richard Kelly;(Comedy,Mystery,Sci-Fi,Thriller);17000000;5.5;Southland Tales
+1894;Funny People;2009;Judd Apatow;(Comedy,Drama);75000000;6.4;Funny People
+1895;Yes Man;2009;Peyton Reed;(Comedy,Romance);70000000;6.8;Yes Man
+1896;L Assistant du vampire;2009;Paul Weitz;(Action,Adventure,Fantasy,Thriller);40000000;5.9;Cirque du Freak: The Vampire's Assistant
+1897;Coraline;2009;Henry Selick;(Animation,Family,Fantasy);60000000;7.7;Coraline
+1898;Le Ruban Blanc;2009;Michael Haneke;(Drama,Mystery);€12000000;7.8;Das weiße Band - Eine deutsche Kindergeschichte
+1899;Push;2009;Lee Daniels;(Drama);10000000;7.3;Precious
+1900;Manhunt;2009;John Woo;(Action);30000000;-1.0;Manhunt
+1901;Le Secret de Moonacre;2009;Gabor Csupo;(Adventure,Family,Fantasy,Romance);32000000;6.2;The Secret of Moonacre
+1902;Vendredi 13;2009;Breck Eisner;(Horror); ;-1.0;Friday the 13th
+1903;(500) Jours ensemble;2009;Marc Webb;(Comedy,Drama,Romance);7500000;7.7;(500) Days of Summer
+1904;Sword of the Stranger;2009;Masahiro Andô;(Animation,Action,Adventure); ;7.8;Stranger: Mukô hadan
+1905;Crows Zero;2009;Takashi Miike;(Action,Thriller); ;7.1;Kurôzu zero
+1906;The Chaser;2009;Hong-jin Na;(Action,Crime,Thriller); ;7.9;Chugyeogja
+1907;Monstres contre Aliens;2009;Rob Letterman;(Animation,Action,Adventure,Comedy,Family,Sci-Fi);175000000;6.5;Monsters vs. Aliens
+1908;Mutant Chronicles;2009;Simon Hunter;(Action,Adventure,Sci-Fi);25000000;5.2;Mutant Chronicles
+1909;Splinter;2009;Toby Wilkins;(Horror,Sci-Fi,Thriller); ;6.1;Splinter
+1910;A Chinese Tall Story;2009;Jeffrey Lau;(Action,Comedy,Drama,Fantasy,Romance,Sci-Fi); ;5.0;Qing dian da sheng
+1911;Scar 3D;2009;Jed Weintrob;(Crime,Horror,Thriller); ;4.1;Scar
+1912;Les Passagers;2009;Rodrigo García;(Drama,Mystery,Romance,Thriller);25000000;5.8;Passengers
+1913;Awake;2009;Joby Harold;(Crime,Mystery,Thriller);8600000;6.5;Awake
+1914;Piano Forest;2009;Masayuki Kojima;(Animation,Drama,Music); ;7.2;Piano no mori
+1915;The Lost;2009;Chris Sivertson;(Crime,Drama,Horror,Thriller); ;6.0;The Lost
+1916;Sept vies;2009;Gabriele Muccino;(Drama,Romance);55000000;7.7;Seven Pounds
+1917;2012;2009;Roland Emmerich;(Action,Adventure,Sci-Fi);200000000;5.8;2012
+1918;Che  2eme partie : Guerilla;2009;Steven Soderbergh;(Biography,Drama,History,War);40000000;6.9;Che: Part Two
+1919;La Ville Fantome;2009;David Koepp;(Comedy,Drama,Fantasy,Romance);20000000;6.7;Ghost Town
+1920;Hansel et Gretel;2009;Pil-sung Yim;(Drama,Fantasy,Horror,Mystery,Thriller);4000000;6.8;Henjel gwa Geuretel
+1921;Jeux de pouvoir;2009;Kevin Macdonald;(Crime,Drama,Mystery,Thriller); ;7.1;State of Play
+1922;La Derniere maison sur la gauche;2009;Dennis Iliadis;(Crime,Horror,Thriller);15000000;6.6;The Last House on the Left
+1923;Fighting;2009;Dito Montiel;(Action,Drama,Sport); ;5.6;Fighting
+1924;Clones;2009;Jonathan Mostow;(Action,Sci-Fi,Thriller);80000000;6.3;Surrogates
+1925;Avatar;2009;James Cameron;(Action,Adventure,Fantasy,Sci-Fi);237000000;7.9;Avatar
+1926;Le Soliste;2009;Joe Wright;(Biography,Drama,Music);60000000;6.7;The Soloist
+1927;G.I. Joe  Le reveil du Cobra;2009;Stephen Sommers;(Action,Adventure,Sci-Fi,Thriller);175000000;5.8;G.I. Joe: The Rise of Cobra
+1928;Les Beaux Gosses;2009;Riad Sattouf;(Comedy,Drama,Romance); ;6.4;Les beaux gosses
+1929;La Nuit au musee 2;2009;Shawn Levy;(Adventure,Comedy,Family,Fantasy);150000000;5.9;Night at the Museum: Battle of the Smithsonian
+1930;Harvey Milk;2009;Gus Van Sant;(Biography,Drama,History,Romance);20000000;7.6;Milk
+1931;The Descent : Part 2;2009;Jon Harris;(Adventure,Horror,Thriller); ;5.8;The Descent: Part 2
+1932;A Dirty Carnival;2009;Ha Yoo;(Crime,Drama,Thriller);4700000;7.4;Biyeolhan geori
+1933;Les 3 Royaumes;2009;John Woo;(Action,Adventure,Drama,History,War);CNY 553632000;7.4;Chi bi
+1934;Evangelion : 1.0 You Are;2009; ;(News); ;-1.0;Evangelion 1.01: You Are (Not) Alone
+1935;Solomon Kane;2009;Michael J. Bassett;(Action,Adventure,Fantasy);45000000;6.1;Solomon Kane
+1936;Fast and Furious 4;2009;Justin Lin;(Action,Crime,Thriller);85000000;6.7;Fast & Furious
+1937;Lucky Luke;2009;James Huth;(Adventure,Comedy,Western);€27000000;4.8;Lucky Luke
+1938;MissionG;2009;Roland Joffé;(Adventure,Drama,History);24500000;7.5;The Mission
+1939;Boy A;2009;John Crowley;(Drama); ;7.7;Boy A
+1940;Charleston and Vendetta;2009;Uros Stojanovic;(Comedy,Drama,Fantasy,History,Romance);€4000000;6.9;Carlston za Ognjenku
+1941;L Affaire Farewell;2009;Christian Carion;(Drama,Romance,Thriller);€17500000;7.0;L'affaire Farewell
+1942;Jusqu en enfer;2009; ; ; ;-1.0; 
+1943;Le Fils de Rambow;2009;Garth Jennings;(Action,Adventure,Comedy,Drama,Family);£4000000;7.0;Son of Rambow
+1944;Borderland;2009;Zev Berman;(Crime,Horror,Thriller); ;5.6;Borderland
+1945;L : Change the World;2009;Hideo Nakata;(Crime,Drama,Thriller);10000000;6.3;L: Change the World
+1946;Espio;2009;Pierre Coffin;(Animation,Adventure,Comedy,Family);69000000;7.7;Despicable Me
+1947;Morse;2009;Matt Reeves;(Drama,Fantasy,Horror,Mystery);20000000;7.2;Let Me In
+1948;Slumdog Millionaire;2009;Danny Boyle;(Drama);15000000;8.0;Slumdog Millionaire
+1949;Cineman;2009;Yann Moix;(Comedy,Fantasy,Romance);€22000000;3.0;Cinéman
+1950;The Club;2009;Pablo Larraín;(Drama); ;7.3;El club
+1951;Les Seigneurs de la guerre;2009;Peter Ho-Sun Chan;(Action,Drama,History,Romance,War);40000000;7.1;Tau ming chong
+1952;Solstice;2009;Daniel Myrick;(Horror,Mystery); ;5.4;Solstice
+1953;Far Cry  Warrior;2009;Uwe Boll;(Action,Adventure,Sci-Fi);30000000;3.1;Far Cry
+1954;Dead Man s Shoes;2009;Shane Meadows;(Crime,Drama,Thriller);£695393;7.7;Dead Man's Shoes
+1955;Crazy Lee;2009;Seung-wan Ryoo;(Action,Comedy); ;5.3;Dachimawa Lee
+1956;Stag Night;2009;Peter A. Dowling;(Horror,Thriller);1500000;4.9;Stag Night
+1957;Anges et Demons;2009;Ron Howard;(Mystery,Thriller);150000000;6.7;Angels & Demons
+1958;Very Bad Trip;2009;Todd Phillips;(Comedy);35000000;7.8;The Hangover
+1959;En quarantaine;2009;John Erick Dowdle;(Horror,Sci-Fi,Thriller);12000000;6.0;Quarantine
+1960;L Etrange histoire de Benjamin Button;2009; ; ; ;-1.0; 
+1961;Che  1ere partie : L'Argentin;2009;Steven Soderbergh;(Biography,Drama,History,War);35000000;7.2;Che: Part One
+1962;Frost/Nixon, l'heure de verite;2009;Ron Howard;(Drama);25000000;7.7;Frost/Nixon
+1963;Vengeance;2009;Kenneth Fink;(Drama,Mystery,Thriller); ;7.9;Revenge
+1964;Tempete de boulettes geantes;2009;Phil Lord;(Animation,Comedy,Family,Fantasy,Sci-Fi);100000000;7.0;Cloudy with a Chance of Meatballs
+1965;Public Enemies;2009;Michael Mann;(Biography,Crime,Drama,History,Romance);100000000;7.0;Public Enemies
+1966;Fish Tank;2009;Andrea Arnold;(Drama); ;7.3;Fish Tank
+1967;Crows Zero 2;2009;Takashi Miike;(Action); ;7.3;Kurôzu zero II
+1968;L'Imaginarium du Docteur Parnassus;2009;Terry Gilliam;(Adventure,Fantasy,Mystery);30000000;6.8;The Imaginarium of Doctor Parnassus
+1969;Millenium, le film;2009;Niels Arden Oplev;(Crime,Drama,Mystery,Thriller);13000000;7.8;Män som hatar kvinnor
+1970;Demineurs;2009;Kathryn Bigelow;(Drama,History,Thriller,War);15000000;7.6;The Hurt Locker
+1971;Tetro;2009;Francis Ford Coppola;(Drama);5000000;6.9;Tetro
+1972;The Informant;2009;Julien Leclercq;(Crime,Thriller); ;6.3;Gibraltar
+1973;Mind Game;2009;Masaaki Yuasa;(Animation,Adventure,Comedy,Fantasy); ;7.9;Mind Game
+1974;Saw VI;2009;Kevin Greutert;(Horror,Mystery);11000000;6.0;Saw VI
+1975;The Wrestler;2009;Darren Aronofsky;(Drama,Sport);6000000;7.9;The Wrestler
+1976;Diamant 13;2009;Gilles Béhat;(Action,Crime,Thriller);€6850000;5.2;Diamant 13
+1977;The Proposition;2009;Elizabeth Banks;(Comedy,Romance);6000000;4.3;Movie 43
+1978;Transsiberian;2009;Brad Anderson;(Crime,Drama,Mystery,Thriller);15000000;6.7;Transsiberian
+1979;Paranormal Activity;2009;Oren Peli;(Horror);15000;6.3;Paranormal Activity
+1980;XMen Origins: Wolverine;2009;Gavin Hood;(Action,Adventure,Sci-Fi,Thriller);150000000;6.7;X-Men Origins: Wolverine
+1981;Ne te retourne pas;2009;Marina de Van;(Drama,Horror,Mystery,Thriller);€13000000;5.9;Ne te retourne pas
+1982;La Route;2009;John Hillcoat;(Adventure,Drama);25000000;7.3;The Road
+1983;The Spirit;2009;Frank Miller;(Action,Crime,Fantasy,Thriller);60000000;4.8;The Spirit
+1984;Blackout;2009;Philip Kaufman;(Crime,Drama,Mystery,Thriller);50000000;5.2;Twisted
+1985;Les Condamnes;2009;Scott Wiper;(Action,Crime,Thriller); ;6.1;The Condemned
+1986;Outlander;2009;Metin Hüseyin;(Drama,Romance,Sci-Fi); ;8.5;Outlander
+1987;Pandorum;2009;Christian Alvart;(Action,Horror,Mystery,Sci-Fi,Thriller);33000000;6.8;Pandorum
+1988;Mulberry Street;2009;Jim Mickle;(Horror,Sci-Fi,Thriller);60000;5.6;Mulberry St
+1989;Bronson;2009;Nicolas Winding Refn;(Action,Biography,Crime,Drama); ;7.1;Bronson
+1990;Underworld 3 : le soulevement des Lycans;2009;Patrick Tatopoulos;(Action,Adventure,Fantasy,Sci-Fi,Thriller);35000000;6.6;Underworld: Rise of the Lycans
+1991;Banlieue 13 ultimatum;2009;Patrick Alessandrin;(Action,Crime,Thriller);€12000000;6.5;Banlieue 13: Ultimatum
+1992;Les Noces Rebelles;2009;Sam Mendes;(Drama,Romance);35000000;7.3;Revolutionary Road
+1993;The Fall;2009;Allan Cubitt;(Crime,Drama,Thriller); ;8.2;The Fall
+1994;Redbelt;2009;David Mamet;(Drama,Sport);7000000;6.8;Redbelt
+1995;Le Vilain;2009;Albert Dupontel;(Comedy); ;6.3;Le vilain
+1996;Des idiots et des anges;2009;Bill Plympton;(Animation,Comedy,Drama,Fantasy);125000;7.1;Idiots and Angels
+1997;Les Faucheurs;2009;Dario Piana;(Horror,Thriller); ;5.6;The Deaths of Ian Stone
+1998;Catacombes;2009;John Erick Dowdle;(Fantasy,Horror,Mystery,Thriller);5000000;6.1;As Above, So Below
+1999;Rec 2;2009;Jaume Balagueró;(Horror);5600000;6.6;[Rec]2
+2000;Rapt;2009;Lucas Belvaux;(Drama); ;6.7;Rapt
+2001;Ultimate Game;2009;Mark Neveldine;(Action,Sci-Fi,Thriller);50000000;5.8;Gamer
+2002;Blood : The Last Vampire;2009;Chris Nahon;(Action,Horror,Thriller);30000000;5.3;Blood: The Last Vampire
+2003;The Reader;2009;Stephen Daldry;(Drama,Romance);32000000;7.6;The Reader
+2004;The Signal;2009;William Eubank;(Sci-Fi,Thriller);4000000;6.1;The Signal
+2005;The Box;2009;Richard Kelly;(Drama,Fantasy,Mystery,Thriller);16000000;5.6;The Box
+2006;Mary et Max;2009;Max Linder;(Short,Comedy); ;6.0;Max et le mari jaloux
+2007;Volt, star malgre lui;2009;Byron Howard;(Animation,Adventure,Comedy,Drama,Family);150000000;6.9;Bolt
+2008;Dans la brume electrique;2009;Bertrand Tavernier;(Crime,Drama,Mystery,Thriller); ;6.1;In the Electric Mist
+2009;Predictions;2009;Alex Proyas;(Drama,Mystery,Sci-Fi,Thriller);50000000;6.2;Knowing
+2010;Lovedeath;2009;Ryûhei Kitamura;(Action); ;6.5;LoveDeath
+2011;Midnight Meat Train;2009;Ryûhei Kitamura;(Fantasy,Horror,Mystery);15000000;6.1;The Midnight Meat Train
+2012;Black;2009;Sanjay Leela Bhansali;(Drama);INR 180000000;8.3;Black
+2013;Waz;2009;Tom Shankland;(Crime,Drama,Horror,Thriller);£5000000;5.7;w Delta z
+2014;Lazarus Project;2009;John Glenn;(Drama,Mystery,Thriller); ;6.2;The Lazarus Project
+2015;Hors du temps;2009;Robert Schwentke;(Drama,Fantasy,Romance,Sci-Fi);39000000;7.1;The Time Traveler's Wife
+2016;Trahison;2009;Jeffrey Nachmanoff;(Action,Crime,Drama,Thriller);22000000;7.0;Traitor
+2017;Lahaut;2009;Laurent Tirard;(Comedy,Romance); ;6.3;Un homme à la hauteur
+2018;Les Cavaliers de l'Apocalypse;2009;Jonas Åkerlund;(Crime,Drama,Mystery,Thriller);20000000;5.6;Horsemen
+2019;Lascars;2009;Emmanuel Klotz;(Animation,Comedy);€10000000;7.0;Lascars
+2020;Arthur et La Vengeance de Maltazard;2009;Luc Besson;(Animation,Adventure,Family,Fantasy);€65000000;5.3;Arthur et la vengeance de Maltazard
+2021;Les Insurges;2009;Edward Zwick;(Action,Drama,History,Thriller,War);32000000;7.2;Defiance
+2022;Transformers 2 : la revanche;2009;Michael Bay;(Action,Adventure,Sci-Fi);200000000;6.0;Transformers: Revenge of the Fallen
+2023;Outpost;2009;Steve Barker;(Action,Horror,Sci-Fi); ;5.9;Outpost
+2024;Gran Torino;2009;Clint Eastwood;(Drama);33000000;8.2;Gran Torino
+2025;20th Century Boys  Chapitre 2 : Le dernier espoir;2009;Yukihiko Tsutsumi;(Drama,Fantasy);20000000;6.5;20-seiki shônen: Dai 2 shô - Saigo no kibô
+2026;Meurtres a la St Valentin 3D;2009;Patrick Lussier;(Horror,Thriller);15000000;5.5;My Bloody Valentine
+2027;Ponyo sur la falaise;2009;Hayao Miyazaki;(Animation,Adventure,Family,Fantasy);34000000;7.7;Gake no ue no Ponyo
+2028;The Punisher : zone de guerre;2009;Lexi Alexander;(Action,Crime,Drama,Thriller);35000000;6.0;Punisher: War Zone
+2029;L Attaque du metro 123;2009; ; ; ;-1.0; 
+2030;Five Minutes of Heaven;2009;Oliver Hirschbiegel;(Drama,Thriller); ;6.7;Five Minutes of Heaven
+2031;Numero 9;2009;Shane Acker;(Animation,Action,Adventure,Drama,Mystery,Sci-Fi,Thriller);30000000;7.1;9
+2032;Coeur d encre;2009;Michel Poulette; ; ;4.6;Coeur de nylon
+2033;Unborn;2009;David S. Goyer;(Drama,Fantasy,Horror,Mystery,Thriller);16000000;4.8;The Unborn
+2034;L'Enquete  The International;2009; ;(Short,Music); ;-1.0;Grace La Rue: The International Star of Song
+2035;Sex Addict;2009;Frank Henenlotter;(Horror); ;4.7;Bad Biology
+2036;The Children;2009;Tom Shankland;(Horror,Mystery,Thriller); ;6.0;The Children
+2037;Twilight  Chapitre 2 : Tentation;2009;Chris Weitz;(Adventure,Drama,Fantasy,Romance);50000000;4.6;The Twilight Saga: New Moon
+2038;20th Century Boys;2009;Yukihiko Tsutsumi;(Adventure,Fantasy,Mystery,Sci-Fi);20000000;6.7;20-seiki shônen: Honkaku kagaku bôken eiga
+2039;a l'origine;2009;Xavier Giannoli;(Drama); ;7.2;À l'origine
+2040;Repo! The Genetic Opera;2009;Darren Lynn Bousman;(Horror,Musical,Sci-Fi);8500000;6.7;Repo! The Genetic Opera
+2041;Le Drole de Noel de Scrooge;2009;Robert Zemeckis;(Animation,Drama,Family,Fantasy);200000000;6.8;A Christmas Carol
+2042;King Rising;2009;Russell Mulcahy;(Action,Adventure,Fantasy); ;3.8;The Scorpion King: Rise of a Warrior
+2043;La Tour audela des nuages;2009; ; ; ;-1.0; 
+2044;OngBak 2, la naissance du dragon;2009; ; ; ;-1.0; 
+2045;K20  L homme aux 20 visages;2009; ; ; ;-1.0; 
+2046;Les Grands Freres;2009;David Wain;(Comedy);28000000;6.9;Role Models
+2047;Hush, en route vers l'enfer;2009;Mark Tonderai;(Horror,Thriller);£1000000;6.0;Hush
+2048;Away We Go;2009;Sam Mendes;(Comedy,Drama,Romance);17000000;7.1;Away We Go
+2049;Bruno;2009;Larry Charles;(Comedy);42000000;5.8;Brüno
+2050;Bienvenue a Zombieland;2009;Ruben Fleischer;(Adventure,Comedy,Horror,Sci-Fi);23600000;7.7;Zombieland
+2051;Destination finale 4;2009;David R. Ellis;(Horror);40000000;5.2;The Final Destination
+2052;Astro Boy;2009;David Bowers;(Animation,Action,Comedy,Family,Sci-Fi);65000000;6.3;Astro Boy
+2053;Watchmen  Les Gardiens;2009;Zack Snyder;(Action,Drama,Mystery,Sci-Fi);130000000;7.6;Watchmen
+2054;Vertige;2009;Abel Ferry;(Adventure,Horror); ;5.6;Vertige
+2055;Un prophete;2009;Jacques Audiard;(Crime,Drama);€12000000;7.9;Un prophète
+2056;Dance of the Dead;2009;Gregg Bishop;(Comedy,Horror); ;5.8;Dance of the Dead
+2057;OSS 117 : Rio ne repond plus;2009;Michel Hazanavicius;(Action,Adventure,Comedy,Crime); ;6.9;OSS 117: Rio ne répond plus
+2058;Timecrimes;2009;Nacho Vigalondo;(Horror,Mystery,Sci-Fi,Thriller);2600000;7.2;Los cronocrímenes
+2059;Le Petit Nicolas;2009;Laurent Tirard;(Comedy,Family); ;7.2;Le petit Nicolas
+2060;Mutants;2009;David Morlet;(Drama,Horror,Sci-Fi); ;5.6;Mutants
+2061;Max et les Maximonstres;2009;Spike Jonze;(Adventure,Drama,Family,Fantasy);100000000;6.8;Where the Wild Things Are
+2062;Brendan et le secret de Kells;2009;Tomm Moore;(Animation,Adventure,Family,Fantasy);€6500000;7.7;The Secret of Kells
+2063;Inglourious Basterds;2009;Quentin Tarantino;(Adventure,Drama,War);75000000;8.3;Inglourious Basterds
+2064;Hotel Woodstock;2009;Ang Lee;(Comedy,Drama,Music);30000000;6.7;Taking Woodstock
+2065;Micmacs a tirelarigot;2009;Jean-Pierre Jeunet;(Action,Comedy,Crime);€27000000;7.2;Mic Macs à Tire-Larigot
+2066;Panique au village;2009;Stéphane Aubier;(Animation,Adventure,Comedy,Family,Fantasy); ;7.5;Panique au village
+2067;Hyper tension 2;2009;Jeff Spoonhower;(Animation,Comedy,Short); ;-1.0;Hypertension
+2068;Twilight  Chapitre 1 : fascination;2009;Anthony Barthélémy;(Comedy); ;-1.0;Twilight - Chapitre 1: fascination
+2069;District 9;2009;Neill Blomkamp;(Action,Sci-Fi,Thriller);30000000;8.0;District 9
+2070;Flashpoint;2009;David Frazee;(Action,Crime,Drama,Thriller); ;7.8;Flashpoint
+2071;L An 1 : des debuts difficiles;2009; ; ; ;-1.0; 
+2072;The Limits of Control;2009;Jim Jarmusch;(Crime,Drama,Mystery,Thriller); ;6.3;The Limits of Control
+2073;Thirst, ceci est mon sang;2009;Chan-wook Park;(Fantasy,Horror);5000000;7.1;Bakjwi
+2074;Antichrist;2009;Lars von Trier;(Drama,Horror);11000000;6.6;Antichrist
+2075;Terminator Renaissance;2009;McG;(Action,Adventure,Sci-Fi);200000000;6.6;Terminator Salvation
+2076;The Square;2009;Jehane Noujaim;(Documentary,Drama,History,News);1500000;8.1;Al midan
+2077;Harry Potter et le Prince de sang mele;2009;David Yates;(Adventure,Family,Fantasy,Mystery);250000000;7.5;Harry Potter and the Half-Blood Prince
+2078;L age de glace 3  Le Temps des dinosaures;2009; ; ; ;-1.0; 
+2079;Star Trek;2009;Marc Daniels;(Action,Adventure,Mystery,Sci-Fi);200000;8.4;Star Trek
+2080;Une arnaque presque parfaite;2009;Rian Johnson;(Adventure,Comedy,Drama,Romance);20000000;6.9;The Brothers Bloom
+2081;Kontroll;2009;Nimród Antal;(Comedy,Crime,Drama,Romance,Thriller);HUF 100000000;7.7;Kontroll
+2082;Night Train;2009;Brian King;(Mystery,Thriller); ;5.7;Night Train
+2083;The Strangers;2009;Hong-jin Na;(Drama,Fantasy,Horror,Mystery,Thriller); ;7.5;Goksung
+2084;Resident Evil : Degeneration;2009;Makoto Kamiya;(Animation,Action,Horror,Sci-Fi,Thriller); ;6.6;Baiohazâdo: Dijenerêshon
+2085;Little New York;2009;James DeMonaco;(Comedy,Crime,Drama); ;5.9;Staten Island
+2086;Une affaire d'Etat;2009;Eric Valette;(Thriller); ;6.4;Une affaire d'état
+2087;Whiteout;2009;Dominic Sena;(Action,Crime,Mystery,Thriller);35000000;5.5;Whiteout
+2088;Walkyrie;2009;Bryan Singer;(Drama,History,Thriller,War);75000000;7.1;Valkyrie
+2089;Le Monde;2009;Sekou Traoré; ; ;-1.0;Dunia
+2090;Far North;2009;Asif Kapadia;(Crime,Drama,Romance,Thriller); ;6.2;Far North
+2091;Dead Snow;2009;Tommy Wirkola;(Comedy,Horror);800000;6.4;Død snø
+2092;Humains;2009;Jacques-Olivier Molon;(Action,Adventure,Horror,Thriller);€6000000;3.4;Humains
+2093;Altered, les survivants;2009; ; ; ;-1.0; 
+2094;Duplicity;2009;Tony Gilroy;(Comedy,Crime,Romance,Thriller);60000000;6.2;Duplicity
+2095;Mensch;2009;Brigitte Drodtloff;(Short,Drama,Family,Mystery); ;8.9;Omul
+2096;Le Beaupere;2009;Bertrand Blier;(Comedy,Drama); ;7.2;Beau-père
+2097;Les Intrus;2009;Charles Guard;(Drama,Horror,Mystery,Thriller); ;6.4;The Uninvited
+2098;Adventureland, job d ete a eviter;2009; ; ; ;-1.0; 
+2099;Jennifer s Body;2009;Karyn Kusama;(Comedy,Fantasy,Horror);16000000;5.1;Jennifer's Body
+2100;Dragonball Evolution;2009;James Wong;(Action,Adventure,Fantasy,Sci-Fi,Thriller);30000000;2.7;Dragonball Evolution
+2101;Choke;2009;Clark Gregg;(Comedy,Drama);3000000;6.5;Choke
+2102;12 Rounds;2009;Renny Harlin;(Action,Crime,Thriller);22000000;5.6;12 Rounds
+2103;The Darkness;2016;Greg McLean;(Horror,Thriller);4000000;4.2;The Darkness
+2104;Les Trolls;2016;Mike Mitchell;(Animation,Adventure,Comedy,Family,Fantasy,Musical);120000000;6.8;Trolls
+2105;Ma Vie De Courgette;2016;Claude Barras;(Animation,Family);€6500000;8.0;Ma vie de Courgette
