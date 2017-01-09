@@ -5,7 +5,7 @@ The aim is to create a database from the 3 .csv files (containing informations a
 
 Method :
 - Database creation with "sqlite3"
-- Files import and data treatment with "pandas"
+- Files import and data treatment with "pandas" (+ "currencyconverter" to convert movie budgets a same currency and "name" to define random names to the anonym users)
 - Data import into database ("sqlite3")
 - Definition of SQL requests and functions used in the graphic interface
 - Creation of the graphic environnemement with "tkinter"
