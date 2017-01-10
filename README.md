@@ -25,5 +25,5 @@ NNSRecommendations(user) to return 10 best recommendations per genre to the user
 (put preferences of the user in paramater, such as randomv() returns, ex: NNSRecommendation(randomv()))
 
 
-N.B. : In each part some functions may seem long (in script) ; as the program is iterating a large number of actions, i tried as much as possible not to use general and predefined procedures (with a minimum number of actions) when a shorter way was clearly identifiable
+N.B. : In each part some functions may seem long (in script) ; as the program is iterating a large number of actions, i tried as much as possible not to use general and predefined procedures (with a minimum number of actions) when a shorter way was clearly identifiable.
 However, i did not merge all parts together in order to understand and modify (if necessary) easily the code
